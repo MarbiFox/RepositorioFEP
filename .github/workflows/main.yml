@@ -48,14 +48,14 @@ jobs:
               esac
 
               SECONDARY_MESSAGE="**Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
-              COMBINED_MESSAGE="${MAIN_MESSAGE}\n\n${SECONDARY_MESSAGE}"
+              COMBINED_MESSAGE="${MAIN_MESSAGE} ${SECONDARY_MESSAGE}"
 
           elif [ "${{ github.event_name }}" == "issue_comment" ]; then
               ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
               ISSUE_TITLE=$(jq -r '.issue.title' $GITHUB_EVENT_PATH)
               ISSUE_URL=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)
               COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
-              COMBINED_MESSAGE="**${ACTOR}** comentó en el issue:\n[${ISSUE_TITLE}](${ISSUE_URL})\n>>> ${COMMENT_BODY}"
+              COMBINED_MESSAGE="**${ACTOR}** comentó en el issue: [${ISSUE_TITLE}](${ISSUE_URL}) >>> ${COMMENT_BODY}"
 
           # --- Lógica para el evento de proyecto ---
           elif [ "${{ github.event_name }}" == "project_card" ]; then
@@ -71,7 +71,7 @@ jobs:
                   
                   # Para obtener los nombres de las columnas, necesitas una llamada a la API
                   # Esto es más complejo, así que te daré un mensaje simplificado por ahora
-                  COMBINED_MESSAGE="**${ACTOR}** movió un ítem en el proyecto **${PROJECT_NAME}**.\nPasó de la columna **${FROM_COLUMN}** a la **${TO_COLUMN}**."
+                  COMBINED_MESSAGE="**${ACTOR}** movió un ítem en el proyecto **${PROJECT_NAME}**. Pasó de la columna **${FROM_COLUMN}** a la **${TO_COLUMN}**."
                   
               elif [ "$ACTION" == "created" ]; then
                   COLUMN_NAME=$(jq -r '.project_card.column_url' $GITHUB_EVENT_PATH | cut -d'/' -f6)
@@ -97,4 +97,4 @@ jobs:
           message: 'Nuevo Evento: ${{env.message}}'
           file: ''
           tts: false
-          debug: false
+          debug: true

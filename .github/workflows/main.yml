@@ -68,7 +68,10 @@ jobs:
           webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
           username: 'GitHub Updates'
           avatar_url: 'https://i.imgur.com/2s4P66D.png'
-          content: 'New event on ${{ github.repository }}'
+          message: 'New event on ${{ github.repository }}'
+          file: ''
+          tts: false
+          debug: false
           embeds: |
             [
               {

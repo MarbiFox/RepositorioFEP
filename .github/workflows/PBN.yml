@@ -1,0 +1,34 @@
+name: Project Beta Notification
+
+on:
+  schedule:
+    # Se ejecuta cada 5 minutos. Puedes ajustar esto.
+    - cron: '*/5 * * * *'
+
+jobs:
+  check-for-changes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Check for Project Changes
+        id: project_watcher
+        uses: s-s-c/gh-action-projects-v2-watcher@v1
+        with:
+          github-token: ${{ secrets.PROJECT_PAT }}
+          project-id: TU_ID_DE_PROYECTO # <--- ¡Copia el ID de tu proyecto aquí!
+          
+      - name: Send Discord notification
+        # Este paso solo se ejecuta si se detectó un cambio
+        if: ${{ steps.project_watcher.outputs.changes != '[]' }}
+        uses: appleboy/discord-action@master
+        with:
+          webhook_id: ${{ secrets.DISCORD_UPDATES_ID }}
+          webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
+          username: 'GitHub Updates'
+          avatar_url: 'https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png'
+          message: |
+            📢 **¡Cambio detectado en el proyecto!**
+            
+            ${{ steps.project_watcher.outputs.changes }}

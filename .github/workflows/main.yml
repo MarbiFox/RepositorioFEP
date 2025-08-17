@@ -44,7 +44,7 @@ jobs:
             MESSAGE="**${ACTOR}** comentó en el Issue: [${ISSUE_TITLE}](${ISSUE_URL})\n>>> ${COMMENT_BODY}"
           fi
           
-          printf "message=%s\n" "$MESSAGE" >> "$GITHUB_ENV"
+          echo -e "message=$MESSAGE" >> $GITHUB_ENV
 
       # Step 2: Send the Discord notification using the prepared variables
       - name: Send Discord notification
@@ -54,7 +54,7 @@ jobs:
           webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
           username: 'GitHub Updates'
           avatar_url: 'https://i.imgur.com/2s4P66D.png'
-          message: 'New event on ${{ env.message }}'
+          message: 'Nuevo Evento: ${{ env.message }}'
           file: ''
           tts: false
           debug: false

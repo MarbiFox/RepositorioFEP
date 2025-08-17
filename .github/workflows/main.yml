@@ -1,0 +1,51 @@
+name: Notify Discord on Issue events
+
+# Define los eventos que activarán el workflow
+on:
+  issues:
+    types: [opened, edited, deleted, labeled, unlabeled, closed, reopened]
+  issue_comment:
+    types: [created, edited, deleted]
+
+# Define una sola tarea (job) que se ejecutará
+jobs:
+  send-notification:
+    runs-on: ubuntu-latest
+    steps:
+      # Paso 1: Extrae los datos del evento
+      - name: Extract event data
+        id: extract_data
+        run: |
+          # Puedes usar jq para procesar la carga útil del evento de GitHub.
+          # Aquí, un ejemplo simple para el título del Issue.
+          echo "title=$(jq -r '.issue.title' $GITHUB_EVENT_PATH)" >> $GITHUB_ENV
+          echo "action=$(jq -r '.action' $GITHUB_EVENT_PATH)" >> $GITHUB_ENV
+          echo "user=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)" >> $GITHUB_ENV
+          echo "url=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)" >> $GITHUB_ENV
+
+      # Paso 2: Envía el mensaje a Discord
+      - name: Send Discord notification
+        uses: appleboy/discord-action@v1.0.0
+        with:
+          webhook_id: ${{ secrets.DISCORD_WEBHOOK_ID }}
+          webhook_token: ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
+          content: 'Nuevo Issue en ${{ github.repository }}'
+          message_id: ''
+          username: 'GitHub Bot'
+          avatar_url: 'https://i.imgur.com/2s4P66D.png'
+          file_name: ''
+          file_content: ''
+          tts: false
+          embeds: |
+            [
+              {
+                "title": "${{ env.title }}",
+                "url": "${{ env.url }}",
+                "description": "Un Issue ha sido **${{ env.action }}** por **${{ env.user }}**.",
+                "color": 16752399,
+                "footer": {
+                  "text": "ID del Issue: ${{ github.event.issue.id }}"
+                },
+                "timestamp": "${{ github.event.issue.updated_at }}"
+              }
+            ]

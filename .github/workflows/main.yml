@@ -22,7 +22,7 @@ jobs:
           ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
 
           if [ "${{ github.event_name }}" == "issues" ]; then
-            if [ "${ACTION}" == "closed"]; then
+            if [ "${ACTION}" == "closed" ]; then
               printf -v MESSAGE="**Se a cerrao la issue, el responsable es ${ACTOR}.**\nIssue: [${ISSUE_TITLE}](${ISSUE_URL})"
             else
               MESSAGE="**An issue has been ${ACTION} by ${ACTOR}.**\nIssue: [${ISSUE_TITLE}](${ISSUE_URL})"

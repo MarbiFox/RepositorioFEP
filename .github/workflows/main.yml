@@ -16,49 +16,19 @@ jobs:
       - name: Prepare Issue Data
         id: prepare_data
         run: |
-          # The 'action' variable tells us what happened (e.g., opened, edited, etc.)
           ACTION=$(jq -r '.action' $GITHUB_EVENT_PATH)
           ISSUE_TITLE=$(jq -r '.issue.title' $GITHUB_EVENT_PATH)
           ISSUE_URL=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)
           ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
-          
-          # The 'event_name' is either 'issues' or 'issue_comment'
-          EVENT_TYPE="${{ github.event_name }}"
 
-          # Set variables based on the event and action
-          if [ "$EVENT_TYPE" == "issues" ]; then
-            case "$ACTION" in
-              opened)
-                DESCRIPTION="An issue has been **opened** by **${ACTOR}**."
-                COLOR=49152 # Green color
-                ;;
-              closed)
-                DESCRIPTION="An issue has been **closed** by **${ACTOR}**."
-                COLOR=15548997 # Red color
-                ;;
-              reopened)
-                DESCRIPTION="An issue has been **reopened** by **${ACTOR}**."
-                COLOR=16752399 # Orange color
-                ;;
-              deleted)
-                DESCRIPTION="An issue has been **deleted** by **${ACTOR}**."
-                COLOR=8000000 # Dark grey color
-                ;;
-              *)
-                DESCRIPTION="An issue has been **${ACTION}** by **${ACTOR}**."
-                COLOR=16752399 # Default orange color
-                ;;
-            esac
-          elif [ "$EVENT_TYPE" == "issue_comment" ]; then
-            COMMENT=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
-            DESCRIPTION="A comment has been **created** by **${ACTOR}**:\n>>>${COMMENT}"
-            COLOR=3447003 # Blue color
+          if [ "${{ github.event_name }}" == "issues" ]; then
+            MESSAGE="**An issue has been ${ACTION} by ${ACTOR}.**\nIssue: [${ISSUE_TITLE}](${ISSUE_URL})"
+          elif [ "${{ github.event_name }}" == "issue_comment" ]; then
+            COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
+            MESSAGE="**A comment was created by ${ACTOR} on issue:** [${ISSUE_TITLE}](${ISSUE_URL})\n>>>${COMMENT_BODY}"
           fi
 
-          echo "description=$DESCRIPTION" >> $GITHUB_ENV
-          echo "color=$COLOR" >> $GITHUB_ENV
-          echo "title=$ISSUE_TITLE" >> $GITHUB_ENV
-          echo "url=$ISSUE_URL" >> $GITHUB_ENV
+          echo "message=$MESSAGE" >> $GITHUB_ENV
 
       # Step 2: Send the Discord notification using the prepared variables
       - name: Send Discord notification
@@ -68,17 +38,7 @@ jobs:
           webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
           username: 'GitHub Updates'
           avatar_url: 'https://i.imgur.com/2s4P66D.png'
-          message: 'New event on ${{ github.repository }}'
+          message: 'New event on ${{ env.message }}'
           file: ''
           tts: false
           debug: false
-          embeds: |
-            [
-              {
-                "title": "${{ env.title }}",
-                "url": "${{ env.url }}",
-                "description": "${{ env.description }}",
-                "color": ${{ env.color }},
-                "timestamp": "${{ github.event.issue.updated_at }}"
-              }
-            ]

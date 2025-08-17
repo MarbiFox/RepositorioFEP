@@ -3,7 +3,7 @@ name: Project Beta Notification
 on:
   schedule:
     # Se ejecuta cada 5 minutos. Puedes ajustar esto.
-    - cron: '*/5 * * * *'
+    - cron: '*/1 * * * *'
 
 jobs:
   check-for-changes:
@@ -17,7 +17,7 @@ jobs:
         uses: s-s-c/gh-action-projects-v2-watcher@v1
         with:
           github-token: ${{ secrets.PROJECT_PAT }}
-          project-id: TU_ID_DE_PROYECTO # <--- ¡Copia el ID de tu proyecto aquí!
+          project-id: 5 # <--- ¡Copia el ID de tu proyecto aquí!
           
       - name: Send Discord notification
         # Este paso solo se ejecuta si se detectó un cambio

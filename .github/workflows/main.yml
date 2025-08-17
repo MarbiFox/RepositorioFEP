@@ -25,7 +25,7 @@ jobs:
 
       # Paso 2: Envía el mensaje a Discord
       - name: Send Discord notification
-        uses: appleboy/discord-action@v3.1.2
+        uses: appleboy/discord-action@3.1.2
         with:
           webhook: ${{ secrets.Github_Updates }}
           content: 'Nuevo Issue en ${{ github.repository }}'

@@ -41,7 +41,7 @@ jobs:
           esac
           
           # Add the title and link to the message
-          MESSAGE="${MESSAGE}\\n**Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
+          # MESSAGE="${MESSAGE}\\n**Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
           
           if [ "${{ github.event_name }}" == "issue_comment" ]; then
             COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
@@ -49,7 +49,6 @@ jobs:
           fi
           
           echo "message=$MESSAGE" >> $GITHUB_ENV
-          echo "test" >> $GITHUB_ENV
 
       # Step 2: Send the Discord notification using the prepared variables
       - name: Send Discord notification
@@ -58,8 +57,29 @@ jobs:
           webhook_id: ${{ secrets.DISCORD_UPDATES_ID }}
           webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
           username: 'GitHub Updates'
-          avatar_url: 'https://i.imgur.com/2s4P66D.png'
+          avatar_url: 'https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png'
           message: 'Nuevo Evento: ${{ env.message }}'
           file: ''
           tts: false
           debug: false
+
+            # --- Este es el nuevo paso para el segundo mensaje ---
+
+      # Paso 3: Prepara el segundo mensaje (opcional)
+      - name: Prepare Secondary Message
+        id: prepare_secondary_message
+        run: |
+          # Puedes crear un mensaje simple o más complejo
+          MESSAGE="[${ISSUE_TITLE}](${ISSUE_URL}) >>> ${COMMENT_BODY}"
+          echo "secondary_message=$MESSAGE" >> "$GITHUB_ENV"
+
+      # Paso 4: Envía el segundo mensaje a Discord
+      - name: Send Secondary Notification
+        if: ${{ github.event.action == 'closed' }} # Asegura que este paso solo se ejecute si la condición se cumple
+        uses: appleboy/discord-action@master
+        with:
+          webhook_id: ${{ secrets.DISCORD_WEBHOOK_ID }}
+          webhook_token: ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
+          username: 'GitHub Updates'
+          avatar_url: 'https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png'
+          message: ${{ env.secondary_message }}

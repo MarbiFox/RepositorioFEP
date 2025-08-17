@@ -1,51 +1,81 @@
-name: Notify Discord on Issue events
+name: Issue Notification to Discord
 
-# Define los eventos que activarán el workflow
+# This workflow will run on these events
 on:
   issues:
     types: [opened, edited, deleted, labeled, unlabeled, closed, reopened]
   issue_comment:
     types: [created, edited, deleted]
 
-# Define una sola tarea (job) que se ejecutará
+# This job will send a notification to Discord
 jobs:
   send-notification:
     runs-on: ubuntu-latest
     steps:
-      # Paso 1: Extrae los datos del evento
-      - name: Extract event data
-        id: extract_data
+      # Step 1: Extract and prepare data from the GitHub event payload
+      - name: Prepare Issue Data
+        id: prepare_data
         run: |
-          # Puedes usar jq para procesar la carga útil del evento de GitHub.
-          # Aquí, un ejemplo simple para el título del Issue.
-          echo "title=$(jq -r '.issue.title' $GITHUB_EVENT_PATH)" >> $GITHUB_ENV
-          echo "action=$(jq -r '.action' $GITHUB_EVENT_PATH)" >> $GITHUB_ENV
-          echo "user=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)" >> $GITHUB_ENV
-          echo "url=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)" >> $GITHUB_ENV
+          # The 'action' variable tells us what happened (e.g., opened, edited, etc.)
+          ACTION=$(jq -r '.action' $GITHUB_EVENT_PATH)
+          ISSUE_TITLE=$(jq -r '.issue.title' $GITHUB_EVENT_PATH)
+          ISSUE_URL=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)
+          ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
+          
+          # The 'event_name' is either 'issues' or 'issue_comment'
+          EVENT_TYPE="${{ github.event_name }}"
 
-      # Paso 2: Envía el mensaje a Discord
+          # Set variables based on the event and action
+          if [ "$EVENT_TYPE" == "issues" ]; then
+            case "$ACTION" in
+              opened)
+                DESCRIPTION="An issue has been **opened** by **${ACTOR}**."
+                COLOR=49152 # Green color
+                ;;
+              closed)
+                DESCRIPTION="An issue has been **closed** by **${ACTOR}**."
+                COLOR=15548997 # Red color
+                ;;
+              reopened)
+                DESCRIPTION="An issue has been **reopened** by **${ACTOR}**."
+                COLOR=16752399 # Orange color
+                ;;
+              deleted)
+                DESCRIPTION="An issue has been **deleted** by **${ACTOR}**."
+                COLOR=8000000 # Dark grey color
+                ;;
+              *)
+                DESCRIPTION="An issue has been **${ACTION}** by **${ACTOR}**."
+                COLOR=16752399 # Default orange color
+                ;;
+            esac
+          elif [ "$EVENT_TYPE" == "issue_comment" ]; then
+            COMMENT=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
+            DESCRIPTION="A comment has been **created** by **${ACTOR}**:\n>>>${COMMENT}"
+            COLOR=3447003 # Blue color
+          fi
+
+          echo "description=$DESCRIPTION" >> $GITHUB_ENV
+          echo "color=$COLOR" >> $GITHUB_ENV
+          echo "title=$ISSUE_TITLE" >> $GITHUB_ENV
+          echo "url=$ISSUE_URL" >> $GITHUB_ENV
+
+      # Step 2: Send the Discord notification using the prepared variables
       - name: Send Discord notification
         uses: appleboy/discord-action@master
         with:
           webhook_id: ${{ secrets.DISCORD_UPDATES_ID }}
           webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
-          content: 'Nuevo Issue en ${{ github.repository }}'
-          message_id: ''
           username: 'GitHub Updates'
           avatar_url: 'https://i.imgur.com/2s4P66D.png'
-          file_name: ''
-          file_content: ''
-          tts: false
+          content: 'New event on ${{ github.repository }}'
           embeds: |
             [
               {
                 "title": "${{ env.title }}",
                 "url": "${{ env.url }}",
-                "description": "Un Issue ha sido **${{ env.action }}** por **${{ env.user }}**.",
-                "color": 16752399,
-                "footer": {
-                  "text": "ID del Issue: ${{ github.event.issue.id }}"
-                },
+                "description": "${{ env.description }}",
+                "color": ${{ env.color }},
                 "timestamp": "${{ github.event.issue.updated_at }}"
               }
             ]

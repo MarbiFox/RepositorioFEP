@@ -21,15 +21,30 @@ jobs:
           ISSUE_URL=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)
           ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
 
-          if [ "${{ github.event_name }}" == "issues" ]; then
-            if [ "${ACTION}" == "closed" ]; then
-              printf -v MESSAGE="**Se a cerrao la issue, el responsable es ${ACTOR}.**\nIssue: [${ISSUE_TITLE}](${ISSUE_URL})"
-            else
-              MESSAGE="**An issue has been ${ACTION} by ${ACTOR}.**\nIssue: [${ISSUE_TITLE}](${ISSUE_URL})"
-            fi
-          elif [ "${{ github.event_name }}" == "issue_comment" ]; then
+          # Use una estructura 'case' para una lógica más limpia y legible
+          case "$ACTION" in
+            opened)
+              MESSAGE="**Se abrió un nuevo Issue** por **${ACTOR}**\n**Título:** ${ISSUE_TITLE}\n**URL:** ${ISSUE_URL}"
+              ;;
+            closed)
+              MESSAGE="**Se cerró un Issue** por **${ACTOR}**\n**Título:** ${ISSUE_TITLE}\n**URL:** ${ISSUE_URL}"
+              ;;
+            reopened)
+              MESSAGE="**Se reabrió un Issue** por **${ACTOR}**\n**Título:** ${ISSUE_TITLE}\n**URL:** ${ISSUE_URL}"
+              ;;
+            deleted)
+              MESSAGE="**Se eliminó un Issue** por **${ACTOR}**\n**Título:** ${ISSUE_TITLE}"
+              ;;
+            *)
+              # Caso por defecto para otras acciones de issues (labeled, edited, etc.)
+              MESSAGE="**El Issue '${ISSUE_TITLE}' se actualizó** por **${ACTOR}**\n**Acción:** ${ACTION}\n**URL:** ${ISSUE_URL}"
+              ;;
+          esac
+          
+          # Manejar los comentarios de forma separada
+          if [ "${{ github.event_name }}" == "issue_comment" ]; then
             COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
-            MESSAGE="**A comment was created by ${ACTOR} on issue:** [${ISSUE_TITLE}](${ISSUE_URL})\n>>>${COMMENT_BODY}"
+            MESSAGE="**${ACTOR}** comentó en el Issue: [${ISSUE_TITLE}](${ISSUE_URL})\n>>> ${COMMENT_BODY}"
           fi
 
           echo "message=$MESSAGE" >> $GITHUB_ENV

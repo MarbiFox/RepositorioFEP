@@ -17,7 +17,7 @@ jobs:
         uses: s-s-c/gh-action-projects-v2-watcher@v1
         with:
           github-token: ${{ secrets.PROJECT_PAT }}
-          project-id: 5 # <--- ¡Copia el ID de tu proyecto aquí!
+          project-id: 1 # <--- ¡Copia el ID de tu proyecto aquí!
           
       - name: Send Discord notification
         # Este paso solo se ejecuta si se detectó un cambio

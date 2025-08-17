@@ -31,7 +31,7 @@ jobs:
           webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
           content: 'Nuevo Issue en ${{ github.repository }}'
           message_id: ''
-          username: 'GitHub Bot Updates'
+          username: 'GitHub Updates'
           avatar_url: 'https://i.imgur.com/2s4P66D.png'
           file_name: ''
           file_content: ''

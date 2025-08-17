@@ -18,7 +18,7 @@ jobs:
       - name: Prepare Issue Data
         id: prepare_data
         # Usamos 'if' para asegurarnos de que el script solo se ejecute para eventos de 'issues' y 'project_card'
-        if: ${{ github.event_name == 'issues' || github.event_name == 'issue_comment' || github.event_name == 'project_card' }}
+        if: ${{ github.event_name == 'issues' || github.event_name == 'issue_comment' || github.event_name == 'projects_v2_item' }}
         run: |
           # Variable para almacenar el mensaje final
           COMBINED_MESSAGE=""
@@ -58,7 +58,7 @@ jobs:
               COMBINED_MESSAGE="**${ACTOR}** comentó en el issue: [${ISSUE_TITLE}](${ISSUE_URL}) >>> ${COMMENT_BODY}"
 
           # --- Lógica para el evento de proyecto ---
-          elif [ "${{ github.event_name }}" == "project_card" ]; then
+          elif [ "${{ github.event_name }}" == "projects_v2_item" ]; then
               ACTION=$(jq -r '.action' $GITHUB_EVENT_PATH)
               ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
               PROJECT_NAME=$(jq -r '.project_card.project_url' $GITHUB_EVENT_PATH | cut -d'/' -f6)

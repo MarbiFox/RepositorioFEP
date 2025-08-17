@@ -6,6 +6,8 @@ on:
     types: [opened, edited, deleted, labeled, unlabeled, closed, reopened]
   issue_comment:
     types: [created, edited, deleted]
+  project_card: 
+    types: [created, edited, moved, deleted]
 
 # This job will send a notification to Discord
 jobs:
@@ -15,44 +17,77 @@ jobs:
       # Step 1: Extract and prepare data from the GitHub event payload
       - name: Prepare Issue Data
         id: prepare_data
+        # Usamos 'if' para asegurarnos de que el script solo se ejecute para eventos de 'issues' y 'project_card'
+        if: ${{ github.event_name == 'issues' || github.event_name == 'issue_comment' || github.event_name == 'project_card' }}
         run: |
-          ACTION=$(jq -r '.action' $GITHUB_EVENT_PATH)
-          ISSUE_TITLE=$(jq -r '.issue.title' $GITHUB_EVENT_PATH)
-          ISSUE_URL=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)
-          ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
+          # Variable para almacenar el mensaje final
+          COMBINED_MESSAGE=""
 
-          # Use a 'case' structure for a clean logic
-          case "$ACTION" in
-            opened)
-              MESSAGE="Un nuevo issue fue **abierto** por **${ACTOR}**."
-              ;;
-            closed)
-              MESSAGE="Un issue fue **cerrado** por **${ACTOR}**."
-              ;;
-            reopened)
-              MESSAGE="Un issue fue **reabierto** por **${ACTOR}**."
-              ;;
-            deleted)
-              MESSAGE="Un issue fue **eliminado** por **${ACTOR}**."
-              ;;
-            *)
-              MESSAGE="El issue fue **${ACTION}** por **${ACTOR}**."
-              ;;
-          esac
-          
-          # Add the title and link to the message
-          MESSAGE="${MESSAGE} **Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
+          if [ "${{ github.event_name }}" == "issues" ]; then
+              ACTION=$(jq -r '.action' $GITHUB_EVENT_PATH)
+              ISSUE_TITLE=$(jq -r '.issue.title' $GITHUB_EVENT_PATH)
+              ISSUE_URL=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)
+              ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
 
-          # En caso de ser un comentario
-          if [ "${{ github.event_name }}" == "issue_comment" ]; then
-            COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
-            MESSAGE="**${ACTOR}** comentó en el Issue: [${ISSUE_TITLE}](${ISSUE_URL}) >>> ${COMMENT_BODY}"
+              case "$ACTION" in
+                opened)
+                  MAIN_MESSAGE="Un nuevo issue fue **abierto** por **${ACTOR}**."
+                  ;;
+                closed)
+                  MAIN_MESSAGE="Un issue fue **cerrado** por **${ACTOR}**."
+                  ;;
+                reopened)
+                  MAIN_MESSAGE="Un issue fue **reabierto** por **${ACTOR}**."
+                  ;;
+                deleted)
+                  MAIN_MESSAGE="Un issue fue **eliminado** por **${ACTOR}**."
+                  ;;
+                *)
+                  MAIN_MESSAGE="El issue fue **${ACTION}** por **${ACTOR}**."
+                  ;;
+              esac
+
+              SECONDARY_MESSAGE="**Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
+              COMBINED_MESSAGE="${MAIN_MESSAGE}\n\n${SECONDARY_MESSAGE}"
+
+          elif [ "${{ github.event_name }}" == "issue_comment" ]; then
+              ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
+              ISSUE_TITLE=$(jq -r '.issue.title' $GITHUB_EVENT_PATH)
+              ISSUE_URL=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)
+              COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
+              COMBINED_MESSAGE="**${ACTOR}** comentó en el issue:\n[${ISSUE_TITLE}](${ISSUE_URL})\n>>> ${COMMENT_BODY}"
+
+          # --- Lógica para el evento de proyecto ---
+          elif [ "${{ github.event_name }}" == "project_card" ]; then
+              ACTION=$(jq -r '.action' $GITHUB_EVENT_PATH)
+              ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
+              PROJECT_NAME=$(jq -r '.project_card.project_url' $GITHUB_EVENT_PATH | cut -d'/' -f6)
+              ISSUE_URL=$(jq -r '.project_card.content_url' $GITHUB_EVENT_PATH)
+              
+              # Aquí obtienes el estado anterior y el nuevo
+              if [ "$ACTION" == "moved" ]; then
+                  FROM_COLUMN=$(jq -r '.changes.column_id.from' $GITHUB_EVENT_PATH)
+                  TO_COLUMN=$(jq -r '.changes.column_id.to' $GITHUB_EVENT_PATH)
+                  
+                  # Para obtener los nombres de las columnas, necesitas una llamada a la API
+                  # Esto es más complejo, así que te daré un mensaje simplificado por ahora
+                  COMBINED_MESSAGE="**${ACTOR}** movió un ítem en el proyecto **${PROJECT_NAME}**.\nPasó de la columna **${FROM_COLUMN}** a la **${TO_COLUMN}**."
+                  
+              elif [ "$ACTION" == "created" ]; then
+                  COLUMN_NAME=$(jq -r '.project_card.column_url' $GITHUB_EVENT_PATH | cut -d'/' -f6)
+                  COMBINED_MESSAGE="**${ACTOR}** creó una tarjeta en el proyecto **${PROJECT_NAME}** en la columna **${COLUMN_NAME}**."
+              fi
           fi
           
-          echo "message=$MESSAGE" >> $GITHUB_ENV
+          # Exporta la variable combinada al entorno, si no está vacía
+          if [ -n "$COMBINED_MESSAGE" ]; then
+              echo "message=$COMBINED_MESSAGE" >> "$GITHUB_ENV"
+          fi
           
       # Step 2: Send the Discord notification using the prepared variables
       - name: Send Discord notification
+        # Este paso solo se ejecuta si se generó un mensaje
+        if: ${{ env.message != '' }}
         uses: appleboy/discord-action@master
         with:
           webhook_id: ${{ secrets.DISCORD_UPDATES_ID }}

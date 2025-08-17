@@ -41,7 +41,7 @@ jobs:
           esac
           
           # Add the title and link to the message
-          MESSAGE="${MESSAGE}\n\n**Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
+          MESSAGE="${MESSAGE}\\n**Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
           
           if [ "${{ github.event_name }}" == "issue_comment" ]; then
             COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
@@ -49,6 +49,7 @@ jobs:
           fi
           
           echo "message=$MESSAGE" >> $GITHUB_ENV
+          echo "test" >> $GITHUB_ENV
 
       # Step 2: Send the Discord notification using the prepared variables
       - name: Send Discord notification

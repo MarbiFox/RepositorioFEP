@@ -21,30 +21,34 @@ jobs:
           ISSUE_URL=$(jq -r '.issue.html_url' $GITHUB_EVENT_PATH)
           ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
 
+          # Use a 'case' structure for a clean logic
           case "$ACTION" in
             opened)
-              MESSAGE="**Se abrió un nuevo Issue** por **${ACTOR}**\n**Título:** ${ISSUE_TITLE}\n**URL:** ${ISSUE_URL}"
+              MESSAGE="Un nuevo issue fue **abierto** por **${ACTOR}**."
               ;;
             closed)
-              MESSAGE="**Se cerró un Issue** por **${ACTOR}**\n**Título:** ${ISSUE_TITLE}\n**URL:** ${ISSUE_URL}"
+              MESSAGE="Un issue fue **cerrado** por **${ACTOR}**."
               ;;
             reopened)
-              MESSAGE="**Se reabrió un Issue** por **${ACTOR}**\n**Título:** ${ISSUE_TITLE}\n**URL:** ${ISSUE_URL}"
+              MESSAGE="Un issue fue **reabierto** por **${ACTOR}**."
               ;;
             deleted)
-              MESSAGE="**Se eliminó un Issue** por **${ACTOR}**\n**Título:** ${ISSUE_TITLE}"
+              MESSAGE="Un issue fue **eliminado** por **${ACTOR}**."
               ;;
             *)
-              MESSAGE="**El Issue '${ISSUE_TITLE}' se actualizó** por **${ACTOR}**\n**Acción:** ${ACTION}\n**URL:** ${ISSUE_URL}"
+              MESSAGE="El issue fue **${ACTION}** por **${ACTOR}**."
               ;;
           esac
+          
+          # Add the title and link to the message
+          MESSAGE="${MESSAGE}\n\n**Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
           
           if [ "${{ github.event_name }}" == "issue_comment" ]; then
             COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
             MESSAGE="**${ACTOR}** comentó en el Issue: [${ISSUE_TITLE}](${ISSUE_URL})\n>>> ${COMMENT_BODY}"
           fi
           
-          echo -e "message=$MESSAGE" >> $GITHUB_ENV
+          echo "message=$MESSAGE" >> $GITHUB_ENV
 
       # Step 2: Send the Discord notification using the prepared variables
       - name: Send Discord notification

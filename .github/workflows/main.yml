@@ -6,7 +6,7 @@ on:
     types: [opened, edited, deleted, labeled, unlabeled, closed, reopened]
   issue_comment:
     types: [created, edited, deleted]
-  projects_v2_item: 
+  project_card: 
     types: [edited, created]
 
 # This job will send a notification to Discord
@@ -18,7 +18,7 @@ jobs:
       - name: Prepare Issue Data
         id: prepare_data
         # Usamos 'if' para asegurarnos de que el script solo se ejecute para eventos de 'issues' y 'project_card'
-        if: ${{ github.event_name == 'issues' || github.event_name == 'issue_comment' || github.event_name == 'projects_v2_item' }}
+        if: ${{ github.event_name == 'issues' || github.event_name == 'issue_comment' || github.event_name == 'project_card' }}
         run: |
           # Variable para almacenar el mensaje final
           COMBINED_MESSAGE=""
@@ -58,25 +58,26 @@ jobs:
               COMBINED_MESSAGE="**${ACTOR}** comentó en el issue: [${ISSUE_TITLE}](${ISSUE_URL}) >>> ${COMMENT_BODY}"
 
           # --- Lógica para el evento de proyecto ---
-          elif [ "${{ github.event_name }}" == "projects_v2_item" ]; then
+          elif [ "${{ github.event_name }}" == "project_card" ]; then
               ACTION=$(jq -r '.action' $GITHUB_EVENT_PATH)
               ACTOR=$(jq -r '.sender.login' $GITHUB_EVENT_PATH)
               PROJECT_NAME=$(jq -r '.project_card.project_url' $GITHUB_EVENT_PATH | cut -d'/' -f6)
-              ISSUE_URL=$(jq -r '.project_card.content_url' $GITHUB_EVENT_PATH)
-              
-              # Aquí obtienes el estado anterior y el nuevo
+
               if [ "$ACTION" == "moved" ]; then
                   FROM_COLUMN=$(jq -r '.changes.column_id.from' $GITHUB_EVENT_PATH)
-                  TO_COLUMN=$(jq -r '.changes.column_id.to' $GITHUB_EVENT_PATH)
-                  
-                  # Para obtener los nombres de las columnas, necesitas una llamada a la API
-                  # Esto es más complejo, así que te daré un mensaje simplificado por ahora
-                  COMBINED_MESSAGE="**${ACTOR}** movió un ítem en el proyecto **${PROJECT_NAME}**. Pasó de la columna **${FROM_COLUMN}** a la **${TO_COLUMN}**."
-                  
+                  TO_COLUMN=$(jq -r '.project_card.column_id' $GITHUB_EVENT_PATH)
+                  ISSUE_URL=$(jq -r '.project_card.content_url' $GITHUB_EVENT_PATH)
+                  COMBINED_MESSAGE="**${ACTOR}** movió un ítem en el proyecto **${PROJECT_NAME}**. **Cambio de columna:** ${FROM_COLUMN} ➔ ${TO_COLUMN} **URL del Issue:** ${ISSUE_URL}"
+
               elif [ "$ACTION" == "created" ]; then
-                  COLUMN_NAME=$(jq -r '.project_card.column_url' $GITHUB_EVENT_PATH | cut -d'/' -f6)
-                  COMBINED_MESSAGE="**${ACTOR}** creó una tarjeta en el proyecto **${PROJECT_NAME}** en la columna **${COLUMN_NAME}**."
+                  COLUMN_ID=$(jq -r '.project_card.column_id' $GITHUB_EVENT_PATH)
+                  ISSUE_URL=$(jq -r '.project_card.content_url' $GITHUB_EVENT_PATH)
+                  COMBINED_MESSAGE="**${ACTOR}** creó una tarjeta en el proyecto **${PROJECT_NAME}**. **Columna:** ${COLUMN_ID} **URL del Issue:** ${ISSUE_URL}"
               fi
+          fi
+          
+          if [ -n "$COMBINED_MESSAGE" ]; then
+              echo "message=$COMBINED_MESSAGE" >> "$GITHUB_ENV"
           fi
           
           # Exporta la variable combinada al entorno, si no está vacía

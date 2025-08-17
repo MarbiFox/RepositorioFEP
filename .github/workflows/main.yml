@@ -44,7 +44,7 @@ jobs:
             MESSAGE="**${ACTOR}** comentó en el Issue: [${ISSUE_TITLE}](${ISSUE_URL})\n>>> ${COMMENT_BODY}"
           fi
           
-          echo "message=$MESSAGE" >> $GITHUB_ENV
+          printf "message=%s\n" "$MESSAGE" >> "$GITHUB_ENV"
 
       # Step 2: Send the Discord notification using the prepared variables
       - name: Send Discord notification

@@ -27,11 +27,10 @@ jobs:
       - name: Send Discord notification
         uses: appleboy/discord-action@v1.0.0
         with:
-          webhook_id: ${{ secrets.DISCORD_WEBHOOK_ID }}
-          webhook_token: ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
+          webhook: ${{ secrets.Github_Updates }}
           content: 'Nuevo Issue en ${{ github.repository }}'
           message_id: ''
-          username: 'GitHub Bot'
+          username: 'GitHub Bot Updates'
           avatar_url: 'https://i.imgur.com/2s4P66D.png'
           file_name: ''
           file_content: ''

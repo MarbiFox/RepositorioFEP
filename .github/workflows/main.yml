@@ -41,22 +41,16 @@ jobs:
           esac
           
           # Add the title and link to the message
-          MESSAGE="${MESSAGE}. **Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
-          
-          echo "message=$MESSAGE" >> $GITHUB_ENV
+          MESSAGE="${MESSAGE} **Issue:** [${ISSUE_TITLE}](${ISSUE_URL})"
 
-      # Paso 3: Prepara el segundo mensaje (opcional)
-      - name: Prepare Secondary Message
-        id: prepare_secondary_message
-        run: |
-          # Puedes crear un mensaje simple o más complejo
+          # En caso de ser un comentario
           if [ "${{ github.event_name }}" == "issue_comment" ]; then
             COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
             MESSAGE="**${ACTOR}** comentó en el Issue: [${ISSUE_TITLE}](${ISSUE_URL}) >>> ${COMMENT_BODY}"
           fi
           
-          echo "secondary_message=$MESSAGE" >> "$GITHUB_ENV"
-
+          echo "message=$MESSAGE" >> $GITHUB_ENV
+          
       # Step 2: Send the Discord notification using the prepared variables
       - name: Send Discord notification
         uses: appleboy/discord-action@master
@@ -65,7 +59,7 @@ jobs:
           webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
           username: 'GitHub Updates'
           avatar_url: 'https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png'
-          message: 'Nuevo Evento: ${{env.message}} ${{env.secondary.message}}'
+          message: 'Nuevo Evento: ${{env.message}}'
           file: ''
           tts: false
           debug: false

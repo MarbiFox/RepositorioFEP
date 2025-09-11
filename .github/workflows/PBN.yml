@@ -2,15 +2,17 @@ name: Project Status → Discord
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # mínimo permitido por GitHub
+    - cron: "*/5 * * * *"   # recomendado: cada 5 min
   workflow_dispatch: {}
 
 permissions:
   contents: write  # para commitear el archivo de estado
 
-concurrency:
-  group: project-status-discord
-  cancel-in-progress: false
+env:
+  PROJECT_OWNER_TYPE: user
+  PROJECT_OWNER: MarbiFox
+  PROJECT_NUMBER: "1"
+  STATE_FILE: ".github/project-status-cache.json"
 
 jobs:
   watch-project:
@@ -24,90 +26,52 @@ jobs:
       - name: Leer Project y detectar cambios de Status
         id: watch
         uses: actions/github-script@v8
-        env:
-          # 🔧 AJUSTA ESTO:
-          PROJECT_OWNER_TYPE: user   # "organization" o "user"
-          PROJECT_OWNER: MarbiFox    # ejemplo: "octo-org" o "octocat"
-          PROJECT_NUMBER: "1"                # es el número de la URL del Project
-          STATE_FILE: ".github/project-status-cache.json"
         with:
-          # PAT con 'read:project' (y normalmente 'read:org' si es de org)
           github-token: ${{ secrets.PROJECT_PAT }}
           script: |
             const fs = require('fs');
             const path = require('path');
 
-            const ownerType = process.env.PROJECT_OWNER_TYPE || 'organization';
-            const owner = process.env.PROJECT_OWNER;
-            const number = parseInt(process.env.PROJECT_NUMBER, 10);
+            const ownerType = process.env.PROJECT_OWNER_TYPE; // "user"
+            const owner = process.env.PROJECT_OWNER;          // "MarbiFox"
+            const number = parseInt(process.env.PROJECT_NUMBER, 10); // 1
             const stateFile = process.env.STATE_FILE;
 
-            function q(ownerType){
-              return ownerType === 'organization'
-                ? `query($owner: String!, $number: Int!, $cursor: String){
-                     organization(login:$owner){
-                       projectV2(number:$number){
-                         id title
-                         items(first:100, after:$cursor){
-                           nodes{
-                             id
-                             content{
-                               __typename
-                               ... on Issue { number title url }
-                               ... on PullRequest { number title url }
-                             }
-                             fieldValues(first:50){
-                               nodes{
-                                 ... on ProjectV2ItemFieldSingleSelectValue {
-                                   name
-                                   field { ... on ProjectV2SingleSelectField { name } }
-                                 }
-                               }
-                             }
-                           }
-                           pageInfo{ hasNextPage endCursor }
-                         }
-                       }
-                     }
-                   }`
-                : `query($owner: String!, $number: Int!, $cursor: String){
-                     user(login:$owner){
-                       projectV2(number:$number){
-                         id title
-                         items(first:100, after:$cursor){
-                           nodes{
-                             id
-                             content{
-                               __typename
-                               ... on Issue { number title url }
-                               ... on PullRequest { number title url }
-                             }
-                             fieldValues(first:50){
-                               nodes{
-                                 ... on ProjectV2ItemFieldSingleSelectValue {
-                                   name
-                                   field { ... on ProjectV2SingleSelectField { name } }
-                                 }
-                               }
-                             }
-                           }
-                           pageInfo{ hasNextPage endCursor }
-                         }
-                       }
-                     }
-                   }`;
-            }
+            const query = `query($owner: String!, $number: Int!, $cursor: String){
+              user(login:$owner){
+                projectV2(number:$number){
+                  id title
+                  items(first:100, after:$cursor){
+                    nodes{
+                      id
+                      content{
+                        __typename
+                        ... on Issue { number title url }
+                        ... on PullRequest { number title url }
+                      }
+                      fieldValues(first:50){
+                        nodes{
+                          ... on ProjectV2ItemFieldSingleSelectValue {
+                            name
+                            field { ... on ProjectV2SingleSelectField { name } }
+                          }
+                        }
+                      }
+                    }
+                    pageInfo{ hasNextPage endCursor }
+                  }
+                }
+              }
+            }`;
 
             async function fetchAll(){
               let items = [];
               let cursor = null;
               while (true) {
-                const res = await github.graphql(q(ownerType), { owner, number, cursor });
-                const proj = ownerType === 'organization'
-                  ? res.organization?.projectV2
-                  : res.user?.projectV2;
+                const res = await github.graphql(query, { owner, number, cursor });
+                const proj = res.user?.projectV2;
                 if (!proj) {
-                  core.setFailed(`No se encontró el Project ${ownerType}=${owner} #${number}`);
+                  core.setFailed(`No se encontró el Project user=${owner} #${number}`);
                   return [];
                 }
                 items.push(...proj.items.nodes);
@@ -117,7 +81,7 @@ jobs:
               return items;
             }
 
-            // Carga estado previo (si existe)
+            // Cargar estado previo desde el repo (si existe el archivo)
             let prev = {};
             try { prev = JSON.parse(fs.readFileSync(stateFile, 'utf8')); } catch {}
 
@@ -143,11 +107,11 @@ jobs:
               }
             }
 
-            // guarda estado
+            // Guardar estado actual para la próxima corrida
             fs.mkdirSync(path.dirname(stateFile), { recursive: true });
             fs.writeFileSync(stateFile, JSON.stringify(current, null, 2));
 
-            // outputs
+            // Outputs
             core.setOutput('has_changes', String(changes.length > 0));
             const msg = changes.length
               ? '📢 **¡Cambios de Status en el Project #' + number + '!**\n\n'
@@ -161,14 +125,14 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore(project-watcher): actualizar caché de Status"
-          file_pattern: .github/project-status-cache.json
+          file_pattern: ${{ env.STATE_FILE }}
 
-      - name: Notificar en Discord
+      - name: Notificar en Discord (ID + Token)
         if: steps.watch.outputs.has_changes == 'true'
         uses: appleboy/discord-action@v1.2.0
         with:
-          # más simple con 1 solo secreto:
-          webhook_url: ${{ secrets.DISCORD_UPDATES_URL }}
+          webhook_id: ${{ secrets.DISCORD_UPDATES_ID }}
+          webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
           username: "GitHub Updates"
           avatar_url: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png"
           message: ${{ steps.watch.outputs.message }}

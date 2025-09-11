@@ -1,34 +1,174 @@
-name: Project Beta Notification
+name: Project Status → Discord
 
 on:
   schedule:
-    # Se ejecuta cada 5 minutos. Puedes ajustar esto.
-    - cron: '*/1 * * * *'
+    - cron: "*/5 * * * *"   # mínimo permitido por GitHub
+  workflow_dispatch: {}
+
+permissions:
+  contents: write  # para commitear el archivo de estado
+
+concurrency:
+  group: project-status-discord
+  cancel-in-progress: false
 
 jobs:
-  check-for-changes:
+  watch-project:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Check for Project Changes
-        id: project_watcher
-        uses: s-s-c/gh-action-projects-v2-watcher@v1
+      - name: Leer Project y detectar cambios de Status
+        id: watch
+        uses: actions/github-script@v8
+        env:
+          # 🔧 AJUSTA ESTO:
+          PROJECT_OWNER_TYPE: user   # "organization" o "user"
+          PROJECT_OWNER: MarbiFox    # ejemplo: "octo-org" o "octocat"
+          PROJECT_NUMBER: "1"                # es el número de la URL del Project
+          STATE_FILE: ".github/project-status-cache.json"
         with:
+          # PAT con 'read:project' (y normalmente 'read:org' si es de org)
           github-token: ${{ secrets.PROJECT_PAT }}
-          project-id: 1 # <--- ¡Copia el ID de tu proyecto aquí!
-          
-      - name: Send Discord notification
-        # Este paso solo se ejecuta si se detectó un cambio
-        if: ${{ steps.project_watcher.outputs.changes != '[]' }}
-        uses: appleboy/discord-action@master
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            const ownerType = process.env.PROJECT_OWNER_TYPE || 'organization';
+            const owner = process.env.PROJECT_OWNER;
+            const number = parseInt(process.env.PROJECT_NUMBER, 10);
+            const stateFile = process.env.STATE_FILE;
+
+            function q(ownerType){
+              return ownerType === 'organization'
+                ? `query($owner: String!, $number: Int!, $cursor: String){
+                     organization(login:$owner){
+                       projectV2(number:$number){
+                         id title
+                         items(first:100, after:$cursor){
+                           nodes{
+                             id
+                             content{
+                               __typename
+                               ... on Issue { number title url }
+                               ... on PullRequest { number title url }
+                             }
+                             fieldValues(first:50){
+                               nodes{
+                                 ... on ProjectV2ItemFieldSingleSelectValue {
+                                   name
+                                   field { ... on ProjectV2SingleSelectField { name } }
+                                 }
+                               }
+                             }
+                           }
+                           pageInfo{ hasNextPage endCursor }
+                         }
+                       }
+                     }
+                   }`
+                : `query($owner: String!, $number: Int!, $cursor: String){
+                     user(login:$owner){
+                       projectV2(number:$number){
+                         id title
+                         items(first:100, after:$cursor){
+                           nodes{
+                             id
+                             content{
+                               __typename
+                               ... on Issue { number title url }
+                               ... on PullRequest { number title url }
+                             }
+                             fieldValues(first:50){
+                               nodes{
+                                 ... on ProjectV2ItemFieldSingleSelectValue {
+                                   name
+                                   field { ... on ProjectV2SingleSelectField { name } }
+                                 }
+                               }
+                             }
+                           }
+                           pageInfo{ hasNextPage endCursor }
+                         }
+                       }
+                     }
+                   }`;
+            }
+
+            async function fetchAll(){
+              let items = [];
+              let cursor = null;
+              while (true) {
+                const res = await github.graphql(q(ownerType), { owner, number, cursor });
+                const proj = ownerType === 'organization'
+                  ? res.organization?.projectV2
+                  : res.user?.projectV2;
+                if (!proj) {
+                  core.setFailed(`No se encontró el Project ${ownerType}=${owner} #${number}`);
+                  return [];
+                }
+                items.push(...proj.items.nodes);
+                if (!proj.items.pageInfo.hasNextPage) break;
+                cursor = proj.items.pageInfo.endCursor;
+              }
+              return items;
+            }
+
+            // Carga estado previo (si existe)
+            let prev = {};
+            try { prev = JSON.parse(fs.readFileSync(stateFile, 'utf8')); } catch {}
+
+            const items = await fetchAll();
+            const current = {};
+            const changes = [];
+
+            const getStatus = (it) => {
+              const n = it.fieldValues.nodes.find(n => n?.field?.name === 'Status');
+              return n?.name || null;
+            };
+
+            for (const it of items) {
+              const status = getStatus(it);
+              const title = it.content?.title || '(sin título)';
+              const url   = it.content?.url || null;
+              const type  = it.content?.__typename || 'Item';
+              current[it.id] = { status, title, url, type };
+
+              const before = prev[it.id]?.status ?? null;
+              if (before !== null && before !== status) {
+                changes.push({ title, url, type, from: before, to: status });
+              }
+            }
+
+            // guarda estado
+            fs.mkdirSync(path.dirname(stateFile), { recursive: true });
+            fs.writeFileSync(stateFile, JSON.stringify(current, null, 2));
+
+            // outputs
+            core.setOutput('has_changes', String(changes.length > 0));
+            const msg = changes.length
+              ? '📢 **¡Cambios de Status en el Project #' + number + '!**\n\n'
+                + changes.map(c => `• **${c.type}** [${c.title}](${c.url}) — \`${c.from}\` ➜ \`${c.to}\``).join('\n')
+              : '';
+            core.setOutput('message', msg);
+            core.setOutput('count', String(changes.length));
+
+      - name: Persistir estado al repo
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
-          webhook_id: ${{ secrets.DISCORD_UPDATES_ID }}
-          webhook_token: ${{ secrets.DISCORD_UPDATES_TOKEN }}
-          username: 'GitHub Updates'
-          avatar_url: 'https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png'
-          message: |
-            📢 **¡Cambio detectado en el proyecto!**
-            
-            ${{ steps.project_watcher.outputs.changes }}
+          commit_message: "chore(project-watcher): actualizar caché de Status"
+          file_pattern: .github/project-status-cache.json
+
+      - name: Notificar en Discord
+        if: steps.watch.outputs.has_changes == 'true'
+        uses: appleboy/discord-action@v1.2.0
+        with:
+          # más simple con 1 solo secreto:
+          webhook_url: ${{ secrets.DISCORD_UPDATES_URL }}
+          username: "GitHub Updates"
+          avatar_url: "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png"
+          message: ${{ steps.watch.outputs.message }}

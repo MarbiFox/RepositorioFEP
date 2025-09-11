@@ -114,7 +114,7 @@ jobs:
             // Outputs
             core.setOutput('has_changes', String(changes.length > 0));
             const msg = changes.length
-              ? '📢 **¡Cambios de Status en el Project #' + number + '!**\n\n'
+              ? '📢 **¡Cambios de Status en el Projecto de FEP' + '!**\n\n'
                 + changes.map(c => `• **${c.type}** [${c.title}](${c.url}) — \`${c.from}\` ➜ \`${c.to}\``).join('\n')
               : '';
             core.setOutput('message', msg);

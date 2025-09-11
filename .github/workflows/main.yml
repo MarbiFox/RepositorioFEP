@@ -42,8 +42,11 @@ jobs:
                 deleted)
                   MAIN_MESSAGE="Un issue fue **eliminado** por **${ACTOR}**."
                   ;;
+                edited)
+                  MAIN_MESSAGE="Un issue fue **editado** por **${ACTOR}**."
+                  ;;
                 *)
-                  MAIN_MESSAGE="El issue fue **${ACTION}** por **${ACTOR}**."
+                  MAIN_MESSAGE="Un issue fue **${ACTION}** por **${ACTOR}**."
                   ;;
               esac
 

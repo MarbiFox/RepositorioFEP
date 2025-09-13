@@ -1,8 +1,38 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgej5B8": {
+    "status": "Aceptado",
+    "title": "Preparar Guión del Subdocumento 1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/139",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej5KA": {
+    "status": "Aceptado",
+    "title": "Preparar Guión del Subdocumento 2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/140",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgej5SM": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Preparar Guión del Subdocumento 3",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/141",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejy8Y": {
+    "status": "Aceptado",
+    "title": "Realizar la Portada del Informe - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/109",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgd87yU": {
+    "status": "En Progreso",
+    "title": "Redactar requerimientos funcionales",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/50",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgeju6k": {
+    "status": "En Progreso",
+    "title": "Diseñar Slides del Subdocumento 3",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/98",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNzWk": {
@@ -263,12 +293,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/24",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgd87yU": {
-    "status": "En Progreso",
-    "title": "Redactar requerimientos funcionales",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/50",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgdwMxA": {
     "status": "En Progreso",
     "title": "Investigar 10 papers distintos - Trabajo de investigación 1",
@@ -467,40 +491,16 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/59",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej5B8": {
-    "status": "En Progreso",
-    "title": "Preparar Guión del Subdocumento 1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/139",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgej5KA": {
-    "status": "En Progreso",
-    "title": "Preparar Guión del Subdocumento 2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/140",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej5b8": {
     "status": "En Progreso",
     "title": "Preparar Guión del Subdocumento 13",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/143",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejunE": {
-    "status": "Backlog",
-    "title": "Diseñar Slides del Subdocumento 1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/96",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejuv0": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Diseñar Slides del Subdocumento 2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/97",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgeju6k": {
-    "status": "Backlog",
-    "title": "Diseñar Slides del Subdocumento 3",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/98",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejvCY": {
@@ -575,12 +575,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/107",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejy8Y": {
-    "status": "Listo",
-    "title": "Realizar la Portada del Informe - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/109",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzB8": {
     "status": "Backlog",
     "title": "Redactar Resumen - Investigación #1",
@@ -603,6 +597,12 @@
     "status": "Backlog",
     "title": "Redactar sobre Kubernetes Architeture Deep Dive - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/113",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejunE": {
+    "status": "En Progreso",
+    "title": "Diseñar Slides del Subdocumento 1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/96",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {

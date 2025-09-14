@@ -1,18 +1,18 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzgej5b8": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Preparar Guión del Subdocumento 13",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/143",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgdwMxA": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Investigar 10 papers distintos - Trabajo de investigación 1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/17",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Redactar Introducción y Contexto - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/111",
     "type": "Issue"
@@ -51,6 +51,12 @@
     "status": "En Progreso",
     "title": "Redactar requerimientos funcionales",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/50",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejsLM": {
+    "status": "En Progreso",
+    "title": "Preparar el diseño de la presentación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/92",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeju6k": {
@@ -387,12 +393,6 @@
     "status": "Backlog",
     "title": "Listar casos de uso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/54",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejsLM": {
-    "status": "Backlog",
-    "title": "Preparar el diseño de la presentación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/92",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeAxnA": {

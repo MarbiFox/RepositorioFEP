@@ -1,6 +1,6 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzgej5Yk": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Preparar Guión del Subdocumento 5",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/142",
     "type": "Issue"
@@ -39,6 +39,12 @@
     "status": "En Progreso",
     "title": "Diseñar Slides del Subdocumento 3",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/98",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {
+    "status": "En Progreso",
+    "title": "Redactar Introducción y Contexto - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/111",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNzWk": {
@@ -579,12 +585,6 @@
     "status": "Backlog",
     "title": "Redactar Resumen - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/110",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {
-    "status": "Backlog",
-    "title": "Redactar Introducción y Contexto - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/111",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {

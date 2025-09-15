@@ -455,6 +455,30 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/81",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgejwmU": {
+    "status": null,
+    "title": "Redactar Subdocumento 6",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/101",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgev-tM": {
+    "status": null,
+    "title": "Redactar Subdocumento 7",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/147",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgev-0g": {
+    "status": null,
+    "title": "Redactar Subdocumento 8",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/148",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgev_E4": {
+    "status": null,
+    "title": "Redactar Subdocumento 9",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/149",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgeNzRs": {
     "status": null,
     "title": "Redactar especificaciones DC primario",
@@ -543,12 +567,6 @@
     "status": "Backlog",
     "title": "Investigar Fuentes Técnicas - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/120",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejwmU": {
-    "status": null,
-    "title": "Redactar Subdocumento 6",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/101",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejw14": {
@@ -735,6 +753,24 @@
     "status": null,
     "title": "Imprimir Trabajo - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/136",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgev_Kw": {
+    "status": null,
+    "title": "Redactar Subdocumento 10",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/150",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgev_jE": {
+    "status": null,
+    "title": "Redactar Subdocumento 10",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/151",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgev_m4": {
+    "status": null,
+    "title": "Redactar Subdocumento 12",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/152",
     "type": "Issue"
   }
 }

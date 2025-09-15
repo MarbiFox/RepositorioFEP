@@ -1,10 +1,4 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgej5b8": {
-    "status": "En Revisión",
-    "title": "Preparar Guión del Subdocumento 13",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/143",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgdwMxA": {
     "status": "En Revisión",
     "title": "Investigar 10 papers distintos - Trabajo de investigación 1",
@@ -47,16 +41,22 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/142",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgejsLM": {
+    "status": "Aceptado",
+    "title": "Preparar el diseño de la presentación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/92",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej5b8": {
+    "status": "Aceptado",
+    "title": "Preparar Guión del Subdocumento 13",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/143",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgd87yU": {
     "status": "En Progreso",
     "title": "Redactar requerimientos funcionales",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/50",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejsLM": {
-    "status": "En Progreso",
-    "title": "Preparar el diseño de la presentación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/92",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeju6k": {
@@ -509,6 +509,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/97",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgejunE": {
+    "status": "En Progreso",
+    "title": "Diseñar Slides del Subdocumento 1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/96",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgejvCY": {
     "status": "Backlog",
     "title": "Diseñar Slides del Subdocumento 5",
@@ -597,12 +603,6 @@
     "status": "Backlog",
     "title": "Redactar sobre Kubernetes Architeture Deep Dive - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/113",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejunE": {
-    "status": "En Progreso",
-    "title": "Diseñar Slides del Subdocumento 1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/96",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {

@@ -6,7 +6,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Redactar Introducción y Contexto - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/111",
     "type": "Issue"
@@ -789,6 +789,18 @@
     "status": null,
     "title": "Estudiar material de apoyo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/155",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgexXVs": {
+    "status": null,
+    "title": "Diseñar la arquitectura física de la solución",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/156",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgexXdI": {
+    "status": null,
+    "title": "Redactar sección de arquitectura física de informe",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
     "type": "Issue"
   }
 }

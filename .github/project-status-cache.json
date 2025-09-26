@@ -1,32 +1,38 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgejzqk": {
-    "status": "Listo",
-    "title": "Redactar sobre Platform Engineering Concepts - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/115",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejunE": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Diseñar Slides del Subdocumento 1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/96",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejuv0": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Diseñar Slides del Subdocumento 2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/97",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeju6k": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Diseñar Slides del Subdocumento 3",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/98",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejvCY": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Diseñar Slides del Subdocumento 5",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/99",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejvFc": {
+    "status": "En Revisión",
+    "title": "Diseñar Slides del Subdocumento 13",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/100",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejzqk": {
+    "status": "Listo",
+    "title": "Redactar sobre Platform Engineering Concepts - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/115",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej0uk": {
@@ -579,12 +585,6 @@
     "status": "En Progreso",
     "title": "Redactar sobre Cloud-Native Computing Foundations - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/112",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejvFc": {
-    "status": "En Progreso",
-    "title": "Diseñar Slides del Subdocumento 13",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/100",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {

@@ -1,10 +1,4 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgeju6k": {
-    "status": "En Progreso",
-    "title": "Diseñar Slides del Subdocumento 3",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/98",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzqk": {
     "status": "Listo",
     "title": "Redactar sobre Platform Engineering Concepts - Investigación #1",
@@ -15,6 +9,24 @@
     "status": "Listo",
     "title": "Diseñar Slides del Subdocumento 1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/96",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejuv0": {
+    "status": "Listo",
+    "title": "Diseñar Slides del Subdocumento 2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/97",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgeju6k": {
+    "status": "Listo",
+    "title": "Diseñar Slides del Subdocumento 3",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/98",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejvCY": {
+    "status": "Listo",
+    "title": "Diseñar Slides del Subdocumento 5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/99",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej0uk": {
@@ -561,18 +573,6 @@
     "status": "Aceptado",
     "title": "Indicar datos cuantitativos del problema",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/59",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejuv0": {
-    "status": "En Progreso",
-    "title": "Diseñar Slides del Subdocumento 2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/97",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejvCY": {
-    "status": "En Progreso",
-    "title": "Diseñar Slides del Subdocumento 5",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/99",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {

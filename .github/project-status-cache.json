@@ -29,10 +29,28 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/100",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgexMHg": {
+    "status": "Aceptado",
+    "title": "Estudiar material de apoyo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/155",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej5nE": {
+    "status": "Aceptado",
+    "title": "Practicar Presentación - Avance #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/144",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzqk": {
     "status": "Listo",
     "title": "Redactar sobre Platform Engineering Concepts - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/115",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejteI": {
+    "status": "Listo",
+    "title": "Identificar Errores/Inconsistencias del Informe",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/94",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej0uk": {
@@ -359,12 +377,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/24",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejteI": {
-    "status": "En Progreso",
-    "title": "Identificar Errores/Inconsistencias del Informe",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/94",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgdw3JQ": {
     "status": null,
     "title": "Coordinar y Contratar Servicios",
@@ -593,12 +605,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/114",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejtu4": {
-    "status": "Backlog",
-    "title": "Proponer Soluciones para Inconsistencias Detectadas",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/95",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejw14": {
     "status": null,
     "title": "Realizar Trabajo de Investigación #1",
@@ -647,16 +653,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/113",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej5nE": {
+  "PVTI_lAHOBVxpwc4BAKpgzgejtu4": {
     "status": "En Progreso",
-    "title": "Practicar Presentación - Avance #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/144",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgexMHg": {
-    "status": "En Progreso",
-    "title": "Estudiar material de apoyo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/155",
+    "title": "Proponer Soluciones para Inconsistencias Detectadas",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/95",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzxs": {

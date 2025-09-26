@@ -1,30 +1,30 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzgejunE": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Diseñar Slides del Subdocumento 1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/96",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejuv0": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Diseñar Slides del Subdocumento 2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/97",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeju6k": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Diseñar Slides del Subdocumento 3",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/98",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejvCY": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Diseñar Slides del Subdocumento 5",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/99",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejvFc": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Diseñar Slides del Subdocumento 13",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/100",
     "type": "Issue"
@@ -593,12 +593,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/114",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej5nE": {
-    "status": "Backlog",
-    "title": "Practicar Presentación - Avance #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/144",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejtu4": {
     "status": "Backlog",
     "title": "Proponer Soluciones para Inconsistencias Detectadas",
@@ -653,6 +647,18 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/113",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgej5nE": {
+    "status": "En Progreso",
+    "title": "Practicar Presentación - Avance #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/144",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgexMHg": {
+    "status": "En Progreso",
+    "title": "Estudiar material de apoyo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/155",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzxs": {
     "status": "Backlog",
     "title": "Redactar Análisis Comparativo de Tecnologías/Productos - Investigación #1",
@@ -684,13 +690,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej1OY": {
-    "status": "Backlog",
+    "status": null,
     "title": "Redactar el Trabajo de Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/122",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej1Po": {
-    "status": "Backlog",
+    "status": null,
     "title": "Realizar la Presentación del Trabajo de Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/123",
     "type": "Issue"
@@ -783,12 +789,6 @@
     "status": null,
     "title": "Coordinar diariamente posible horarios de refinamiento",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/154",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgexMHg": {
-    "status": "Backlog",
-    "title": "Estudiar material de apoyo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/155",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgexXVs": {

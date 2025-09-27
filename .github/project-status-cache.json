@@ -5,12 +5,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/18",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejzeA": {
-    "status": "En Revisión",
-    "title": "Redactar sobre Kubernetes Architeture Deep Dive - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/113",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej1Z8": {
     "status": "Aceptado",
     "title": "Investigar Fuentes Técnicas - Investigación #2",
@@ -81,6 +75,12 @@
     "status": "En Progreso",
     "title": "Redactar Introducción y Contexto - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/111",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {
+    "status": "En Progreso",
+    "title": "Redactar sobre Cloud-Native Computing Foundations - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/112",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej5B8": {
@@ -353,6 +353,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/138",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgejzeA": {
+    "status": "Aceptado",
+    "title": "Redactar sobre Kubernetes Architeture Deep Dive - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/113",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgejtC4": {
     "status": null,
     "title": "Preparar Posibles Preguntas - Avance #1",
@@ -599,12 +605,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/59",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {
-    "status": "En Progreso",
-    "title": "Redactar sobre Cloud-Native Computing Foundations - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/112",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {
     "status": "En Progreso",
     "title": "Redactar sobre Multi-Cloud Strategies - Investigación #1",
@@ -678,7 +678,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej1H0": {
-    "status": null,
+    "status": "Aceptado",
     "title": "Investigar y Analizar Fuentes de Información - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/121",
     "type": "Issue"

@@ -1,6 +1,6 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzgdwM-c": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Investigar 10 papers distintos - Trabajo de investigación 2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/18",
     "type": "Issue"
@@ -60,15 +60,9 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzqk": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Redactar sobre Platform Engineering Concepts - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/115",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejteI": {
-    "status": "Listo",
-    "title": "Identificar Errores/Inconsistencias del Informe",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/94",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej0uk": {
@@ -659,12 +653,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/110",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejtu4": {
-    "status": "En Progreso",
-    "title": "Proponer Soluciones para Inconsistencias Detectadas",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/95",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzxs": {
     "status": "Backlog",
     "title": "Redactar Análisis Comparativo de Tecnologías/Productos - Investigación #1",
@@ -750,9 +738,15 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejteI": {
+    "status": "En Progreso",
+    "title": "Identificar Errores/Inconsistencias del Informe",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/94",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej3tg": {
@@ -891,6 +885,12 @@
     "status": "Backlog",
     "title": "Diseñar Slides de Brechas y Retos en Seguridad Cloud",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/172",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejtu4": {
+    "status": "Backlog",
+    "title": "Proponer Soluciones para Inconsistencias Detectadas",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/95",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXIQ": {

@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {
+    "status": "En Revisión",
+    "title": "Redactar sobre Multi-Cloud Strategies - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/114",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgdwM-c": {
     "status": "Aceptado",
     "title": "Investigar 10 papers distintos - Trabajo de investigación 2",
@@ -599,12 +605,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/59",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {
-    "status": "En Progreso",
-    "title": "Redactar sobre Multi-Cloud Strategies - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/114",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejw14": {
     "status": null,
     "title": "Realizar Trabajo de Investigación #1",
@@ -707,6 +707,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/127",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgejteI": {
+    "status": "Backlog",
+    "title": "Identificar Errores/Inconsistencias del Informe",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/94",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgej29o": {
     "status": "Backlog",
     "title": "Redactar Introducción y Contexto - Investigación #2",
@@ -735,12 +741,6 @@
     "status": "En Progreso",
     "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejteI": {
-    "status": "En Progreso",
-    "title": "Identificar Errores/Inconsistencias del Informe",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/94",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {

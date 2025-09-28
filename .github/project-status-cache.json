@@ -1,10 +1,4 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {
-    "status": "En Progreso",
-    "title": "Redactar Introducción y Contexto - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/111",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgdwM-c": {
     "status": "Aceptado",
     "title": "Investigar 10 papers distintos - Trabajo de investigación 2",
@@ -747,6 +741,12 @@
     "status": "En Progreso",
     "title": "Identificar Errores/Inconsistencias del Informe",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/94",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {
+    "status": "En Progreso",
+    "title": "Redactar Introducción y Contexto - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/111",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej3tg": {

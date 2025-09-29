@@ -210,7 +210,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgd87Z0": {
-    "status": "Aceptado",
+    "status": "Backlog",
     "title": "Redactar los problemas secundarios del caso de estudio",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/47",
     "type": "Issue"
@@ -924,13 +924,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMHI": {
-    "status": null,
-    "title": "Corregir los módulos existentes",
+    "status": "Backlog",
+    "title": "Asegurar la consistencia de los módulos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/178",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMRs": {
-    "status": null,
+    "status": "Backlog",
     "title": "Investigar los módulos faltantes que están en la licitación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/179",
     "type": "Issue"
@@ -978,7 +978,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQM1g": {
-    "status": null,
+    "status": "Backlog",
     "title": "Investigar Módulos complementarios - Aportan valor a la solución",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/187",
     "type": "Issue"

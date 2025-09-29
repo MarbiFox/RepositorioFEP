@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {
+    "status": "Listo",
+    "title": "Redactar sobre Cloud-Native Computing Foundations - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/112",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {
     "status": "En Revisión",
     "title": "Redactar sobre Multi-Cloud Strategies - Investigación #1",
@@ -75,12 +81,6 @@
     "status": "Aceptado",
     "title": "Investigar 10 papers distintos - Trabajo de investigación 1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/17",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {
-    "status": "En Progreso",
-    "title": "Redactar sobre Cloud-Native Computing Foundations - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/112",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej5B8": {
@@ -942,25 +942,25 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificación Módulo 2 - POS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/181",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMgQ": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificación Módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/182",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMjw": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificación Módulo 3 - Marketing Visual",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/183",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMpA": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificación Módulo 5 - ERP",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/184",
     "type": "Issue"
@@ -973,7 +973,7 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMsg": {
     "status": null,
-    "title": "Redactar especificación Módulo 7 - Callcenter",
+    "title": "Redactar especificación Módulo 7 - OPERACIÓN, MANTENCIÓN Y SOPORTE",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/186",
     "type": "Issue"
   },

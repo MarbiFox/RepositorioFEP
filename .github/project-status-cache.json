@@ -1,6 +1,6 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzgej29o": {
-    "status": "En Revisión",
+    "status": "Listo",
     "title": "Redactar Introducción y Contexto - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/128",
     "type": "Issue"
@@ -15,6 +15,12 @@
     "status": "En Revisión",
     "title": "Redactar sobre Multi-Cloud Strategies - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/114",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfCWxk": {
+    "status": "En Revisión",
+    "title": "Diseñar Introducción",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/159",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCWw0": {
@@ -803,12 +809,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfCWxk": {
-    "status": "Backlog",
-    "title": "Diseñar Introducción",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/159",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW4c": {
     "status": "Backlog",
     "title": "Diseñar Slides de Cloud-Native",
@@ -829,7 +829,7 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW7I": {
     "status": "Backlog",
-    "title": "Diseñar Slides de Platform Engineering",
+    "title": "Diseñar Slides de Platform Engineering - Trabajo Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/163",
     "type": "Issue"
   },
@@ -859,7 +859,7 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXCg": {
     "status": "Backlog",
-    "title": "Diseñar Slide de Introducción",
+    "title": "Diseñar Slide de Introducción - Trabajo Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/168",
     "type": "Issue"
   },

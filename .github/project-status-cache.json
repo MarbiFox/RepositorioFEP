@@ -179,6 +179,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/74",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
+    "status": "Backlog",
+    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgd88Bk": {
     "status": "Backlog",
     "title": "Refinar diagrama de contexto de solución",
@@ -653,12 +659,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/116",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej0Mo": {
-    "status": "Backlog",
-    "title": "Redactar Tendencias y Evolución Futura - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/117",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej0TI": {
     "status": "Backlog",
     "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #1",
@@ -731,12 +731,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/131",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
-    "status": "En Progreso",
-    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {
     "status": "En Progreso",
     "title": "Redactar Introducción y Contexto - Investigación #1",
@@ -747,6 +741,12 @@
     "status": "En Progreso",
     "title": "Redactar sobre Fundamentos de Computación en la Nube - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/129",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej0Mo": {
+    "status": "En Progreso",
+    "title": "Redactar Tendencias y Evolución Futura - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/117",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej3tg": {

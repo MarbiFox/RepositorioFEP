@@ -1,6 +1,6 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Redactar sobre Cloud-Native Computing Foundations - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/112",
     "type": "Issue"
@@ -636,7 +636,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejyUI": {
-    "status": null,
+    "status": "Backlog",
     "title": "Realizar Cuestionarios de Evaluación sobre la Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/107",
     "type": "Issue"
@@ -966,13 +966,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMqQ": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificación Módulo 6 - CRM",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/185",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMsg": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificación Módulo 7 - OPERACIÓN, MANTENCIÓN Y SOPORTE",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/186",
     "type": "Issue"
@@ -987,6 +987,150 @@
     "status": "Backlog",
     "title": "Redactar especificación Módulo 8 - Analítica de Mercado",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/188",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSQQ": {
+    "status": "Backlog",
+    "title": "Formular preguntas selección múltiple - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/189",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSRs": {
+    "status": "Backlog",
+    "title": "Formular preguntas de tipo selección múltiple - TI1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/190",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSTA": {
+    "status": "Backlog",
+    "title": "Formular preguntas verdadero/falso - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/191",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSUE": {
+    "status": "Backlog",
+    "title": "Formular preguntas de tipo verdadero/falso para TI1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/192",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSWc": {
+    "status": "Backlog",
+    "title": "Formular preguntas de completar - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/193",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSW0": {
+    "status": "Backlog",
+    "title": "Formular preguntas de tipo completar - TI1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/194",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSYQ": {
+    "status": "Backlog",
+    "title": "Formular preguntas de tipo respuesta corta - TI1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/195",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSZQ": {
+    "status": "Backlog",
+    "title": "Formular preguntas de respuesta corta - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/196",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTT9g": {
+    "status": "Backlog",
+    "title": "Redactar requerimiento no funcionales Módulo 1 - Tarjeta TOPTAR",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/197",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTT-E": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos funcionales para el módulo 2 - POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/198",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUHM": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos funcionales para el módulo 1 - Tarjeta TOPTAR",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/199",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUH4": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos no funcionales Módulo 2 - POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/200",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUIw": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos funcionales para el módulo 3 - Marketing Visual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/201",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTULg": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos funcionales para el módulo 5 - ERP",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/203",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUMs": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos no funcionales Módulo 3 - Marketing Visual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/204",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUM4": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos funcionales para el módulo 6 - CRM",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/205",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTURg": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos funcionales para el módulo 7 - OPERACIÓN, MANTENCIÓN Y SOPORTE",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/206",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
+    "status": "Backlog",
+    "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUTo": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos funcionales para el módulo 8 - Analítica de Mercado",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/208",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUW4": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos no funcionales Módulo 5 - ERP",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/209",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUbU": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos no funcionales Módulo 6 - CRM",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/210",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUg0": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos no funcionales Módulo 7 - Operación, Mantenimiento y soporte",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/211",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUlA": {
+    "status": "Backlog",
+    "title": "Redactar requerimientos no funcionales Módulo 8 - Analítica de mercado",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/212",
     "type": "Issue"
   }
 }

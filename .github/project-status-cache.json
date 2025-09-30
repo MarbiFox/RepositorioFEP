@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgej29o": {
+    "status": "En Revisión",
+    "title": "Redactar Introducción y Contexto - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/128",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {
     "status": "En Revisión",
     "title": "Redactar sobre Cloud-Native Computing Foundations - Investigación #1",
@@ -9,6 +15,12 @@
     "status": "En Revisión",
     "title": "Redactar sobre Multi-Cloud Strategies - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/114",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfCWw0": {
+    "status": "Aceptado",
+    "title": "Diseñar Portada y Plantilla de la Presentación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/158",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgdwM-c": {
@@ -713,12 +725,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/94",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej29o": {
-    "status": "Listo",
-    "title": "Redactar Introducción y Contexto - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/128",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej3LQ": {
     "status": "Backlog",
     "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
@@ -795,12 +801,6 @@
     "status": null,
     "title": "Redactar sección de arquitectura física de informe",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfCWw0": {
-    "status": "Listo",
-    "title": "Diseñar Portada y Plantilla de la Presentación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/158",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCWxk": {

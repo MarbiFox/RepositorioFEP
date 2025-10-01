@@ -1,8 +1,8 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgej29o": {
-    "status": "En Progreso",
-    "title": "Redactar Introducción y Contexto - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/128",
+  "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {
+    "status": "Aceptado",
+    "title": "Redactar Introducción y Contexto - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/111",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {
@@ -12,20 +12,26 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {
-    "status": "En Revisión",
+    "status": "En Progreso",
     "title": "Redactar sobre Multi-Cloud Strategies - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/114",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgej29o": {
+    "status": "Aceptado",
+    "title": "Redactar Introducción y Contexto - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/128",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfCWxk": {
-    "status": "En Revisión",
-    "title": "Diseñar Introducción",
+    "status": "Aceptado",
+    "title": "Diseñar Introducción #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/159",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCWw0": {
     "status": "Aceptado",
-    "title": "Diseñar Portada y Plantilla de la Presentación",
+    "title": "Diseñar Portada y Plantilla de la Presentación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/158",
     "type": "Issue"
   },
@@ -714,7 +720,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej2g0": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Realizar la Portada del Informe - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/126",
     "type": "Issue"
@@ -741,12 +747,6 @@
     "status": "Backlog",
     "title": "Redactar sobre Normativas y Reglamentos - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/131",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejzNg": {
-    "status": "En Progreso",
-    "title": "Redactar Introducción y Contexto - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/111",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej3FQ": {
@@ -810,7 +810,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW4c": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Diseñar Slides de Cloud-Native",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/160",
     "type": "Issue"
@@ -852,8 +852,8 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXBc": {
-    "status": "Backlog",
-    "title": "Diseñar Portada y Plantilla de la Presentación",
+    "status": "En Progreso",
+    "title": "Diseñar Portada y Plantilla de la Presentación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/167",
     "type": "Issue"
   },

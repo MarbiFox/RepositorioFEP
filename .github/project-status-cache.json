@@ -767,12 +767,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/94",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej37Y": {
-    "status": "Backlog",
-    "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/135",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej4BA": {
     "status": "Backlog",
     "title": "Imprimir Trabajo - Investigación #2",
@@ -825,6 +819,12 @@
     "status": "En Progreso",
     "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/130",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej37Y": {
+    "status": "En Progreso",
+    "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/135",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW7I": {

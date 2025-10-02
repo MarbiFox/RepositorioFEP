@@ -251,12 +251,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/74",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
-    "status": "Backlog",
-    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgd88Bk": {
     "status": "Backlog",
     "title": "Refinar diagrama de contexto de solución",
@@ -801,6 +795,12 @@
     "status": "En Progreso",
     "title": "Diseñar Portada y Plantilla de la Presentación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/167",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
+    "status": "En Progreso",
+    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW5U": {

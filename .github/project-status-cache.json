@@ -761,12 +761,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/126",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej2nk": {
-    "status": "En Progreso",
-    "title": "Redactar Resumen - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/127",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejteI": {
     "status": "Aceptado",
     "title": "Identificar Errores/Inconsistencias del Informe",
@@ -825,6 +819,12 @@
     "status": "Listo",
     "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/130",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej2nk": {
+    "status": "Listo",
+    "title": "Redactar Resumen - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/127",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW7I": {

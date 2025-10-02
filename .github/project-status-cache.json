@@ -1,8 +1,14 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzgej37Y": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/135",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfCW6M": {
+    "status": "En Revisión",
+    "title": "Diseñar Slides de Multi-Cloud",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/162",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej34k": {
@@ -756,7 +762,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej2nk": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar Resumen - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/127",
     "type": "Issue"
@@ -815,14 +821,8 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/161",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfCW6M": {
-    "status": "Listo",
-    "title": "Diseñar Slides de Multi-Cloud",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/162",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej3LQ": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/130",
     "type": "Issue"

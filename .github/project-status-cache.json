@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgfCW4c": {
+    "status": "En Revisión",
+    "title": "Diseñar Slides de Cloud-Native",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/160",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgej0TI": {
     "status": "Aceptado",
     "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #1",
@@ -17,8 +23,14 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/134",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgejzB8": {
+    "status": "Listo",
+    "title": "Redactar Resumen - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/110",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgej3hw": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Redactar sobre Normativas y Reglamentos - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/131",
     "type": "Issue"
@@ -791,22 +803,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfCW4c": {
-    "status": "En Progreso",
-    "title": "Diseñar Slides de Cloud-Native",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/160",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXBc": {
     "status": "En Progreso",
     "title": "Diseñar Portada y Plantilla de la Presentación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/167",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgejzB8": {
-    "status": "En Progreso",
-    "title": "Redactar Resumen - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/110",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej3tg": {

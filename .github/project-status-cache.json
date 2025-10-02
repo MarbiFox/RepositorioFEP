@@ -1,6 +1,12 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgej0TI": {
+    "status": "Aceptado",
+    "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/118",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgejzxs": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Redactar Análisis Comparativo de Tecnologías/Productos - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/116",
     "type": "Issue"
@@ -11,16 +17,16 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/134",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej0TI": {
-    "status": "Listo",
-    "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/118",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej3hw": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Redactar sobre Normativas y Reglamentos - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/131",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej3FQ": {
+    "status": "Aceptado",
+    "title": "Redactar sobre Fundamentos de Computación en la Nube - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/129",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {
@@ -843,12 +849,6 @@
     "status": "Backlog",
     "title": "Diseñar Slide de Conclusión y Referencias",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/166",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgej3FQ": {
-    "status": "En Progreso",
-    "title": "Redactar sobre Fundamentos de Computación en la Nube - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/129",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {

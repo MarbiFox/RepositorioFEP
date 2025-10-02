@@ -1,6 +1,30 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {
+  "PVTI_lAHOBVxpwc4BAKpgzgejzxs": {
     "status": "En Revisión",
+    "title": "Redactar Análisis Comparativo de Tecnologías/Productos - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/116",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej34k": {
+    "status": "Listo",
+    "title": "Redactar Tendencias y Evolución Futura - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/134",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej0TI": {
+    "status": "Listo",
+    "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/118",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej3hw": {
+    "status": "Listo",
+    "title": "Redactar sobre Normativas y Reglamentos - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/131",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejzlA": {
+    "status": "Aceptado",
     "title": "Redactar sobre Multi-Cloud Strategies - Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/114",
     "type": "Issue"
@@ -671,18 +695,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/107",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejzB8": {
-    "status": "Backlog",
-    "title": "Redactar Resumen - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/110",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgej0TI": {
-    "status": "Backlog",
-    "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/118",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgejyX4": {
     "status": "Backlog",
     "title": "Imprimir Trabajo - Investigación #1",
@@ -737,24 +749,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/130",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej3hw": {
-    "status": "En Progreso",
-    "title": "Redactar sobre Normativas y Reglamentos - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/131",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgej3tg": {
-    "status": "Backlog",
-    "title": "Redactar Análisis Comparativo de Tecnologías/Productos - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/133",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgej34k": {
-    "status": "Backlog",
-    "title": "Redactar Tendencias y Evolución Futura - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/134",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej37Y": {
     "status": "Backlog",
     "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #2",
@@ -797,16 +791,22 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/160",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgejzxs": {
-    "status": "En Progreso",
-    "title": "Redactar Análisis Comparativo de Tecnologías/Productos - Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/116",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXBc": {
     "status": "En Progreso",
     "title": "Diseñar Portada y Plantilla de la Presentación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/167",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgejzB8": {
+    "status": "En Progreso",
+    "title": "Redactar Resumen - Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/110",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej3tg": {
+    "status": "En Progreso",
+    "title": "Redactar Análisis Comparativo de Tecnologías/Productos - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/133",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW5U": {
@@ -846,7 +846,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej3FQ": {
-    "status": "Listo",
+    "status": "En Progreso",
     "title": "Redactar sobre Fundamentos de Computación en la Nube - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/129",
     "type": "Issue"

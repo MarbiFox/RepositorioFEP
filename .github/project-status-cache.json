@@ -1,4 +1,22 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgej3LQ": {
+    "status": "Aceptado",
+    "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/130",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
+    "status": "Aceptado",
+    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej2nk": {
+    "status": "Aceptado",
+    "title": "Redactar Resumen - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/127",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgej37Y": {
     "status": "Aceptado",
     "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #2",
@@ -9,6 +27,30 @@
     "status": "Aceptado",
     "title": "Formular preguntas de tipo completar - TI1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/194",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSZQ": {
+    "status": "Aceptado",
+    "title": "Formular preguntas de respuesta corta - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/196",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSWc": {
+    "status": "Aceptado",
+    "title": "Formular preguntas de completar - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/193",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSTA": {
+    "status": "Aceptado",
+    "title": "Formular preguntas verdadero/falso - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/191",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSQQ": {
+    "status": "Aceptado",
+    "title": "Formular preguntas selección múltiple - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/189",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTSUE": {
@@ -45,24 +87,6 @@
     "status": "Aceptado",
     "title": "Diseñar Slides de Kubernetes",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/161",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgej2nk": {
-    "status": "En Revisión",
-    "title": "Redactar Resumen - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/127",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgej3LQ": {
-    "status": "En Revisión",
-    "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/130",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
-    "status": "En Revisión",
-    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej34k": {
@@ -921,30 +945,6 @@
     "status": "Aceptado",
     "title": "Diseñar Portada y Plantilla de la Presentación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/167",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTSTA": {
-    "status": "En Progreso",
-    "title": "Formular preguntas verdadero/falso - TI2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/191",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTSZQ": {
-    "status": "En Progreso",
-    "title": "Formular preguntas de respuesta corta - TI2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/196",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTSQQ": {
-    "status": "En Progreso",
-    "title": "Formular preguntas selección múltiple - TI2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/189",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTSWc": {
-    "status": "En Progreso",
-    "title": "Formular preguntas de completar - TI2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/193",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {

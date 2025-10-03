@@ -1,4 +1,16 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgej3LQ": {
+    "status": "Listo",
+    "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/130",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
+    "status": "Listo",
+    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgej37Y": {
     "status": "Aceptado",
     "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #2",
@@ -803,22 +815,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/167",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
-    "status": "En Progreso",
-    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW5U": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Diseñar Slides de Kubernetes",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/161",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgej3LQ": {
-    "status": "Listo",
-    "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/130",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej2nk": {
@@ -828,25 +828,25 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW7I": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Diseñar Slides de Platform Engineering - Trabajo Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/163",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW84": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Diseñar Slides de Análisis Comparativo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/164",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW98": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Diseñar Slides de Tendencias Futuras",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/165",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW_U": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Diseñar Slide de Conclusión y Referencias",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/166",
     "type": "Issue"
@@ -858,31 +858,31 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXCg": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Diseñar Slide de Introducción - Trabajo Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/168",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXEM": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Diseñar Slide de Fundamentos de Computación en la Nube",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/169",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXFw": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Diseñar Slide de Gobernanza y Jurisdicción",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/170",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXGs": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Diseñar Slides de Normativas y Reglamentos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/171",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXHk": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Diseñar Slides de Brechas y Retos en Seguridad Cloud",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/172",
     "type": "Issue"
@@ -894,19 +894,19 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXIQ": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Diseñar Slides Análisis Comparativo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/173",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXI4": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Diseñar Slides de Tendencias Futuras",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/174",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXJI": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Diseñar Slide de Conclusión y Referencias",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/175",
     "type": "Issue"
@@ -1007,12 +1007,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/191",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTSUE": {
-    "status": "Backlog",
-    "title": "Formular preguntas de tipo verdadero/falso para TI1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/192",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTSWc": {
     "status": "Backlog",
     "title": "Formular preguntas de completar - TI2",
@@ -1025,8 +1019,14 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/194",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSUE": {
+    "status": "En Progreso",
+    "title": "Formular preguntas de tipo verdadero/falso para TI1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/192",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTSYQ": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Formular preguntas de tipo respuesta corta - TI1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/195",
     "type": "Issue"

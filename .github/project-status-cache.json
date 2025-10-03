@@ -1,4 +1,22 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
+    "status": "En Progreso",
+    "title": "Redactar especificación Módulo 2 - POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/181",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTT-E": {
+    "status": "En Progreso",
+    "title": "Redactar requerimientos funcionales para el módulo 2 - POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/198",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUH4": {
+    "status": "En Progreso",
+    "title": "Redactar requerimientos no funcionales Módulo 2 - POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/200",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgej3LQ": {
     "status": "Aceptado",
     "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
@@ -989,12 +1007,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/180",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
-    "status": "Backlog",
-    "title": "Redactar especificación Módulo 2 - POS",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/181",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMgQ": {
     "status": "Backlog",
     "title": "Redactar especificación Módulo 4 - Portal B2B",
@@ -1043,22 +1055,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/197",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTT-E": {
-    "status": "Backlog",
-    "title": "Redactar requerimientos funcionales para el módulo 2 - POS",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/198",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUHM": {
     "status": "Backlog",
     "title": "Redactar requerimientos funcionales para el módulo 1 - Tarjeta TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/199",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUH4": {
-    "status": "Backlog",
-    "title": "Redactar requerimientos no funcionales Módulo 2 - POS",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/200",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUIw": {

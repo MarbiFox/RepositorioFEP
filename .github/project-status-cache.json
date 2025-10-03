@@ -1,14 +1,14 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
-    "status": "Listo",
-    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej37Y": {
     "status": "Aceptado",
     "title": "Redactar sobre Conclusiones y Recomendaciones - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/135",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfCW7I": {
+    "status": "Aceptado",
+    "title": "Diseñar Slides de Platform Engineering - Trabajo Investigación #1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/163",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCW98": {
@@ -23,16 +23,16 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/161",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfCW7I": {
-    "status": "En Revisión",
-    "title": "Diseñar Slides de Platform Engineering - Trabajo Investigación #1",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/163",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTSRs": {
     "status": "En Revisión",
     "title": "Formular preguntas de tipo selección múltiple - TI1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/190",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej2nk": {
+    "status": "En Revisión",
+    "title": "Redactar Resumen - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/127",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTSW0": {
@@ -57,6 +57,12 @@
     "status": "En Revisión",
     "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/130",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgej3m8": {
+    "status": "En Revisión",
+    "title": "Redactar sobre Brechas y Retos de Seguridad Cloud - Investigación #2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/132",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgej34k": {
@@ -917,12 +923,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/167",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgej2nk": {
-    "status": "Listo",
-    "title": "Redactar Resumen - Investigación #2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/127",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTSTA": {
     "status": "En Progreso",
     "title": "Formular preguntas verdadero/falso - TI2",
@@ -933,6 +933,18 @@
     "status": "En Progreso",
     "title": "Formular preguntas de respuesta corta - TI2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/196",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSQQ": {
+    "status": "En Progreso",
+    "title": "Formular preguntas selección múltiple - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/189",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTSWc": {
+    "status": "En Progreso",
+    "title": "Formular preguntas de completar - TI2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/193",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejzY8": {
@@ -1023,18 +1035,6 @@
     "status": "Backlog",
     "title": "Redactar especificación Módulo 8 - Analítica de Mercado",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/188",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTSQQ": {
-    "status": "Backlog",
-    "title": "Formular preguntas selección múltiple - TI2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/189",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTSWc": {
-    "status": "Backlog",
-    "title": "Formular preguntas de completar - TI2",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/193",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTT9g": {

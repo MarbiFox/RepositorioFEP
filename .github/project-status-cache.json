@@ -1,4 +1,28 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgdwyec": {
+    "status": "Listo",
+    "title": "Declarar visión",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/31",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgdwylc": {
+    "status": "Listo",
+    "title": "Declarar misión",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/32",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgeNvmE": {
+    "status": "Listo",
+    "title": "Redactar objetivo general",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/73",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgeNvvk": {
+    "status": "Listo",
+    "title": "Redactar objetivos específicos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/74",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
     "status": "En Progreso",
     "title": "Redactar especificación Módulo 2 - POS",
@@ -15,18 +39,6 @@
     "status": "En Progreso",
     "title": "Declarar quienes somos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/30",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgdwyec": {
-    "status": "En Progreso",
-    "title": "Declarar visión",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/31",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgdwylc": {
-    "status": "En Progreso",
-    "title": "Declarar misión",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/32",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTT-E": {
@@ -431,22 +443,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/61",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgeNvmE": {
-    "status": "Backlog",
-    "title": "Redactar objetivo general",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/73",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgd87zk": {
     "status": null,
     "title": "Redactar requerimientos no funcionales",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/51",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgeNvvk": {
-    "status": "Backlog",
-    "title": "Redactar objetivos específicos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/74",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgd88Bk": {

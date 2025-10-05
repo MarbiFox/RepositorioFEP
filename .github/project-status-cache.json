@@ -11,6 +11,18 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/32",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgdwy4g": {
+    "status": "Listo",
+    "title": "Definir el equipo de trabajo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/33",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgdwyVA": {
+    "status": "Listo",
+    "title": "Declarar quienes somos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/30",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgeNvmE": {
     "status": "Listo",
     "title": "Redactar objetivo general",
@@ -27,18 +39,6 @@
     "status": "En Progreso",
     "title": "Redactar especificación Módulo 2 - POS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/181",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgdwy4g": {
-    "status": "En Progreso",
-    "title": "Definir el equipo de trabajo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/33",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgdwyVA": {
-    "status": "En Progreso",
-    "title": "Declarar quienes somos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/30",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTT-E": {
@@ -1032,7 +1032,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMsg": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar especificación Módulo 7 - OPERACIÓN, MANTENCIÓN Y SOPORTE",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/186",
     "type": "Issue"

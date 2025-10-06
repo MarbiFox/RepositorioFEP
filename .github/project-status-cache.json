@@ -1279,50 +1279,98 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZ_4": {
     "status": "Backlog",
-    "title": "Redactar Checkout invisible con IA",
+    "title": "Redactar innovación - Checkout invisible con IA",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/237",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaBA": {
     "status": "Backlog",
-    "title": "Redactar Asistente virtual de compras",
+    "title": "Redactar innovación - Asistente virtual de compras",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/238",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaCM": {
     "status": "Backlog",
-    "title": "Redactar crédito instantaneo",
+    "title": "Redactar innovación - Crédito instantáneo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/239",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaD4": {
     "status": "Backlog",
-    "title": "Redactar realidad virtual",
+    "title": "Redactar innovación - Realidad virtual",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/240",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaE4": {
     "status": "Backlog",
-    "title": "Redactar Martketplace social Commerce",
+    "title": "Redactar innovación - Martketplace social Commerce",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/241",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaF8": {
     "status": "Backlog",
-    "title": "Redactar predicción de demanda",
+    "title": "Redactar innovación - Predicción de demanda",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/242",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaYE": {
-    "status": null,
+    "status": "Backlog",
     "title": "Diseñar slice subdocumento 1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/243",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaYs": {
-    "status": null,
+    "status": "Backlog",
     "title": "Diseñar slice subdocumento 2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/244",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaZY": {
+    "status": "Backlog",
+    "title": "Diseñar slice subdocumento 3",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/245",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaZ4": {
+    "status": "Backlog",
+    "title": "Diseñar slice subdocumento 4",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/246",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaao": {
+    "status": "Backlog",
+    "title": "Diseñar slice subdocumento 5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/247",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkabs": {
+    "status": "Backlog",
+    "title": "Diseñar slice subdocumento 6",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/248",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkacI": {
+    "status": "Backlog",
+    "title": "Diseñar slice subdocumento 7",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/249",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkacw": {
+    "status": "Backlog",
+    "title": "Diseñar slice subdocumento 8",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/250",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkadY": {
+    "status": "Backlog",
+    "title": "Diseñar slice subdocumento 9",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/251",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaeE": {
+    "status": "Backlog",
+    "title": "Diseñar slice subdocumento 13",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/252",
     "type": "Issue"
   }
 }

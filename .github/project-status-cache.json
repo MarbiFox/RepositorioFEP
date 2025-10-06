@@ -1144,5 +1144,35 @@
     "title": "Especificar supuestos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/214",
     "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkWko": {
+    "status": "Backlog",
+    "title": "Especificar implementación de la infraestructura",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/215",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkWnI": {
+    "status": null,
+    "title": "Especificar migración de datos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/216",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkWpw": {
+    "status": "Backlog",
+    "title": "Especificar configuración del sistema",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/217",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkW7U": {
+    "status": "Backlog",
+    "title": "Especificar pruebas",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/218",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkW8k": {
+    "status": "Backlog",
+    "title": "Especificar capacitación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/219",
+    "type": "Issue"
   }
 }

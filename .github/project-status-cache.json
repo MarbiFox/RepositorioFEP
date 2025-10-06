@@ -414,7 +414,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNzWk": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar ventajas de la ARQ-LOGICA",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/84",
     "type": "Issue"
@@ -456,7 +456,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeA1Do": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar operación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/68",
     "type": "Issue"
@@ -744,13 +744,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNyM4": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificaciones de tecnologías",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/79",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNyng": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificaciones implementos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/80",
     "type": "Issue"
@@ -804,25 +804,25 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNzRs": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificaciones DC primario",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/83",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNzj4": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar especificaciones DC secundario",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/85",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNzn8": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar ventaja de la propuesta Tecnológica de la Aplicación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/86",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNz2I": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar ventajas de la propuesta Tecnológica de la Base de Datos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/87",
     "type": "Issue"
@@ -948,13 +948,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgexXVs": {
-    "status": null,
+    "status": "Backlog",
     "title": "Diseñar la arquitectura física de la solución",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/156",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgexXdI": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar sección de arquitectura física de informe",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
     "type": "Issue"
@@ -1173,6 +1173,24 @@
     "status": "Backlog",
     "title": "Especificar capacitación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/219",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkYFU": {
+    "status": "Backlog",
+    "title": "Diseñar la arquitectura lógica de la solución",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/220",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkYG0": {
+    "status": "Backlog",
+    "title": "Especificar arquitectura lógica de la solución",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/221",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkYvs": {
+    "status": "Backlog",
+    "title": "Redactar ventajas de ARQ-FISICA",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/222",
     "type": "Issue"
   }
 }

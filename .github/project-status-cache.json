@@ -474,7 +474,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeA07g": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar implementación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/66",
     "type": "Issue"
@@ -1152,7 +1152,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkWnI": {
-    "status": null,
+    "status": "Backlog",
     "title": "Especificar migración de datos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/216",
     "type": "Issue"
@@ -1191,6 +1191,138 @@
     "status": "Backlog",
     "title": "Redactar ventajas de ARQ-FISICA",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/222",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZFQ": {
+    "status": "Backlog",
+    "title": "Especificar metodología de gestión de proyectos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/223",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZF4": {
+    "status": "Backlog",
+    "title": "Especificar metodología de desarrollo de software",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/224",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZH0": {
+    "status": "Backlog",
+    "title": "Redactar plan de trabajo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/225",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZSE": {
+    "status": "Backlog",
+    "title": "Redactar plan de trabajo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/226",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZSk": {
+    "status": "Backlog",
+    "title": "Crear EDT",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/227",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZT4": {
+    "status": "Backlog",
+    "title": "Crear Carta Gantt",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/228",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZVs": {
+    "status": "Backlog",
+    "title": "Redactar plan de implantación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/229",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZYE": {
+    "status": "Backlog",
+    "title": "Redactar plan de puesta en marcha",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/230",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
+    "status": "Backlog",
+    "title": "Redactar metodología a utilizar para riesgos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/231",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZk8": {
+    "status": "Backlog",
+    "title": "Redactar riesgos identeficados",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/232",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
+    "status": "Backlog",
+    "title": "Redactar plan de riesgos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZtg": {
+    "status": "Backlog",
+    "title": "Redactar metodología a utilizar en plan de calidad",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/234",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZuE": {
+    "status": "Backlog",
+    "title": "Redactar plan de calidad",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/235",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZ_A": {
+    "status": "Backlog",
+    "title": "Redactar introducción para las innovaciones",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/236",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZ_4": {
+    "status": "Backlog",
+    "title": "Redactar Checkout invisible con IA",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/237",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaBA": {
+    "status": "Backlog",
+    "title": "Redactar Asistente virtual de compras",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/238",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaCM": {
+    "status": "Backlog",
+    "title": "Redactar crédito instantaneo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/239",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaD4": {
+    "status": "Backlog",
+    "title": "Redactar realidad virtual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/240",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaE4": {
+    "status": "Backlog",
+    "title": "Redactar Martketplace social Commerce",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/241",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaF8": {
+    "status": "Backlog",
+    "title": "Redactar predicción de demanda",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/242",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaYE": {
+    "status": null,
+    "title": "Diseñar slice subdocumento 1",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/243",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaYs": {
+    "status": null,
+    "title": "Diseñar slice subdocumento 2",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/244",
     "type": "Issue"
   }
 }

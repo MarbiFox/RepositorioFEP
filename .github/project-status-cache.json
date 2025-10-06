@@ -847,7 +847,7 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejrqY": {
     "status": "Backlog",
-    "title": "Indicar datos cuantitativos del problema",
+    "title": "Especificación de métricas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/59",
     "type": "Issue"
   },
@@ -1137,6 +1137,12 @@
     "status": null,
     "title": "Preparar Presentación Avance #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/213",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkV-k": {
+    "status": "Backlog",
+    "title": "Especificar supuestos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/214",
     "type": "Issue"
   }
 }

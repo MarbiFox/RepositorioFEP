@@ -1205,15 +1205,9 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/224",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZH0": {
-    "status": "Backlog",
-    "title": "Redactar plan de trabajo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/225",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZSE": {
     "status": "Backlog",
-    "title": "Redactar plan de trabajo",
+    "title": "Redactar plan de trabajo - Planificación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/226",
     "type": "Issue"
   },
@@ -1249,7 +1243,7 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZk8": {
     "status": "Backlog",
-    "title": "Redactar riesgos identeficados",
+    "title": "Redactar riesgos identificados",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/232",
     "type": "Issue"
   },
@@ -1371,6 +1365,12 @@
     "status": null,
     "title": "Diseñar slice subdocumento 13",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/252",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkfo0": {
+    "status": "Backlog",
+    "title": "Explicar sintaxis de diagrama BPMN al equipo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/253",
     "type": "Issue"
   }
 }

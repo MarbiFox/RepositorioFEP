@@ -1,4 +1,16 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaCM": {
+    "status": "En Revisión",
+    "title": "Redactar innovación - Crédito instantáneo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/239",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaD4": {
+    "status": "En Revisión",
+    "title": "Redactar innovación - Realidad aumentada",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/240",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgdwyec": {
     "status": "Aceptado",
     "title": "Declarar visión",
@@ -1283,26 +1295,14 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/235",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkaCM": {
-    "status": "Listo",
-    "title": "Redactar innovación - Crédito instantáneo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/239",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkaD4": {
-    "status": "Listo",
-    "title": "Redactar innovación - Realidad aumentada",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/240",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaE4": {
     "status": "Listo",
-    "title": "Redactar innovación - Martketplace social Commerce",
+    "title": "Redactar innovación - Marketplace social Commerce",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/241",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaF8": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar innovación - Predicción de demanda",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/242",
     "type": "Issue"

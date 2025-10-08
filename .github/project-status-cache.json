@@ -11,6 +11,30 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/32",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgeNvmE": {
+    "status": "Aceptado",
+    "title": "Redactar objetivo general",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/73",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgeNvvk": {
+    "status": "Aceptado",
+    "title": "Redactar objetivos específicos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/74",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZ_4": {
+    "status": "Aceptado",
+    "title": "Redactar innovación - Checkout invisible con IA",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/237",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZ_A": {
+    "status": "Aceptado",
+    "title": "Redactar introducción para las innovaciones",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/236",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgdwy4g": {
     "status": "Listo",
     "title": "Definir el equipo de trabajo",
@@ -21,18 +45,6 @@
     "status": "Listo",
     "title": "Declarar quienes somos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/30",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgeNvmE": {
-    "status": "Listo",
-    "title": "Redactar objetivo general",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/73",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgeNvvk": {
-    "status": "Listo",
-    "title": "Redactar objetivos específicos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/74",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
@@ -1265,18 +1277,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/235",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZ_A": {
-    "status": "Listo",
-    "title": "Redactar introducción para las innovaciones",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/236",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZ_4": {
-    "status": "Listo",
-    "title": "Redactar innovación - Checkout invisible con IA",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/237",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaBA": {
     "status": "Listo",
     "title": "Redactar innovación - Asistente virtual de compras",
@@ -1284,25 +1284,25 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaCM": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Redactar innovación - Crédito instantáneo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/239",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaD4": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar innovación - Realidad virtual",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/240",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaE4": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar innovación - Martketplace social Commerce",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/241",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaF8": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar innovación - Predicción de demanda",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/242",
     "type": "Issue"

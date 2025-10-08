@@ -1,4 +1,28 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgfQMHI": {
+    "status": "En Progreso",
+    "title": "Asegurar la consistencia de los módulos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/178",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfQMjw": {
+    "status": "En Progreso",
+    "title": "Redactar especificación Módulo 3 - Marketing Visual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/183",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUIw": {
+    "status": "En Progreso",
+    "title": "Redactar requerimientos funcionales para el módulo 3 - Marketing Visual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/201",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUMs": {
+    "status": "En Progreso",
+    "title": "Redactar requerimientos no funcionales Módulo 3 - Marketing Visual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/204",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaCM": {
     "status": "En Revisión",
     "title": "Redactar innovación - Crédito instantáneo",
@@ -9,6 +33,18 @@
     "status": "En Revisión",
     "title": "Redactar innovación - Realidad aumentada",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/240",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaE4": {
+    "status": "En Revisión",
+    "title": "Redactar innovación - Marketplace social Commerce",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/241",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaF8": {
+    "status": "En Revisión",
+    "title": "Redactar innovación - Predicción de demanda",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/242",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgdwyec": {
@@ -53,6 +89,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/238",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkfo0": {
+    "status": "Aceptado",
+    "title": "Explicar sintaxis de diagrama BPMN al equipo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/253",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgdwy4g": {
     "status": "Listo",
     "title": "Definir el equipo de trabajo",
@@ -63,12 +105,6 @@
     "status": "Listo",
     "title": "Declarar quienes somos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/30",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
-    "status": "En Progreso",
-    "title": "Redactar especificación Módulo 2 - POS",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/181",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTT-E": {
@@ -1019,12 +1055,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/177",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfQMHI": {
-    "status": "Backlog",
-    "title": "Asegurar la consistencia de los módulos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/178",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMRs": {
     "status": "Backlog",
     "title": "Investigar los módulos faltantes que están en la licitación",
@@ -1032,21 +1062,15 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMdU": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar especificación Módulo 1 - Tarjeta TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/180",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMgQ": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar especificación Módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/182",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfQMjw": {
-    "status": "Backlog",
-    "title": "Redactar especificación Módulo 3 - Marketing Visual",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/183",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMpA": {
@@ -1091,14 +1115,8 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/199",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUIw": {
-    "status": "Backlog",
-    "title": "Redactar requerimientos funcionales para el módulo 3 - Marketing Visual",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/201",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
     "type": "Issue"
@@ -1107,12 +1125,6 @@
     "status": "Backlog",
     "title": "Redactar requerimientos funcionales para el módulo 5 - ERP",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/203",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUMs": {
-    "status": "Backlog",
-    "title": "Redactar requerimientos no funcionales Módulo 3 - Marketing Visual",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/204",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUM4": {
@@ -1128,7 +1140,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
     "type": "Issue"
@@ -1295,16 +1307,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/235",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkaE4": {
+  "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
     "status": "Listo",
-    "title": "Redactar innovación - Marketplace social Commerce",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/241",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkaF8": {
-    "status": "Listo",
-    "title": "Redactar innovación - Predicción de demanda",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/242",
+    "title": "Redactar especificación Módulo 2 - POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/181",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaYE": {
@@ -1365,12 +1371,6 @@
     "status": null,
     "title": "Diseñar slice subdocumento 13",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/252",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkfo0": {
-    "status": "Backlog",
-    "title": "Explicar sintaxis de diagrama BPMN al equipo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/253",
     "type": "Issue"
   }
 }

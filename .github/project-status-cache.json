@@ -113,18 +113,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/30",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTT-E": {
-    "status": "En Progreso",
-    "title": "Redactar requerimientos funcionales para el módulo 2 - POS",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/198",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUH4": {
-    "status": "En Progreso",
-    "title": "Redactar requerimientos no funcionales Módulo 2 - POS",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/200",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgej3LQ": {
     "status": "Aceptado",
     "title": "Redactar sobre Gobernanza y Jurisdicción - Investigación #2",
@@ -1085,12 +1073,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/184",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfQMqQ": {
-    "status": "Backlog",
-    "title": "Redactar especificación Módulo 6 - CRM",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/185",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMsg": {
     "status": "En Progreso",
     "title": "Redactar especificación Módulo 7 - OPERACIÓN, MANTENCIÓN Y SOPORTE",
@@ -1125,6 +1107,12 @@
     "status": "En Progreso",
     "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfQMqQ": {
+    "status": "En Progreso",
+    "title": "Redactar especificación Módulo 6 - CRM",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/185",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTULg": {
@@ -1311,6 +1299,18 @@
     "status": "Listo",
     "title": "Redactar especificación Módulo 2 - POS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/181",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUH4": {
+    "status": "Listo",
+    "title": "Redactar requerimientos no funcionales Módulo 2 - POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/200",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTT-E": {
+    "status": "Listo",
+    "title": "Redactar requerimientos funcionales para el módulo 2 - POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/198",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaYE": {

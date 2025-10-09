@@ -1056,7 +1056,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMdU": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar especificación Módulo 1 - Tarjeta TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/180",
     "type": "Issue"
@@ -1092,13 +1092,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTT9g": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar requerimiento no funcionales Módulo 1 - Tarjeta TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/197",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUHM": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar requerimientos funcionales para el módulo 1 - Tarjeta TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/199",
     "type": "Issue"

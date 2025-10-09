@@ -11,12 +11,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/183",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUIw": {
-    "status": "En Progreso",
-    "title": "Redactar requerimientos funcionales para el módulo 3 - Marketing Visual",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/201",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUMs": {
     "status": "En Progreso",
     "title": "Redactar requerimientos no funcionales Módulo 3 - Marketing Visual",
@@ -105,6 +99,12 @@
     "status": "Listo",
     "title": "Definir el equipo de trabajo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/33",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUIw": {
+    "status": "Listo",
+    "title": "Redactar requerimientos funcionales para el módulo 3 - Marketing Visual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/201",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgdwyVA": {

@@ -1,8 +1,20 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgeA07g": {
+    "status": "En Revisión",
+    "title": "Redactar implementación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/66",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMHI": {
     "status": "En Progreso",
     "title": "Asegurar la consistencia de los módulos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/178",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
+    "status": "En Progreso",
+    "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMjw": {
@@ -21,12 +33,6 @@
     "status": "Aceptado",
     "title": "Redactar innovación - Crédito instantáneo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/239",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
-    "status": "En Revisión",
-    "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaD4": {
@@ -531,12 +537,6 @@
     "status": "Listo",
     "title": "Redactar los problemas principales del caso de estudio",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/46",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgeA07g": {
-    "status": "Listo",
-    "title": "Redactar implementación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/66",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgd87Z0": {

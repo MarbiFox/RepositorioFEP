@@ -23,12 +23,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/183",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUMs": {
-    "status": "En Progreso",
-    "title": "Redactar requerimientos no funcionales Módulo 3 - Marketing Visual",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/204",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaCM": {
     "status": "Aceptado",
     "title": "Redactar innovación - Crédito instantáneo",
@@ -111,6 +105,12 @@
     "status": "Listo",
     "title": "Redactar requerimientos funcionales para el módulo 3 - Marketing Visual",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/201",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUMs": {
+    "status": "Listo",
+    "title": "Redactar requerimientos no funcionales Módulo 3 - Marketing Visual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/204",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgdwyVA": {
@@ -1128,7 +1128,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTURg": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar requerimientos funcionales para el módulo 7 - OPERACIÓN, MANTENCIÓN Y SOPORTE",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/206",
     "type": "Issue"
@@ -1152,7 +1152,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUg0": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar requerimientos no funcionales Módulo 7 - Operación, Mantenimiento y soporte",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/211",
     "type": "Issue"

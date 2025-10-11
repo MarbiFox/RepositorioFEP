@@ -1121,12 +1121,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/203",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUM4": {
-    "status": "Backlog",
-    "title": "Redactar requerimientos funcionales para el módulo 6 - CRM",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/205",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTURg": {
     "status": "Listo",
     "title": "Redactar requerimientos funcionales para el módulo 7 - OPERACIÓN, MANTENCIÓN Y SOPORTE",
@@ -1143,12 +1137,6 @@
     "status": "Backlog",
     "title": "Redactar requerimientos no funcionales Módulo 5 - ERP",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/209",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUbU": {
-    "status": "Backlog",
-    "title": "Redactar requerimientos no funcionales Módulo 6 - CRM",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/210",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUg0": {
@@ -1257,6 +1245,18 @@
     "status": "En Progreso",
     "title": "Redactar plan de implantación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/229",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUM4": {
+    "status": "En Progreso",
+    "title": "Redactar requerimientos funcionales para el módulo 6 - CRM",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/205",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUbU": {
+    "status": "En Progreso",
+    "title": "Redactar requerimientos no funcionales Módulo 6 - CRM",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/210",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZYE": {

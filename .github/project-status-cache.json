@@ -35,6 +35,36 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/156",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkYFU": {
+    "status": "En Progreso",
+    "title": "Diseñar la arquitectura lógica de la solución",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/220",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgeNzn8": {
+    "status": "En Progreso",
+    "title": "Redactar ventaja de la propuesta Tecnológica de la Aplicación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/86",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgexXdI": {
+    "status": "En Progreso",
+    "title": "Redactar sección de arquitectura física de informe",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgeNzRs": {
+    "status": "En Progreso",
+    "title": "Redactar especificaciones DC primario",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/83",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgeNzj4": {
+    "status": "En Progreso",
+    "title": "Redactar especificaciones DC secundario",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/85",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
     "status": "Listo",
     "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
@@ -911,24 +941,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/152",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgeNzRs": {
-    "status": "Backlog",
-    "title": "Redactar especificaciones DC primario",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/83",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgeNzj4": {
-    "status": "Backlog",
-    "title": "Redactar especificaciones DC secundario",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/85",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgeNzn8": {
-    "status": "Backlog",
-    "title": "Redactar ventaja de la propuesta Tecnológica de la Aplicación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/86",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgeNz2I": {
     "status": "Backlog",
     "title": "Redactar ventajas de la propuesta Tecnológica de la Base de Datos",
@@ -1053,12 +1065,6 @@
     "status": null,
     "title": "Coordinar diariamente posible horarios de refinamiento",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/154",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgexXdI": {
-    "status": "Backlog",
-    "title": "Redactar sección de arquitectura física de informe",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfCXBc": {
@@ -1233,12 +1239,6 @@
     "status": "Listo",
     "title": "Especificar capacitación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/219",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkYFU": {
-    "status": "Backlog",
-    "title": "Diseñar la arquitectura lógica de la solución",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/220",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkYG0": {

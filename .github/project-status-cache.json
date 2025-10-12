@@ -5,18 +5,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/66",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZF4": {
-    "status": "En Revisión",
-    "title": "Especificar metodología de desarrollo de software",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/224",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZFQ": {
-    "status": "En Revisión",
-    "title": "Especificar metodología de gestión de proyectos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/223",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMHI": {
     "status": "En Progreso",
     "title": "Asegurar la consistencia de los módulos",
@@ -117,6 +105,18 @@
     "status": "Aceptado",
     "title": "Redactar innovación - Crédito instantáneo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/239",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZF4": {
+    "status": "Aceptado",
+    "title": "Especificar metodología de desarrollo de software",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/224",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZFQ": {
+    "status": "Aceptado",
+    "title": "Especificar metodología de gestión de proyectos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/223",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaD4": {

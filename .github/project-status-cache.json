@@ -1265,18 +1265,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/228",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZVs": {
-    "status": "En Progreso",
-    "title": "Redactar plan de implantación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/229",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZYE": {
-    "status": "En Progreso",
-    "title": "Redactar plan de puesta en marcha",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/230",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
     "status": "Backlog",
     "title": "Redactar metodología a utilizar para riesgos",
@@ -1305,6 +1293,18 @@
     "status": "Listo",
     "title": "Redactar requerimientos no funcionales Módulo 2 - POS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/200",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZYE": {
+    "status": "Listo",
+    "title": "Redactar plan de puesta en marcha",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/230",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZVs": {
+    "status": "Listo",
+    "title": "Redactar plan de implantación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/229",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTT-E": {

@@ -29,6 +29,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/234",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkYvs": {
+    "status": "En Progreso",
+    "title": "Redactar ventajas de ARQ-FISICA",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/222",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgexXVs": {
     "status": "En Progreso",
     "title": "Diseñar la arquitectura física de la solución",
@@ -1245,12 +1251,6 @@
     "status": "Backlog",
     "title": "Especificar arquitectura lógica de la solución",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/221",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkYvs": {
-    "status": "Backlog",
-    "title": "Redactar ventajas de ARQ-FISICA",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/222",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZSE": {

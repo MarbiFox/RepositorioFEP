@@ -11,6 +11,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/178",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZSk": {
+    "status": "En Progreso",
+    "title": "Crear EDT",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/227",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
     "status": "Listo",
     "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
@@ -18,7 +24,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMjw": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar especificación Módulo 3 - Marketing Visual",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/183",
     "type": "Issue"
@@ -1227,12 +1233,6 @@
     "status": "Backlog",
     "title": "Redactar plan de trabajo - Planificación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/226",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZSk": {
-    "status": "Backlog",
-    "title": "Crear EDT",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/227",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZT4": {

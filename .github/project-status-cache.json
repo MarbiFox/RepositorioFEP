@@ -11,6 +11,18 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/178",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgeNzWk": {
+    "status": "En Progreso",
+    "title": "Redactar ventajas de la ARQ-LOGICA",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/84",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZT4": {
+    "status": "En Progreso",
+    "title": "Crear Carta Gantt",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/228",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgeNz2I": {
     "status": "En Progreso",
     "title": "Redactar ventajas de la propuesta Tecnológica de la Base de Datos",
@@ -21,18 +33,6 @@
     "status": "En Progreso",
     "title": "Crear EDT",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/227",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZuE": {
-    "status": "En Progreso",
-    "title": "Redactar plan de calidad",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/235",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZtg": {
-    "status": "En Progreso",
-    "title": "Redactar metodología a utilizar en plan de calidad",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/234",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkYvs": {
@@ -81,6 +81,18 @@
     "status": "Listo",
     "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZuE": {
+    "status": "Listo",
+    "title": "Redactar plan de calidad",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/235",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZtg": {
+    "status": "Listo",
+    "title": "Redactar metodología a utilizar en plan de calidad",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/234",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUM4": {
@@ -567,12 +579,6 @@
     "status": null,
     "title": "Redactar requerimientos funcionales",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/50",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgeNzWk": {
-    "status": "Backlog",
-    "title": "Redactar ventajas de la ARQ-LOGICA",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/84",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeAzB0": {
@@ -1257,12 +1263,6 @@
     "status": "Backlog",
     "title": "Redactar plan de trabajo - Planificación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/226",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZT4": {
-    "status": "Backlog",
-    "title": "Crear Carta Gantt",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/228",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {

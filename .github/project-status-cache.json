@@ -1344,7 +1344,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkabs": {
-    "status": null,
+    "status": "Backlog",
     "title": "Diseñar slide subdocumento 6",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/248",
     "type": "Issue"
@@ -1362,7 +1362,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkadY": {
-    "status": null,
+    "status": "Backlog",
     "title": "Diseñar slide subdocumento 9",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/251",
     "type": "Issue"
@@ -1383,6 +1383,60 @@
     "status": null,
     "title": "Preparar guiones",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/255",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4xxY": {
+    "status": "Backlog",
+    "title": "Preparar guion presentación subdocumento 3",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/256",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4xyk": {
+    "status": "Backlog",
+    "title": "Preparar guion presentación subdocumento 4",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/257",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4x0g": {
+    "status": "Backlog",
+    "title": "Preparar guion presentación subdocumento 5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/258",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4x1o": {
+    "status": "Backlog",
+    "title": "Preparar guion presentación subdocumento 6",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/259",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4x2Q": {
+    "status": "Backlog",
+    "title": "Preparar guion presentación subdocumento 7",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/260",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4x20": {
+    "status": "Backlog",
+    "title": "Preparar guion presentación subdocumento 8",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/261",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4x38": {
+    "status": "Backlog",
+    "title": "Preparar guion presentación subdocumento 9",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/262",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4yL4": {
+    "status": "Backlog",
+    "title": "Ensayar presentación 2 de proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/263",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4yYs": {
+    "status": "Backlog",
+    "title": "Realizar preguntas sobre el trabajo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/264",
     "type": "Issue"
   }
 }

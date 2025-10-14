@@ -1338,7 +1338,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaao": {
-    "status": null,
+    "status": "Backlog",
     "title": "Diseñar slide subdocumento 5",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/247",
     "type": "Issue"
@@ -1350,13 +1350,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkacI": {
-    "status": null,
+    "status": "Backlog",
     "title": "Diseñar slide subdocumento 7",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/249",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkacw": {
-    "status": null,
+    "status": "Backlog",
     "title": "Diseñar slide subdocumento 8",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/250",
     "type": "Issue"
@@ -1377,6 +1377,12 @@
     "status": "Backlog",
     "title": "Diseñar portada",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/254",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4xq4": {
+    "status": null,
+    "title": "Preparar guiones",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/255",
     "type": "Issue"
   }
 }

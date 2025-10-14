@@ -1369,8 +1369,14 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaeE": {
     "status": null,
-    "title": "Diseñar slice subdocumento 13",
+    "title": "Diseñar slide subdocumento 13",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/252",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4saY": {
+    "status": null,
+    "title": "Diseñar portada",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/254",
     "type": "Issue"
   }
 }

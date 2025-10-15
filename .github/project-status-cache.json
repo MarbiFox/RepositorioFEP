@@ -1283,6 +1283,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4saY": {
+    "status": "Backlog",
+    "title": "Diseñar portada",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/254",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
     "status": "Listo",
     "title": "Redactar especificación Módulo 2 - POS",
@@ -1367,16 +1373,16 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/251",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4yYs": {
+    "status": "Backlog",
+    "title": "Realizar preguntas sobre el trabajo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/264",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaeE": {
     "status": null,
     "title": "Diseñar slide subdocumento 13",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/252",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgf4saY": {
-    "status": "Backlog",
-    "title": "Diseñar portada",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/254",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgf4xq4": {
@@ -1431,12 +1437,6 @@
     "status": "Backlog",
     "title": "Ensayar presentación 2 de proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/263",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgf4yYs": {
-    "status": "Backlog",
-    "title": "Realizar preguntas sobre el trabajo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/264",
     "type": "Issue"
   }
 }

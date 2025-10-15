@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgd874o": {
+    "status": "Backlog",
+    "title": "Definir el problema y la necesidad a abordar",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/53",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgeA07g": {
     "status": "En Revisión",
     "title": "Redactar implementación",
@@ -639,12 +645,6 @@
     "status": "Backlog",
     "title": "Redactar los problemas secundarios del caso de estudio",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/47",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgd874o": {
-    "status": "Backlog",
-    "title": "Definir el problema y la necesidad a abordar",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/53",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNugY": {

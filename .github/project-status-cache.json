@@ -1331,12 +1331,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/244",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkaZY": {
-    "status": "Backlog",
-    "title": "Diseñar slide subdocumento 3",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/245",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaZ4": {
     "status": "En Progreso",
     "title": "Diseñar slide subdocumento 4",
@@ -1356,9 +1350,15 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkacI": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Diseñar slide subdocumento 7",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/249",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaZY": {
+    "status": "En Progreso",
+    "title": "Diseñar slide subdocumento 3",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/245",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkacw": {

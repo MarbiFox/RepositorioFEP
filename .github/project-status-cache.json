@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
+    "status": "En Progreso",
+    "title": "Redactar metodología a utilizar para riesgos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/231",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgd874o": {
     "status": "Backlog",
     "title": "Definir el problema y la necesidad a abordar",
@@ -1265,12 +1271,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/226",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
-    "status": "Backlog",
-    "title": "Redactar metodología a utilizar para riesgos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/231",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZk8": {
     "status": "Listo",
     "title": "Redactar riesgos identificados",
@@ -1284,7 +1284,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgf4saY": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Diseñar portada",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/254",
     "type": "Issue"

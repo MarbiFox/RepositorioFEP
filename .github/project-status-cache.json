@@ -1272,7 +1272,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZk8": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Redactar riesgos identificados",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/232",
     "type": "Issue"
@@ -1437,6 +1437,12 @@
     "status": "Backlog",
     "title": "Ensayar presentación 2 de proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/263",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggD_cY": {
+    "status": null,
+    "title": "Generar documentación administrativa",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/265",
     "type": "Issue"
   }
 }

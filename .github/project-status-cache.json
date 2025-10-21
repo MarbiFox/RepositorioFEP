@@ -1332,7 +1332,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaYs": {
-    "status": null,
+    "status": "Backlog",
     "title": "Diseñar slide subdocumento 2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/244",
     "type": "Issue"
@@ -1671,6 +1671,18 @@
     "status": "Backlog",
     "title": "Organigrama del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKIFk": {
+    "status": "Backlog",
+    "title": "Diseñar plantilla de CV",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/304",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKIYE": {
+    "status": "Backlog",
+    "title": "Preparar guion presentación subdocumento 2 (30 seg max)",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/305",
     "type": "Issue"
   }
 }

@@ -1,28 +1,4 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgfkadY": {
-    "status": "Listo",
-    "title": "Diseñar slide subdocumento 9",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/251",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkacw": {
-    "status": "Listo",
-    "title": "Diseñar slide subdocumento 8",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/250",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkaao": {
-    "status": "Listo",
-    "title": "Diseñar slide subdocumento 5",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/247",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkaZ4": {
-    "status": "Listo",
-    "title": "Diseñar slide subdocumento 4",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/246",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
     "status": "En Progreso",
     "title": "Redactar metodología a utilizar para riesgos",
@@ -1307,18 +1283,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgf4saY": {
-    "status": "Listo",
-    "title": "Diseñar portada",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/254",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgf4x2Q": {
-    "status": "En Progreso",
-    "title": "Preparar guion presentación subdocumento 7",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/260",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
     "status": "Listo",
     "title": "Redactar especificación Módulo 2 - POS",
@@ -1403,34 +1367,70 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/257",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgf4x0g": {
-    "status": "Listo",
-    "title": "Preparar guion presentación subdocumento 5",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/258",
+  "PVTI_lAHOBVxpwc4BAKpgzgf4yL4": {
+    "status": "Aceptado",
+    "title": "Ensayar presentación 2 de proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/263",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkacI": {
+    "status": "Aceptado",
+    "title": "Diseñar slide subdocumento 7",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/249",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkaZY": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Diseñar slide subdocumento 3",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/245",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkabs": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Diseñar slide subdocumento 6",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/248",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkacI": {
-    "status": "Listo",
-    "title": "Diseñar slide subdocumento 7",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/249",
+  "PVTI_lAHOBVxpwc4BAKpgzgf4x2Q": {
+    "status": "Aceptado",
+    "title": "Preparar guion presentación subdocumento 7",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/260",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgf4yL4": {
-    "status": "Backlog",
-    "title": "Ensayar presentación 2 de proyecto",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/263",
+  "PVTI_lAHOBVxpwc4BAKpgzgf4x0g": {
+    "status": "Aceptado",
+    "title": "Preparar guion presentación subdocumento 5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/258",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaao": {
+    "status": "Aceptado",
+    "title": "Diseñar slide subdocumento 5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/247",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4saY": {
+    "status": "Aceptado",
+    "title": "Diseñar portada",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/254",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkadY": {
+    "status": "Aceptado",
+    "title": "Diseñar slide subdocumento 9",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/251",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkacw": {
+    "status": "Aceptado",
+    "title": "Diseñar slide subdocumento 8",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/250",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkaZ4": {
+    "status": "Aceptado",
+    "title": "Diseñar slide subdocumento 4",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/246",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggD_cY": {

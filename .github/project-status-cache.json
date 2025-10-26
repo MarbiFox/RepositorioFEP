@@ -1535,12 +1535,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/281",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDdg": {
-    "status": "Backlog",
-    "title": "Declaración jurada - Aceptación de las Bases",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/284",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
     "status": "Backlog",
     "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
@@ -1608,13 +1602,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKD40": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Certificados vigentes - Vicente Mercado",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/296",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKD8M": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Certificados vigentes - Ademir Muñoz",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/297",
     "type": "Issue"
@@ -1644,9 +1638,15 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKEFA": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Certificados vigentes - Jorge Palacios",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/302",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDdg": {
+    "status": "En Progreso",
+    "title": "Declaración jurada - Aceptación de las Bases",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/284",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {

@@ -1482,7 +1482,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Rut de la empresa y Certificado de vigencia",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
     "type": "Issue"
@@ -1533,12 +1533,6 @@
     "status": "Backlog",
     "title": "Boletín Laboral y Previsional de la Dirección del Trabajo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/281",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
-    "status": "Backlog",
-    "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDhY": {
@@ -1613,6 +1607,30 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/297",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDdg": {
+    "status": "Listo",
+    "title": "Declaración jurada - Aceptación de las Bases",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/284",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
+    "status": "Listo",
+    "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
+    "status": "Listo",
+    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDb8": {
+    "status": "Listo",
+    "title": "Declaración jurada - No encontrarse en quiebra",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/283",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKD9g": {
     "status": "Listo",
     "title": "Certificados vigentes - Rodrigo Araos",
@@ -1643,12 +1661,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/302",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDdg": {
-    "status": "En Progreso",
-    "title": "Declaración jurada - Aceptación de las Bases",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/284",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
     "status": "Backlog",
     "title": "Organigrama del proyecto",
@@ -1659,18 +1671,6 @@
     "status": "Listo",
     "title": "Diseñar plantilla de CV",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/304",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDb8": {
-    "status": "En Progreso",
-    "title": "Declaración jurada - No encontrarse en quiebra",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/283",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
-    "status": "En Progreso",
-    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
   }
 }

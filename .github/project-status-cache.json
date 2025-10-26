@@ -1535,12 +1535,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/281",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
-    "status": "Backlog",
-    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDdg": {
     "status": "Backlog",
     "title": "Declaración jurada - Aceptación de las Bases",
@@ -1671,6 +1665,12 @@
     "status": "En Progreso",
     "title": "Declaración jurada - No encontrarse en quiebra",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/283",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
+    "status": "En Progreso",
+    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
   }
 }

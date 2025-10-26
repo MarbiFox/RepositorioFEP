@@ -1319,24 +1319,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/243",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgf4yYs": {
-    "status": "En Progreso",
-    "title": "Realizar preguntas sobre el trabajo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/264",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgf4xxY": {
-    "status": "En Progreso",
-    "title": "Preparar guion presentación subdocumento 3",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/256",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgf4x1o": {
-    "status": "En Progreso",
-    "title": "Preparar guion presentación subdocumento 6",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/259",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgf4x20": {
     "status": "Aceptado",
     "title": "Preparar guion presentación subdocumento 8",
@@ -1344,7 +1326,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgf4x38": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Preparar guion presentación subdocumento 9",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/262",
     "type": "Issue"
@@ -1371,6 +1353,24 @@
     "status": "Aceptado",
     "title": "Ensayar presentación 2 de proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/263",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4x1o": {
+    "status": "Aceptado",
+    "title": "Preparar guion presentación subdocumento 6",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/259",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4yYs": {
+    "status": "Aceptado",
+    "title": "Realizar preguntas sobre el trabajo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/264",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgf4xxY": {
+    "status": "Aceptado",
+    "title": "Preparar guion presentación subdocumento 3",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/256",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkacI": {

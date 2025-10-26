@@ -1541,12 +1541,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDb8": {
-    "status": "Backlog",
-    "title": "Declaración jurada - No encontrarse en quiebra",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/283",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDdg": {
     "status": "Backlog",
     "title": "Declaración jurada - Aceptación de las Bases",
@@ -1671,6 +1665,12 @@
     "status": "En Progreso",
     "title": "Diseñar plantilla de CV",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/304",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDb8": {
+    "status": "En Progreso",
+    "title": "Declaración jurada - No encontrarse en quiebra",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/283",
     "type": "Issue"
   }
 }

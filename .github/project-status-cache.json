@@ -1728,13 +1728,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZAmY": {
-    "status": null,
+    "status": "Backlog",
     "title": "Armar plantilla para subdocumento",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/315",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar Estructura Organizacional de la Empresa",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/316",
     "type": "Issue"
@@ -1755,6 +1755,18 @@
     "status": null,
     "title": "Investigar Conceptos relacionados a Plan de Servicios de Operación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/319",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZF9A": {
+    "status": null,
+    "title": "Describir Plan de Servicios de Operación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/320",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZHGE": {
+    "status": null,
+    "title": "Redactar Plan de Mantenimiento Preventivo.",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/321",
     "type": "Issue"
   }
 }

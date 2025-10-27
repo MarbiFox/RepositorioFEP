@@ -1536,7 +1536,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDhY": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Antecedentes técnicos - Carta de presentación del PROPONENTE",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/286",
     "type": "Issue"
@@ -1548,7 +1548,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Antecedentes técnicos - Formulario A-5",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
     "type": "Issue"
@@ -1671,6 +1671,30 @@
     "status": "Listo",
     "title": "Diseñar plantilla de CV",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/304",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggV_u0": {
+    "status": "Backlog",
+    "title": "Refinar la descripción en informe - EDT",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/306",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggV_9I": {
+    "status": "Backlog",
+    "title": "Redactar la descripción en informe - GANTT",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/307",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggWAQM": {
+    "status": "Backlog",
+    "title": "Crear diccionarios de datos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/308",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
+    "status": "Listo",
+    "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
     "type": "Issue"
   }
 }

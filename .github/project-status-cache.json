@@ -1560,7 +1560,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDoE": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "CV - Rodrigo Araos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/290",
     "type": "Issue"
@@ -1815,6 +1815,12 @@
     "status": "Backlog",
     "title": "Redactar Acuerdos y Contratos Operacionales del Call-Center",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/329",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZL6o": {
+    "status": "Backlog",
+    "title": "Leer y Detectar Errores en Solución Actual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/330",
     "type": "Issue"
   }
 }

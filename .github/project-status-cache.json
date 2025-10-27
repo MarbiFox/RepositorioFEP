@@ -1663,7 +1663,7 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
     "status": "Backlog",
-    "title": "Organigrama del proyecto",
+    "title": "Realizar y Describir el Organigrama del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
     "type": "Issue"
   },
@@ -1731,6 +1731,12 @@
     "status": null,
     "title": "Armar plantilla para subdocumento",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/315",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
+    "status": null,
+    "title": "Redactar Estructura Organizacional de la Empresa",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/316",
     "type": "Issue"
   }
 }

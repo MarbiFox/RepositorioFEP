@@ -972,7 +972,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeQOlw": {
-    "status": null,
+    "status": "Aceptado",
     "title": "Preparar Presentación de Avance #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/90",
     "type": "Issue"
@@ -990,13 +990,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejw14": {
-    "status": null,
+    "status": "Aceptado",
     "title": "Realizar Trabajo de Investigación #1",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/102",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgejw4U": {
-    "status": null,
+    "status": "Aceptado",
     "title": "Realizar Trabajo de Investigación #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/103",
     "type": "Issue"
@@ -1218,7 +1218,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkSj8": {
-    "status": null,
+    "status": "Aceptado",
     "title": "Preparar Presentación Avance #2",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/213",
     "type": "Issue"
@@ -1695,6 +1695,18 @@
     "status": "Listo",
     "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggY8H8": {
+    "status": null,
+    "title": "Redactar Especificación del Call-Center y SLA",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/310",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggY82Q": {
+    "status": null,
+    "title": "Redactar Especificaciones del Soporte",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/311",
     "type": "Issue"
   }
 }

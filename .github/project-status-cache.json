@@ -1740,7 +1740,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZD38": {
-    "status": null,
+    "status": "Backlog",
     "title": "Redactar Subcontrataciones y Alianzas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/317",
     "type": "Issue"
@@ -1767,6 +1767,18 @@
     "status": null,
     "title": "Redactar Plan de Mantenimiento Preventivo.",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/321",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZHdM": {
+    "status": null,
+    "title": "Redactar Plan de Mantenimiento Evolutivo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/322",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIK4": {
+    "status": null,
+    "title": "Diseñar Modelo de Soporte de Call-Center.",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/323",
     "type": "Issue"
   }
 }

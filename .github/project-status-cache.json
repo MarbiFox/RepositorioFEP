@@ -1,6 +1,6 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar metodología a utilizar para riesgos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/231",
     "type": "Issue"
@@ -30,8 +30,8 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZT4": {
-    "status": "En Progreso",
-    "title": "Crear Carta Gantt",
+    "status": "Backlog",
+    "title": "Refinar Carta Gantt",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/228",
     "type": "Issue"
   },
@@ -42,8 +42,8 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZSk": {
-    "status": "En Progreso",
-    "title": "Crear EDT",
+    "status": "Backlog",
+    "title": "Refinar EDT",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/227",
     "type": "Issue"
   },
@@ -55,7 +55,7 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzgexXVs": {
     "status": "En Progreso",
-    "title": "Diseñar la arquitectura física de la solución",
+    "title": "Refinar y Ajustar la arquitectura física de la solución",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/156",
     "type": "Issue"
   },
@@ -73,7 +73,7 @@
   },
   "PVTI_lAHOBVxpwc4BAKpgzgexXdI": {
     "status": "En Progreso",
-    "title": "Redactar sección de arquitectura física de informe",
+    "title": "Refinar redacción de sección de arquitectura física de informe",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
     "type": "Issue"
   },
@@ -1272,7 +1272,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZk8": {
-    "status": "Listo",
+    "status": "En Progreso",
     "title": "Redactar riesgos identificados",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/232",
     "type": "Issue"
@@ -1506,7 +1506,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDSE": {
-    "status": "Backlog",
+    "status": null,
     "title": "Individualización completa de los socios y de sus asociados",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/277",
     "type": "Issue"
@@ -1821,6 +1821,54 @@
     "status": "Backlog",
     "title": "Leer y Detectar Errores en Solución Actual",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/330",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZTGk": {
+    "status": "Backlog",
+    "title": "Refinar Ventajas de la Solución",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/331",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZTRk": {
+    "status": "Backlog",
+    "title": "Definir Implementos a utilizar",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/332",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZTeM": {
+    "status": "Backlog",
+    "title": "Analizar Riesgos del Proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZT2I": {
+    "status": "Backlog",
+    "title": "Definir estrategias de mitigación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/334",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
+    "status": "Backlog",
+    "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/335",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZUoc": {
+    "status": "Backlog",
+    "title": "Fotocopia legalizada ante Notario de la patente comercial al día",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/336",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
+    "status": "Backlog",
+    "title": "Poderes del representante legal",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZVCU": {
+    "status": "Backlog",
+    "title": "Especificar contratos nuevos (Subdocumento 2)",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/338",
     "type": "Issue"
   }
 }

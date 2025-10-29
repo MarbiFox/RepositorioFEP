@@ -5,8 +5,14 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/269",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
+  "PVTI_lAHOBVxpwc4BAKpgzggZUoc": {
     "status": "En Revisión",
+    "title": "Fotocopia legalizada ante Notario de la patente comercial al día",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/336",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
+    "status": "En Progreso",
     "title": "Estados financieros auditados últimos 3 años",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
@@ -1164,7 +1170,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar metodología a utilizar para riesgos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/231",
     "type": "Issue"
@@ -1851,12 +1857,6 @@
     "status": "Backlog",
     "title": "Definir estrategias de mitigación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/334",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZUoc": {
-    "status": "Listo",
-    "title": "Fotocopia legalizada ante Notario de la patente comercial al día",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/336",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {

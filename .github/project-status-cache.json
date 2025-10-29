@@ -1,8 +1,8 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
-    "status": "En Revisión",
-    "title": "Redactar metodología a utilizar para riesgos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/231",
+  "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
+    "status": "En Progreso",
+    "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/335",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
@@ -15,12 +15,6 @@
     "status": "Listo",
     "title": "CV - Benjamín Diaz",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/292",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
-    "status": "Listo",
-    "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/335",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgd874o": {
@@ -1151,6 +1145,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/182",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
+    "status": "En Progreso",
+    "title": "Redactar metodología a utilizar para riesgos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/231",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMpA": {
     "status": "Backlog",
     "title": "Redactar especificación Módulo 5 - ERP",
@@ -1488,7 +1488,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDIQ": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Fotocopia legalizada - Representante legal",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/271",
     "type": "Issue"

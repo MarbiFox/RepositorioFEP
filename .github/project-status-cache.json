@@ -1541,12 +1541,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/277",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDT4": {
-    "status": "Listo",
-    "title": "Certificado de deudas tributarias",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/278",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDWw": {
     "status": "Backlog",
     "title": "Certificado de antecedentes comerciales",
@@ -1593,6 +1587,12 @@
     "status": "Aceptado",
     "title": "Fotocopia legalizada ante Notario de la patente comercial al día",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/336",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDT4": {
+    "status": "Aceptado",
+    "title": "Certificado de deudas tributarias",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/278",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDIQ": {

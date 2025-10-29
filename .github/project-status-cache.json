@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
+    "status": "Listo",
+    "title": "Antecedentes técnicos - Formulario A-5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDuI": {
     "status": "En Revisión",
     "title": "CV - Benjamín Diaz",
@@ -1530,7 +1536,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Estados financieros auditados últimos 3 años",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
@@ -1557,12 +1563,6 @@
     "status": "Backlog",
     "title": "Antecedentes técnicos - Cartas compromiso de otras empresas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/287",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
-    "status": "En Progreso",
-    "title": "Antecedentes técnicos - Formulario A-5",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDnE": {

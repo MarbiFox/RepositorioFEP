@@ -5,12 +5,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/269",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggZUoc": {
-    "status": "Listo",
-    "title": "Fotocopia legalizada ante Notario de la patente comercial al día",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/336",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
     "status": "En Progreso",
     "title": "Estados financieros auditados últimos 3 años",
@@ -1517,12 +1511,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/270",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDIQ": {
-    "status": "Listo",
-    "title": "Fotocopia legalizada - Representante legal",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/271",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDJk": {
     "status": null,
     "title": "Rut empresa",
@@ -1599,6 +1587,18 @@
     "status": "Aceptado",
     "title": "Diseñar plantilla de CV",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/304",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZUoc": {
+    "status": "Aceptado",
+    "title": "Fotocopia legalizada ante Notario de la patente comercial al día",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/336",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDIQ": {
+    "status": "Aceptado",
+    "title": "Fotocopia legalizada - Representante legal",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/271",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDrk": {

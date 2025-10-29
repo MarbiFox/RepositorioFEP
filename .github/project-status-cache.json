@@ -1,4 +1,22 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
+    "status": "En Revisión",
+    "title": "Boleta de Garantía de Seriedad",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/269",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
+    "status": "En Revisión",
+    "title": "Estados financieros auditados últimos 3 años",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
+    "status": "En Progreso",
+    "title": "Rut de la empresa y Certificado de vigencia",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
     "status": "En Progreso",
     "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
@@ -1475,12 +1493,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/268",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
-    "status": "Listo",
-    "title": "Boleta de Garantía de Seriedad",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/269",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDGs": {
     "status": "Backlog",
     "title": "Formulario A1: Identificación del proponente",
@@ -1488,7 +1500,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDIQ": {
-    "status": "En Revisión",
+    "status": "En Progreso",
     "title": "Fotocopia legalizada - Representante legal",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/271",
     "type": "Issue"
@@ -1497,12 +1509,6 @@
     "status": null,
     "title": "Rut empresa",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/272",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
-    "status": "Listo",
-    "title": "Rut de la empresa y Certificado de vigencia",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDMc": {
@@ -1533,12 +1539,6 @@
     "status": "Listo",
     "title": "Certificado de deudas tributarias",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/278",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
-    "status": "Listo",
-    "title": "Estados financieros auditados últimos 3 años",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDWw": {

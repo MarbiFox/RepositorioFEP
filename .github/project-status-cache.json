@@ -17,22 +17,16 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDvM": {
+    "status": "En Progreso",
+    "title": "CV - Ademir Muñoz",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/293",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
     "status": "En Progreso",
     "title": "Rut de la empresa y Certificado de vigencia",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
-    "status": "En Progreso",
-    "title": "Realizar y Describir el Organigrama del proyecto",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
-    "status": "En Progreso",
-    "title": "Redactar Estructura Organizacional de la Empresa",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/316",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
@@ -1553,10 +1547,16 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/280",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDXc": {
+  "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
     "status": "Listo",
-    "title": "Boletín Laboral y Previsional de la Dirección del Trabajo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/281",
+    "title": "Redactar Estructura Organizacional de la Empresa",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/316",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
+    "status": "Listo",
+    "title": "Realizar y Describir el Organigrama del proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDhY": {
@@ -1583,10 +1583,28 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/290",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggZVCU": {
+    "status": "Aceptado",
+    "title": "Especificar contratos nuevos (Subdocumento 2)",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/338",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZFDw": {
+    "status": "Aceptado",
+    "title": "Investigar Conceptos relacionados a Plan de Servicios de Operación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/319",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKIFk": {
     "status": "Aceptado",
     "title": "Diseñar plantilla de CV",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/304",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDXc": {
+    "status": "Aceptado",
+    "title": "Boletín Laboral y Previsional de la Dirección del Trabajo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/281",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZUoc": {
@@ -1611,12 +1629,6 @@
     "status": "Listo",
     "title": "CV - Jorge Palacios",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/291",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDvM": {
-    "status": "Listo",
-    "title": "CV - Ademir Muñoz",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/293",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDy4": {
@@ -1763,12 +1775,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/318",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggZFDw": {
-    "status": "Listo",
-    "title": "Investigar Conceptos relacionados a Plan de Servicios de Operación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/319",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZF9A": {
     "status": "Backlog",
     "title": "Describir Plan de Servicios de Operación",
@@ -1863,12 +1869,6 @@
     "status": "Backlog",
     "title": "Poderes del representante legal",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZVCU": {
-    "status": "Listo",
-    "title": "Especificar contratos nuevos (Subdocumento 2)",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/338",
     "type": "Issue"
   }
 }

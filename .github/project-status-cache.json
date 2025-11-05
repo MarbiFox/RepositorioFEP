@@ -906,7 +906,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgd87-Y": {
-    "status": null,
+    "status": "Backlog",
     "title": "Listar casos de uso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/54",
     "type": "Issue"
@@ -1995,6 +1995,156 @@
     "status": "Backlog",
     "title": "EXCEL - Hoja de Indicadores",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/359",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvDlo": {
+    "status": null,
+    "title": "Gestión de adquisiciones",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/360",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvFDM": {
+    "status": "Backlog",
+    "title": "Listar dispositivos físicos - Módulo ERP",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/361",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvFUs": {
+    "status": "Backlog",
+    "title": "Listar servicios a contratar - Módulo ERP",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/362",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvFow": {
+    "status": "Backlog",
+    "title": "Contactar a proveedor - Módulo ERP",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/363",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvFrc": {
+    "status": "Backlog",
+    "title": "Listar dispositivos físicos - Módulo CRM",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/364",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvFtk": {
+    "status": "Backlog",
+    "title": "Listar servicios a contratar - Módulo CRM",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/365",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvFwc": {
+    "status": "Backlog",
+    "title": "Contactar a proveedor - Módulo CRM",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/366",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvF0g": {
+    "status": "Backlog",
+    "title": "Listar dispositivos físicos - Módulo E-commerce",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/367",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvF40": {
+    "status": "Backlog",
+    "title": "Listar servicios a contratar - Módulo E-Commerce",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/368",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvF7Y": {
+    "status": "Backlog",
+    "title": "Contactar a proveedor - Módulo E-commerce",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/369",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvF-Y": {
+    "status": "Backlog",
+    "title": "Listar dispositivos físicos - Módulo B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/370",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGA4": {
+    "status": "Backlog",
+    "title": "Listar servicios a contratar - Módulo B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/371",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGC4": {
+    "status": "Backlog",
+    "title": "Contactar a proveedor - Módulo B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/372",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGII": {
+    "status": "Backlog",
+    "title": "Listar dispositivos físicos - Módulo OMS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/373",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGKM": {
+    "status": "Backlog",
+    "title": "Listar servicios a contratar - Módulo OMS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/374",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGMg": {
+    "status": "Backlog",
+    "title": "Contactar a proveedor - Módulo OMS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/375",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGSc": {
+    "status": "Backlog",
+    "title": "Listar dispositivos físicos - Módulo Analytics",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/376",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGXM": {
+    "status": "Backlog",
+    "title": "Listar servicios a contratar - Módulo Analytics",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/377",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGdA": {
+    "status": "Backlog",
+    "title": "Contactar a proveedor - Módulo Analytics",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/378",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGgc": {
+    "status": "Backlog",
+    "title": "Listar dispositivos físicos - Módulo POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/379",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGi4": {
+    "status": "Backlog",
+    "title": "Listar servicios a contratar - Módulo POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/380",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGl4": {
+    "status": "Backlog",
+    "title": "Contactar a proveedor - Módulo POS",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/381",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGo8": {
+    "status": "Backlog",
+    "title": "Listar dispositivos físicos - Módulo TOPTAR",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/382",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGrU": {
+    "status": "Backlog",
+    "title": "Listar servicios a contratar - Módulo TOPTAR",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/383",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGwA": {
+    "status": "Backlog",
+    "title": "Contactar a proveedor - Módulo TOPTAR",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/384",
     "type": "Issue"
   }
 }

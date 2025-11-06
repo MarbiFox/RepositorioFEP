@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggKEDA": {
+    "status": "En Progreso",
+    "title": "Certificados vigentes - Thomas Molina",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/301",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
     "status": "En Revisión",
     "title": "Boleta de Garantía de Seriedad",
@@ -15,6 +21,24 @@
     "status": "En Progreso",
     "title": "Estados financieros auditados últimos 3 años",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDrk": {
+    "status": "En Progreso",
+    "title": "CV - Jorge Palacios",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/291",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKD0A": {
+    "status": "En Progreso",
+    "title": "CV - Thomas Molina",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/295",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDy4": {
+    "status": "En Progreso",
+    "title": "CV - Benjamín Fernández",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/294",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDvM": {
@@ -1625,24 +1649,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/271",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDrk": {
-    "status": "Listo",
-    "title": "CV - Jorge Palacios",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/291",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDy4": {
-    "status": "Listo",
-    "title": "CV - Benjamín Fernández",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/294",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKD0A": {
-    "status": "Listo",
-    "title": "CV - Thomas Molina",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/295",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKD8M": {
     "status": "Listo",
     "title": "Certificados vigentes - Ademir Muñoz",
@@ -1689,12 +1695,6 @@
     "status": "Listo",
     "title": "Certificados vigentes - Benjamín Fernández",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/300",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKEDA": {
-    "status": "Listo",
-    "title": "Certificados vigentes - Thomas Molina",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/301",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKEFA": {

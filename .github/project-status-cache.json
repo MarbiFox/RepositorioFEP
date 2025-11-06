@@ -29,6 +29,18 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/302",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDb8": {
+    "status": "Aceptado",
+    "title": "Declaración jurada - No encontrarse en quiebra",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/283",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDdg": {
+    "status": "Aceptado",
+    "title": "Declaración jurada - Aceptación de las Bases",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/284",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKEDA": {
     "status": "En Progreso",
     "title": "Certificados vigentes - Thomas Molina",
@@ -42,9 +54,15 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
-    "status": "En Revisión",
+    "status": "En Progreso",
     "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
+    "status": "En Progreso",
+    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKD40": {
@@ -1683,24 +1701,6 @@
     "status": "Aceptado",
     "title": "Fotocopia legalizada - Representante legal",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/271",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDdg": {
-    "status": "Listo",
-    "title": "Declaración jurada - Aceptación de las Bases",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/284",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
-    "status": "Listo",
-    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDb8": {
-    "status": "Listo",
-    "title": "Declaración jurada - No encontrarse en quiebra",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/283",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggV_u0": {

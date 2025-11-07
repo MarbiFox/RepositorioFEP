@@ -11,6 +11,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/298",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggKEDA": {
+    "status": "Aceptado",
+    "title": "Certificados vigentes - Thomas Molina",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/301",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKD8M": {
     "status": "Aceptado",
     "title": "Certificados vigentes - Ademir Muñoz",
@@ -47,12 +53,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/286",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKEDA": {
-    "status": "En Progreso",
-    "title": "Certificados vigentes - Thomas Molina",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/301",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
     "status": "En Revisión",
     "title": "Boleta de Garantía de Seriedad",
@@ -78,7 +78,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKD40": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Certificados vigentes - Vicente Mercado",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/296",
     "type": "Issue"
@@ -2016,13 +2016,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvFrc": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Listar dispositivos físicos - Módulo CRM",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/364",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvFtk": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Listar servicios a contratar - Módulo CRM",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/365",
     "type": "Issue"
@@ -2088,13 +2088,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGSc": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Listar dispositivos físicos - Módulo Analytics",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/376",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGXM": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Listar servicios a contratar - Módulo Analytics",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/377",
     "type": "Issue"

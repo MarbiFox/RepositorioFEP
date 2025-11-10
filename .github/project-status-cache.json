@@ -2218,5 +2218,11 @@
     "title": "Preparar diapositivas sobre VAN/TIR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/397",
     "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzghArGo": {
+    "status": "Backlog",
+    "title": "Realizar estimación x punto caso de uso",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/398",
+    "type": "Issue"
   }
 }

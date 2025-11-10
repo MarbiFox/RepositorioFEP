@@ -2154,9 +2154,39 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_h3k": {
-    "status": null,
+    "status": "Backlog",
     "title": "Preparar guiones sobre proveedores clave del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/387",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgg_iFg": {
+    "status": "Backlog",
+    "title": "Preparar guion sobre adquisicones clave/relevante para la solución",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/388",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgg_iQI": {
+    "status": "Backlog",
+    "title": "Prepara guion sobre la curva S del proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/389",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgg_jIU": {
+    "status": "Backlog",
+    "title": "Preparar guion sobre análisis de costos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/390",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgg_k64": {
+    "status": "Backlog",
+    "title": "Preparar guion sobre VAN/TIR",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/391",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgg_mfw": {
+    "status": null,
+    "title": "Preparar diapositivas de la presentación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/392",
     "type": "Issue"
   }
 }

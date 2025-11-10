@@ -1421,12 +1421,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/232",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
-    "status": "Backlog",
-    "title": "Redactar plan de riesgos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
     "status": "Listo",
     "title": "Redactar especificación Módulo 2 - POS",
@@ -1827,6 +1821,12 @@
     "status": "En Progreso",
     "title": "Calcular Staffing Óptimo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/328",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
+    "status": "En Progreso",
+    "title": "Redactar plan de riesgos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZJso": {

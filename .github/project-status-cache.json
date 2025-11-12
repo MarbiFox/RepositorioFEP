@@ -2100,7 +2100,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGMg": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Contactar a proveedor - Módulo OMS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/375",
     "type": "Issue"
@@ -2124,19 +2124,19 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGo8": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Listar dispositivos físicos - Módulo TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/382",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGrU": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Listar servicios a contratar - Módulo TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/383",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGwA": {
-    "status": "Backlog",
+    "status": "Listo",
     "title": "Contactar a proveedor - Módulo TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/384",
     "type": "Issue"

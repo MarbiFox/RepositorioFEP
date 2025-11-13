@@ -1,4 +1,22 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggvF-Y": {
+    "status": "En Revisión",
+    "title": "Listar dispositivos físicos - Módulo B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/370",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGA4": {
+    "status": "En Revisión",
+    "title": "Listar servicios a contratar - Módulo B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/371",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggvGC4": {
+    "status": "En Progreso",
+    "title": "Contactar a proveedor - Módulo B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/372",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKEAs": {
     "status": "Aceptado",
     "title": "Certificados vigentes - Benjamín Fernández",
@@ -1920,7 +1938,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZJw": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "EXCEL - Resumen Ejecutivo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/348",
     "type": "Issue"
@@ -1950,13 +1968,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZsw": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "EXCEL - Hoja de parámetros",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/353",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZ2k": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "EXCEL - Curva S",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/354",
     "type": "Issue"
@@ -1968,25 +1986,25 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggraao": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "EXCEL - Hoja de Costos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/356",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggra5U": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "EXCEL - Hoja de Ingresos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/357",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrbII": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "EXCEL - Hoja de Flujo de Caja",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/358",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrbQo": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "EXCEL - Hoja de Indicadores",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/359",
     "type": "Issue"
@@ -2069,32 +2087,14 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/369",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggvF-Y": {
-    "status": "Listo",
-    "title": "Listar dispositivos físicos - Módulo B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/370",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggvGA4": {
-    "status": "Listo",
-    "title": "Listar servicios a contratar - Módulo B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/371",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggvGC4": {
-    "status": "Listo",
-    "title": "Contactar a proveedor - Módulo B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/372",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggvGII": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Listar dispositivos físicos - Módulo OMS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/373",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGKM": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Listar servicios a contratar - Módulo OMS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/374",
     "type": "Issue"

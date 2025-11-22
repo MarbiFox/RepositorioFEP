@@ -1,18 +1,18 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzggvF-Y": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Listar dispositivos físicos - Módulo B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/370",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGA4": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Listar servicios a contratar - Módulo B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/371",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGC4": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Contactar a proveedor - Módulo B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/372",
     "type": "Issue"
@@ -54,13 +54,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDb8": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Declaración jurada - No encontrarse en quiebra",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/283",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDdg": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Declaración jurada - Aceptación de las Bases",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/284",
     "type": "Issue"
@@ -84,13 +84,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
@@ -102,7 +102,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "Estados financieros auditados últimos 3 años",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
@@ -156,7 +156,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDuI": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "CV - Benjamín Diaz",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/292",
     "type": "Issue"
@@ -192,7 +192,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgd87-Y": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Listar casos de uso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/54",
     "type": "Issue"
@@ -1434,7 +1434,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZk8": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "Redactar riesgos identificados",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/232",
     "type": "Issue"
@@ -1614,7 +1614,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDGs": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Formulario A1: Identificación del proponente",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/270",
     "type": "Issue"
@@ -1656,13 +1656,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Redactar Estructura Organizacional de la Empresa",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/316",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Realizar y Describir el Organigrama del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
     "type": "Issue"
@@ -1770,7 +1770,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZAmY": {
-    "status": "Backlog",
+    "status": "En Revisión",
     "title": "Armar plantilla para subdocumento 12",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/315",
     "type": "Issue"
@@ -1842,7 +1842,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "Redactar plan de riesgos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
     "type": "Issue"
@@ -1866,13 +1866,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZTeM": {
-    "status": "Backlog",
+    "status": "En Revisión",
     "title": "Analizar Riesgos del Proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZT2I": {
-    "status": "Backlog",
+    "status": "En Revisión",
     "title": "Definir estrategias de mitigación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/334",
     "type": "Issue"
@@ -1938,13 +1938,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZJw": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "EXCEL - Resumen Ejecutivo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/348",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {
-    "status": "Listo",
+    "status": "En Progreso",
     "title": "EVALUACIÓN FINANCIERA DEL PROYECTO",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/349",
     "type": "Issue"
@@ -1968,13 +1968,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZsw": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "EXCEL - Hoja de parámetros",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/353",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZ2k": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "EXCEL - Curva S",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/354",
     "type": "Issue"
@@ -1986,25 +1986,25 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggraao": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "EXCEL - Hoja de Costos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/356",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggra5U": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "EXCEL - Hoja de Ingresos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/357",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrbII": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "EXCEL - Hoja de Flujo de Caja",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/358",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrbQo": {
-    "status": "En Progreso",
+    "status": "En Revisión",
     "title": "EXCEL - Hoja de Indicadores",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/359",
     "type": "Issue"
@@ -2016,127 +2016,127 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvFDM": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Listar dispositivos físicos - Módulo ERP",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/361",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvFUs": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Listar servicios a contratar - Módulo ERP",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/362",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvFow": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Contactar a proveedor - Módulo ERP",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/363",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvFrc": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Listar dispositivos físicos - Módulo CRM",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/364",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGl4": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Contactar a proveedor - Módulo POS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/381",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGi4": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Listar servicios a contratar - Módulo POS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/380",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGgc": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Listar dispositivos físicos - Módulo POS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/379",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvFtk": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Listar servicios a contratar - Módulo CRM",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/365",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvFwc": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Contactar a proveedor - Módulo CRM",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/366",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvF0g": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Listar dispositivos físicos - Módulo E-commerce",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/367",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvF40": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Listar servicios a contratar - Módulo E-Commerce",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/368",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvF7Y": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Contactar a proveedor - Módulo E-commerce",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/369",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGII": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Listar dispositivos físicos - Módulo OMS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/373",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGKM": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Listar servicios a contratar - Módulo OMS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/374",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGMg": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Contactar a proveedor - Módulo OMS",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/375",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGSc": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Listar dispositivos físicos - Módulo Analytics",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/376",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGXM": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Listar servicios a contratar - Módulo Analytics",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/377",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGdA": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Contactar a proveedor - Módulo Analytics",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/378",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGo8": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Listar dispositivos físicos - Módulo TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/382",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGrU": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Listar servicios a contratar - Módulo TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/383",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvGwA": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Contactar a proveedor - Módulo TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/384",
     "type": "Issue"
@@ -2154,31 +2154,31 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_h3k": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Preparar guiones sobre proveedores clave del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/387",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_iFg": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Preparar guion sobre adquisicones clave/relevante para la solución",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/388",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_iQI": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Prepara guion sobre la curva S del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/389",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_jIU": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Preparar guion sobre análisis de costos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/390",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_k64": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Preparar guion sobre VAN/TIR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/391",
     "type": "Issue"
@@ -2190,37 +2190,37 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_3KM": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Preparar diapositivas sobre proveedores clave del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/393",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_3Ok": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Preparar diapositivas sobre adquisiciones clave/relevante para la solución",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/394",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_3Rw": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Prepara diapositivas sobre la curva S del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/395",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_3T8": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Preparar diapositivas sobre análisis de costos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/396",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgg_4SA": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Preparar diapositivas sobre VAN/TIR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/397",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzghArGo": {
-    "status": "Backlog",
+    "status": "Aceptado",
     "title": "Realizar estimación x punto caso de uso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/398",
     "type": "Issue"

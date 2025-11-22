@@ -119,18 +119,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/295",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
-    "status": "En Progreso",
-    "title": "Realizar y Describir el Organigrama del proyecto",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
-    "status": "En Progreso",
-    "title": "Redactar Estructura Organizacional de la Empresa",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/316",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDy4": {
     "status": "Listo",
     "title": "CV - Benjamín Fernández",
@@ -1349,6 +1337,18 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
+    "status": "Listo",
+    "title": "Redactar Estructura Organizacional de la Empresa",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/316",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
+    "status": "Listo",
+    "title": "Realizar y Describir el Organigrama del proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
     "status": "Listo",
     "title": "Estructurar Soporte Técnico",
@@ -1931,6 +1931,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/346",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZcA": {
+    "status": "En Progreso",
+    "title": "ESTRATEGIA DE ADQUISICIONES",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/351",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggrZBI": {
     "status": "Backlog",
     "title": "ANÁLISIS COMPARATIVO COSTOS VS PRECIO",
@@ -1953,12 +1959,6 @@
     "status": "Backlog",
     "title": "CURVA S - DISTRIBUCIÓN TEMPORAL",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/350",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZcA": {
-    "status": "Backlog",
-    "title": "ESTRATEGIA DE ADQUISICIONES",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/351",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZm0": {

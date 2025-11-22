@@ -155,6 +155,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
+    "status": "En Progreso",
+    "title": "Estructurar Soporte Técnico",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
     "status": "En Progreso",
     "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
@@ -1811,12 +1817,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/323",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
-    "status": "Backlog",
-    "title": "Estructurar Soporte Técnico",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZIms": {
     "status": "Backlog",
     "title": "Definir PlayBook",
@@ -1830,7 +1830,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZI_k": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar Implementaciones para Soporte",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/327",
     "type": "Issue"

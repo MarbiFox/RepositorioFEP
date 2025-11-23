@@ -1,8 +1,14 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzggKDy4": {
-    "status": "En Revisión",
-    "title": "CV - Benjamín Fernández",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/294",
+  "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
+    "status": "En Progreso",
+    "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
+    "status": "En Progreso",
+    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvF-Y": {
@@ -78,39 +84,15 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
-    "status": "En Revisión",
+    "status": "En Progreso",
     "title": "Boleta de Garantía de Seriedad",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/269",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
-    "status": "En Revisión",
-    "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
-    "status": "En Revisión",
-    "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
-    "status": "En Revisión",
-    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKD40": {
     "status": "Aceptado",
     "title": "Certificados vigentes - Vicente Mercado",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/296",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
-    "status": "En Revisión",
-    "title": "Estados financieros auditados últimos 3 años",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDrk": {
@@ -120,15 +102,93 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDnE": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "CV - Vicente mercado",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/289",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZk8": {
+    "status": "Aceptado",
+    "title": "Redactar riesgos identificados",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/232",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
     "status": "En Progreso",
     "title": "Rut de la empresa y Certificado de vigencia",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrbII": {
+    "status": "En Progreso",
+    "title": "EXCEL - Hoja de Flujo de Caja",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/358",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
+    "status": "En Progreso",
+    "title": "Redactar plan de riesgos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZJw": {
+    "status": "En Progreso",
+    "title": "EXCEL - Resumen Ejecutivo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/348",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
+    "status": "En Progreso",
+    "title": "Estados financieros auditados últimos 3 años",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
+    "status": "En Progreso",
+    "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZTeM": {
+    "status": "En Progreso",
+    "title": "Analizar Riesgos del Proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZsw": {
+    "status": "En Progreso",
+    "title": "EXCEL - Hoja de parámetros",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/353",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZ2k": {
+    "status": "En Progreso",
+    "title": "EXCEL - Curva S",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/354",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggraao": {
+    "status": "En Progreso",
+    "title": "EXCEL - Hoja de Costos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/356",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggra5U": {
+    "status": "En Progreso",
+    "title": "EXCEL - Hoja de Ingresos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/357",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrbQo": {
+    "status": "En Progreso",
+    "title": "EXCEL - Hoja de Indicadores",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/359",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDGs": {
+    "status": "En Progreso",
+    "title": "Formulario A1: Identificación del proponente",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/270",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
@@ -144,7 +204,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDuI": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "CV - Benjamín Diaz",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/292",
     "type": "Issue"
@@ -195,6 +255,12 @@
     "status": "Aceptado",
     "title": "CV - Thomas Molina",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/295",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDy4": {
+    "status": "Aceptado",
+    "title": "CV - Benjamín Fernández",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/294",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNz2I": {
@@ -252,7 +318,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
-    "status": "En Revisión",
+    "status": "En Progreso",
     "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
     "type": "Issue"
@@ -1457,12 +1523,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/226",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZk8": {
-    "status": "En Revisión",
-    "title": "Redactar riesgos identificados",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/232",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMek": {
     "status": "Listo",
     "title": "Redactar especificación Módulo 2 - POS",
@@ -1637,12 +1697,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/268",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDGs": {
-    "status": "En Revisión",
-    "title": "Formulario A1: Identificación del proponente",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/270",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDJk": {
     "status": null,
     "title": "Rut empresa",
@@ -1650,7 +1704,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDMc": {
-    "status": null,
+    "status": "Backlog",
     "title": "Fotocopia legalizada - Patente comercial",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/274",
     "type": "Issue"
@@ -1686,7 +1740,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDoE": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "CV - Rodrigo Araos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/290",
     "type": "Issue"
@@ -1782,7 +1836,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZAmY": {
-    "status": "En Revisión",
+    "status": "En Progreso",
     "title": "Armar plantilla para subdocumento 12",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/315",
     "type": "Issue"
@@ -1841,12 +1895,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/328",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
-    "status": "En Revisión",
-    "title": "Redactar plan de riesgos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZJso": {
     "status": "Backlog",
     "title": "Redactar Acuerdos y Contratos Operacionales del Call-Center",
@@ -1865,14 +1913,8 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/331",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggZTeM": {
-    "status": "En Revisión",
-    "title": "Analizar Riesgos del Proyecto",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZT2I": {
-    "status": "En Revisión",
+    "status": "En Progreso",
     "title": "Definir estrategias de mitigación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/334",
     "type": "Issue"
@@ -1943,12 +1985,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/347",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZJw": {
-    "status": "En Revisión",
-    "title": "EXCEL - Resumen Ejecutivo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/348",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {
     "status": "En Progreso",
     "title": "EVALUACIÓN FINANCIERA DEL PROYECTO",
@@ -1967,46 +2003,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/352",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZsw": {
-    "status": "En Revisión",
-    "title": "EXCEL - Hoja de parámetros",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/353",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZ2k": {
-    "status": "En Revisión",
-    "title": "EXCEL - Curva S",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/354",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggraKk": {
     "status": "En Progreso",
     "title": "ESTRUCTURA DE MANTENCIÓN Y SOPORTE",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/355",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggraao": {
-    "status": "En Revisión",
-    "title": "EXCEL - Hoja de Costos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/356",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggra5U": {
-    "status": "En Revisión",
-    "title": "EXCEL - Hoja de Ingresos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/357",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrbII": {
-    "status": "En Revisión",
-    "title": "EXCEL - Hoja de Flujo de Caja",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/358",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrbQo": {
-    "status": "En Revisión",
-    "title": "EXCEL - Hoja de Indicadores",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/359",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvDlo": {

@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
+    "status": "En Progreso",
+    "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
     "status": "En Progreso",
     "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
@@ -95,16 +101,16 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/296",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDrk": {
-    "status": "Listo",
-    "title": "CV - Jorge Palacios",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/291",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDnE": {
     "status": "Aceptado",
     "title": "CV - Vicente mercado",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/289",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDrk": {
+    "status": "Aceptado",
+    "title": "CV - Jorge Palacios",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/291",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZk8": {
@@ -1397,12 +1403,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/199",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
-    "status": "Listo",
-    "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
     "status": "Listo",
     "title": "Redactar Estructura Organizacional de la Empresa",
@@ -1410,13 +1410,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
-    "status": "Listo",
+    "status": "En Progreso",
     "title": "Realizar y Describir el Organigrama del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
-    "status": "Listo",
+    "status": "En Progreso",
     "title": "Estructurar Soporte Técnico",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
     "type": "Issue"
@@ -1854,7 +1854,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZF9A": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Describir Plan de Servicios de Operación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/320",
     "type": "Issue"

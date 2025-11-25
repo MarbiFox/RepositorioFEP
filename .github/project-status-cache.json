@@ -1,6 +1,30 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzggZTeM": {
+  "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
     "status": "En Revisión",
+    "title": "Estructurar Soporte Técnico",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZF9A": {
+    "status": "En Revisión",
+    "title": "Describir Plan de Servicios de Operación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/320",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZI_k": {
+    "status": "En Revisión",
+    "title": "Redactar Implementaciones para Soporte",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/327",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
+    "status": "Aceptado",
+    "title": "Redactar Estructura Organizacional de la Empresa",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/316",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZTeM": {
+    "status": "Aceptado",
     "title": "Analizar Riesgos del Proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
     "type": "Issue"
@@ -1415,28 +1439,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/199",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
-    "status": "Listo",
-    "title": "Redactar Estructura Organizacional de la Empresa",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/316",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
     "status": "En Progreso",
     "title": "Realizar y Describir el Organigrama del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
-    "status": "Listo",
-    "title": "Estructurar Soporte Técnico",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZI_k": {
-    "status": "Listo",
-    "title": "Redactar Implementaciones para Soporte",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/327",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMqQ": {
@@ -1836,7 +1842,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZAmY": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Armar plantilla para subdocumento 12",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/315",
     "type": "Issue"
@@ -1851,12 +1857,6 @@
     "status": "Backlog",
     "title": "Investigar Conceptos de Mantención Preventiva y Evolutiva",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/318",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZF9A": {
-    "status": "Listo",
-    "title": "Describir Plan de Servicios de Operación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/320",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZHGE": {

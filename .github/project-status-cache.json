@@ -1,4 +1,16 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUTo": {
+    "status": "En Revisión",
+    "title": "Redactar requerimientos funcionales para el módulo 8 - Analytics",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/208",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUlA": {
+    "status": "En Revisión",
+    "title": "Redactar requerimientos no funcionales Módulo 8 - Analytics",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/212",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
     "status": "En Progreso",
     "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
@@ -192,7 +204,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDGs": {
-    "status": "Listo",
+    "status": "En Progreso",
     "title": "Formulario A1: Identificación del proponente",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/270",
     "type": "Issue"
@@ -1445,12 +1457,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/206",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUTo": {
-    "status": "Listo",
-    "title": "Redactar requerimientos funcionales para el módulo 8 - Analytics",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/208",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUW4": {
     "status": "Backlog",
     "title": "Redactar requerimientos no funcionales Módulo 5 - ERP",
@@ -1461,12 +1467,6 @@
     "status": "Listo",
     "title": "Redactar requerimientos no funcionales Módulo 7 - Operación, Mantenimiento y soporte",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/211",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUlA": {
-    "status": "Listo",
-    "title": "Redactar requerimientos no funcionales Módulo 8 - Analytics",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/212",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkSj8": {

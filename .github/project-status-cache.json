@@ -1,14 +1,14 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUTo": {
+  "PVTI_lAHOBVxpwc4BAKpgzggZTeM": {
     "status": "En Revisión",
-    "title": "Redactar requerimientos funcionales para el módulo 8 - Analytics",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/208",
+    "title": "Analizar Riesgos del Proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUlA": {
-    "status": "En Revisión",
-    "title": "Redactar requerimientos no funcionales Módulo 8 - Analytics",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/212",
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUTo": {
+    "status": "En Progreso",
+    "title": "Redactar requerimientos funcionales para el módulo 8 - Analytics",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/208",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
@@ -119,6 +119,18 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/289",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgexXVs": {
+    "status": "Aceptado",
+    "title": "Refinar y Ajustar la arquitectura física de la solución",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/156",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUlA": {
+    "status": "Aceptado",
+    "title": "Redactar requerimientos no funcionales Módulo 8 - Analytics",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/212",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDrk": {
     "status": "Aceptado",
     "title": "CV - Jorge Palacios",
@@ -165,12 +177,6 @@
     "status": "En Progreso",
     "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZTeM": {
-    "status": "Listo",
-    "title": "Analizar Riesgos del Proyecto",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZsw": {
@@ -297,12 +303,6 @@
     "status": "En Progreso",
     "title": "Redactar ventajas de ARQ-FISICA",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/222",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgexXVs": {
-    "status": "Listo",
-    "title": "Refinar y Ajustar la arquitectura física de la solución",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/156",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkYFU": {

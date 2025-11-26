@@ -1,6 +1,132 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgfQMpA": {
+  "PVTI_lAHOBVxpwc4BAKpgzgfQMgQ": {
     "status": "En Revisión",
+    "title": "Redactar especificación Módulo 4 - Portal B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/182",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIvU": {
+    "status": "En Revisión",
+    "title": "Definir RunBook",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/326",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIms": {
+    "status": "En Revisión",
+    "title": "Definir PlayBook",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/325",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
+    "status": "En Revisión",
+    "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
+    "status": "En Revisión",
+    "title": "Estructurar Soporte Técnico",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {
+    "status": "Aceptado",
+    "title": "EVALUACIÓN FINANCIERA DEL PROYECTO",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/349",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZcA": {
+    "status": "Aceptado",
+    "title": "ESTRATEGIA DE ADQUISICIONES",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/351",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZS0": {
+    "status": "Aceptado",
+    "title": "CURVA S - DISTRIBUCIÓN TEMPORAL",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/350",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggraKk": {
+    "status": "Aceptado",
+    "title": "ESTRUCTURA DE MANTENCIÓN Y SOPORTE",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/355",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrYlQ": {
+    "status": "Aceptado",
+    "title": "RESUMEN EJECUTIVO DE VALOR",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/346",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrX_c": {
+    "status": "Aceptado",
+    "title": "PROPUESTA DE VALOR ECONÓMICO",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/344",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrYZY": {
+    "status": "Aceptado",
+    "title": "ESTRUCTURA DE PAGOS DETALLADA",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/345",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZBI": {
+    "status": "Aceptado",
+    "title": "ANÁLISIS COMPARATIVO COSTOS VS PRECIO",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/347",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggraao": {
+    "status": "Aceptado",
+    "title": "EXCEL - Hoja de Costos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/356",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZm0": {
+    "status": "Aceptado",
+    "title": "MODELO DE COSTOS OPERACIONALES",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/352",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrbQo": {
+    "status": "Aceptado",
+    "title": "EXCEL - Hoja de Indicadores",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/359",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggra5U": {
+    "status": "Aceptado",
+    "title": "EXCEL - Hoja de Ingresos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/357",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZ2k": {
+    "status": "Aceptado",
+    "title": "EXCEL - Curva S",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/354",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZsw": {
+    "status": "Aceptado",
+    "title": "EXCEL - Hoja de parámetros",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/353",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZJw": {
+    "status": "Aceptado",
+    "title": "EXCEL - Resumen Ejecutivo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/348",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrbII": {
+    "status": "Aceptado",
+    "title": "EXCEL - Hoja de Flujo de Caja",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/358",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfQMpA": {
+    "status": "Aceptado",
     "title": "Redactar especificación Módulo 5 - ERP",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/184",
     "type": "Issue"
@@ -51,48 +177,6 @@
     "status": "Aceptado",
     "title": "Redactar requerimientos funcionales para el módulo 8 - Analytics",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/208",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrbII": {
-    "status": "Listo",
-    "title": "EXCEL - Hoja de Flujo de Caja",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/358",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZJw": {
-    "status": "Listo",
-    "title": "EXCEL - Resumen Ejecutivo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/348",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZsw": {
-    "status": "Listo",
-    "title": "EXCEL - Hoja de parámetros",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/353",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZ2k": {
-    "status": "Listo",
-    "title": "EXCEL - Curva S",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/354",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggraao": {
-    "status": "Listo",
-    "title": "EXCEL - Hoja de Costos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/356",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggra5U": {
-    "status": "Listo",
-    "title": "EXCEL - Hoja de Ingresos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/357",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrbQo": {
-    "status": "Listo",
-    "title": "EXCEL - Hoja de Indicadores",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/359",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgexXdI": {
@@ -161,66 +245,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/329",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZm0": {
-    "status": "Listo",
-    "title": "MODELO DE COSTOS OPERACIONALES",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/352",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZBI": {
-    "status": "Listo",
-    "title": "ANÁLISIS COMPARATIVO COSTOS VS PRECIO",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/347",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZcA": {
-    "status": "Listo",
-    "title": "ESTRATEGIA DE ADQUISICIONES",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/351",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrYZY": {
-    "status": "Listo",
-    "title": "ESTRUCTURA DE PAGOS DETALLADA",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/345",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrX_c": {
-    "status": "Listo",
-    "title": "PROPUESTA DE VALOR ECONÓMICO",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/344",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrYlQ": {
-    "status": "Listo",
-    "title": "RESUMEN EJECUTIVO DE VALOR",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/346",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggraKk": {
-    "status": "Listo",
-    "title": "ESTRUCTURA DE MANTENCIÓN Y SOPORTE",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/355",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZS0": {
-    "status": "Listo",
-    "title": "CURVA S - DISTRIBUCIÓN TEMPORAL",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/350",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {
-    "status": "Listo",
-    "title": "EVALUACIÓN FINANCIERA DEL PROYECTO",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/349",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
-    "status": "En Progreso",
-    "title": "Estructurar Soporte Técnico",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
     "status": "Aceptado",
     "title": "Redactar Estructura Organizacional de la Empresa",
@@ -231,12 +255,6 @@
     "status": "Aceptado",
     "title": "Analizar Riesgos del Proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
-    "status": "En Progreso",
-    "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
@@ -1523,12 +1541,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/180",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfQMgQ": {
-    "status": "En Progreso",
-    "title": "Redactar especificación Módulo 4 - Portal B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/182",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZjg": {
     "status": "En Progreso",
     "title": "Redactar metodología a utilizar para riesgos",
@@ -1953,18 +1965,6 @@
     "status": "Aceptado",
     "title": "Redactar Subcontrataciones y Alianzas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/317",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIms": {
-    "status": "En Progreso",
-    "title": "Definir PlayBook",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/325",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIvU": {
-    "status": "En Progreso",
-    "title": "Definir RunBook",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/326",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZL6o": {

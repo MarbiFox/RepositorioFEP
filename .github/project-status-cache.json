@@ -5,10 +5,22 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggZTGk": {
+    "status": "Aceptado",
+    "title": "Refinar Ventajas de la Solución",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/331",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggrZm0": {
     "status": "Listo",
     "title": "MODELO DE COSTOS OPERACIONALES",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/352",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZBI": {
+    "status": "Listo",
+    "title": "ANÁLISIS COMPARATIVO COSTOS VS PRECIO",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/347",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZcA": {
@@ -75,6 +87,12 @@
     "status": "En Progreso",
     "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggV_9I": {
+    "status": "En Progreso",
+    "title": "Redactar la descripción en informe - GANTT",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/307",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
@@ -393,12 +411,6 @@
     "status": "Listo",
     "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZTGk": {
-    "status": "Listo",
-    "title": "Refinar Ventajas de la Solución",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/331",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZuE": {
@@ -1481,6 +1493,12 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggZEyk": {
+    "status": "En Progreso",
+    "title": "Investigar Conceptos de Mantención Preventiva y Evolutiva",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/318",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMqQ": {
     "status": "En Progreso",
     "title": "Redactar especificación Módulo 6 - CRM",
@@ -1835,12 +1853,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/306",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggV_9I": {
-    "status": "Backlog",
-    "title": "Redactar la descripción en informe - GANTT",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/307",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggWAQM": {
     "status": "Listo",
     "title": "Crear diccionarios de datos",
@@ -1884,15 +1896,9 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZD38": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar Subcontrataciones y Alianzas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/317",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZEyk": {
-    "status": "En Progreso",
-    "title": "Investigar Conceptos de Mantención Preventiva y Evolutiva",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/318",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZHGE": {
@@ -2001,12 +2007,6 @@
     "status": "En Progreso",
     "title": "RESUMEN EJECUTIVO DE VALOR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/346",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZBI": {
-    "status": "Backlog",
-    "title": "ANÁLISIS COMPARATIVO COSTOS VS PRECIO",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/347",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvDlo": {

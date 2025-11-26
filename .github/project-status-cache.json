@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzgexXdI": {
+    "status": "Aceptado",
+    "title": "Refinar redacción de sección de arquitectura física de informe",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggrZm0": {
     "status": "Listo",
     "title": "MODELO DE COSTOS OPERACIONALES",
@@ -42,7 +48,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZI_k": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar Implementaciones para Soporte",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/327",
     "type": "Issue"
@@ -210,7 +216,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar plan de riesgos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
     "type": "Issue"
@@ -264,7 +270,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDGs": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Formulario A1: Identificación del proponente",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/270",
     "type": "Issue"
@@ -369,12 +375,6 @@
     "status": "En Progreso",
     "title": "Redactar ventaja de la propuesta Tecnológica de la Aplicación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/86",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgexXdI": {
-    "status": "En Progreso",
-    "title": "Refinar redacción de sección de arquitectura física de informe",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/157",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgeNzRs": {
@@ -1836,7 +1836,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggWAQM": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Crear diccionarios de datos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/308",
     "type": "Issue"
@@ -1920,7 +1920,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZJOU": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Calcular Staffing Óptimo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/328",
     "type": "Issue"
@@ -2226,7 +2226,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzghlA7A": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Preparación y Diseño de la PPT para la presentación Final",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/399",
     "type": "Issue"

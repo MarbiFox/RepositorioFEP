@@ -5,30 +5,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/184",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggZJOU": {
-    "status": "En Revisión",
-    "title": "Calcular Staffing Óptimo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/328",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZHdM": {
-    "status": "En Revisión",
-    "title": "Redactar Plan de Mantenimiento Evolutivo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/322",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZHGE": {
-    "status": "En Revisión",
-    "title": "Redactar Plan de Mantenimiento Preventivo.",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/321",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIK4": {
-    "status": "En Revisión",
-    "title": "Diseñar Modelo de Soporte de Call-Center.",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/323",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
     "status": "Aceptado",
     "title": "Realizar y Describir el Organigrama del proyecto",
@@ -39,6 +15,36 @@
     "status": "Aceptado",
     "title": "Definir estrategias de mitigación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/334",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZHdM": {
+    "status": "Aceptado",
+    "title": "Redactar Plan de Mantenimiento Evolutivo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/322",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZEyk": {
+    "status": "Aceptado",
+    "title": "Investigar Conceptos de Mantención Preventiva y Evolutiva",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/318",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZF9A": {
+    "status": "Aceptado",
+    "title": "Describir Plan de Servicios de Operación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/320",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZHGE": {
+    "status": "Aceptado",
+    "title": "Redactar Plan de Mantenimiento Preventivo.",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/321",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
+    "status": "Aceptado",
+    "title": "Redactar plan de riesgos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUTo": {
@@ -119,10 +125,40 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/270",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
+    "status": "Aceptado",
+    "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZI_k": {
+    "status": "Aceptado",
+    "title": "Redactar Implementaciones para Soporte",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/327",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZJOU": {
+    "status": "Aceptado",
+    "title": "Calcular Staffing Óptimo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/328",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZSk": {
     "status": "Aceptado",
     "title": "Refinar EDT",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/227",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIK4": {
+    "status": "Aceptado",
+    "title": "Diseñar Modelo de Soporte de Call-Center.",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/323",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZJso": {
+    "status": "Aceptado",
+    "title": "Redactar Acuerdos y Contratos Operacionales del Call-Center",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/329",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZm0": {
@@ -179,28 +215,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/349",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggZJso": {
-    "status": "Listo",
-    "title": "Redactar Acuerdos y Contratos Operacionales del Call-Center",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/329",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
     "status": "En Progreso",
     "title": "Estructurar Soporte Técnico",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZF9A": {
-    "status": "Listo",
-    "title": "Describir Plan de Servicios de Operación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/320",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZI_k": {
-    "status": "Listo",
-    "title": "Redactar Implementaciones para Soporte",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/327",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZCfo": {
@@ -353,12 +371,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
-    "status": "Listo",
-    "title": "Redactar plan de riesgos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
     "status": "En Progreso",
     "title": "Estados financieros auditados últimos 3 años",
@@ -483,12 +495,6 @@
     "status": "En Progreso",
     "title": "Redactar especificaciones DC secundario",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/85",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
-    "status": "Listo",
-    "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZuE": {
@@ -1557,12 +1563,6 @@
     "status": "Listo",
     "title": "Redactar requerimientos funcionales para el módulo 1 - Tarjeta TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/199",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZEyk": {
-    "status": "Listo",
-    "title": "Investigar Conceptos de Mantención Preventiva y Evolutiva",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/318",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfQMqQ": {

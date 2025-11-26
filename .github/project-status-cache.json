@@ -1,4 +1,52 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggrbII": {
+    "status": "Listo",
+    "title": "EXCEL - Hoja de Flujo de Caja",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/358",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZJw": {
+    "status": "Listo",
+    "title": "EXCEL - Resumen Ejecutivo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/348",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZsw": {
+    "status": "Listo",
+    "title": "EXCEL - Hoja de parámetros",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/353",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZ2k": {
+    "status": "Listo",
+    "title": "EXCEL - Curva S",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/354",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
+    "status": "Listo",
+    "title": "Realizar y Describir el Organigrama del proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggraao": {
+    "status": "Listo",
+    "title": "EXCEL - Hoja de Costos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/356",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggra5U": {
+    "status": "Listo",
+    "title": "EXCEL - Hoja de Ingresos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/357",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrbQo": {
+    "status": "Listo",
+    "title": "EXCEL - Hoja de Indicadores",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/359",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgexXdI": {
     "status": "Aceptado",
     "title": "Refinar redacción de sección de arquitectura física de informe",
@@ -87,12 +135,6 @@
     "status": "En Progreso",
     "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggV_9I": {
-    "status": "En Progreso",
-    "title": "Redactar la descripción en informe - GANTT",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/307",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
@@ -227,22 +269,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggrbII": {
-    "status": "En Progreso",
-    "title": "EXCEL - Hoja de Flujo de Caja",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/358",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZmE": {
     "status": "Listo",
     "title": "Redactar plan de riesgos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/233",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZJw": {
-    "status": "En Progreso",
-    "title": "EXCEL - Resumen Ejecutivo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/348",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
@@ -255,36 +285,6 @@
     "status": "En Progreso",
     "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZsw": {
-    "status": "En Progreso",
-    "title": "EXCEL - Hoja de parámetros",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/353",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZ2k": {
-    "status": "En Progreso",
-    "title": "EXCEL - Curva S",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/354",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggraao": {
-    "status": "En Progreso",
-    "title": "EXCEL - Hoja de Costos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/356",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggra5U": {
-    "status": "En Progreso",
-    "title": "EXCEL - Hoja de Ingresos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/357",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrbQo": {
-    "status": "En Progreso",
-    "title": "EXCEL - Hoja de Indicadores",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/359",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDGs": {
@@ -335,16 +335,22 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/84",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZT4": {
-    "status": "En Progreso",
-    "title": "Refinar Carta Gantt",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/228",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzgd87-Y": {
     "status": "Aceptado",
     "title": "Listar casos de uso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/54",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZT4": {
+    "status": "Aceptado",
+    "title": "Refinar Carta Gantt",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/228",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggV_9I": {
+    "status": "Aceptado",
+    "title": "Redactar la descripción en informe - GANTT",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/307",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDvM": {
@@ -1485,12 +1491,6 @@
     "status": "Listo",
     "title": "Redactar requerimientos funcionales para el módulo 1 - Tarjeta TOPTAR",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/199",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
-    "status": "En Progreso",
-    "title": "Realizar y Describir el Organigrama del proyecto",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZEyk": {

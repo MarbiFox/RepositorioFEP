@@ -1,4 +1,28 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggrZm0": {
+    "status": "Listo",
+    "title": "MODELO DE COSTOS OPERACIONALES",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/352",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZcA": {
+    "status": "Listo",
+    "title": "ESTRATEGIA DE ADQUISICIONES",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/351",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggraKk": {
+    "status": "Listo",
+    "title": "ESTRUCTURA DE MANTENCIÓN Y SOPORTE",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/355",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrZS0": {
+    "status": "Listo",
+    "title": "CURVA S - DISTRIBUCIÓN TEMPORAL",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/350",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
     "status": "En Progreso",
     "title": "Estructurar Soporte Técnico",
@@ -1973,12 +1997,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/346",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZcA": {
-    "status": "En Progreso",
-    "title": "ESTRATEGIA DE ADQUISICIONES",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/351",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggrZBI": {
     "status": "Backlog",
     "title": "ANÁLISIS COMPARATIVO COSTOS VS PRECIO",
@@ -1989,24 +2007,6 @@
     "status": "En Progreso",
     "title": "EVALUACIÓN FINANCIERA DEL PROYECTO",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/349",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZS0": {
-    "status": "Backlog",
-    "title": "CURVA S - DISTRIBUCIÓN TEMPORAL",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/350",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrZm0": {
-    "status": "Backlog",
-    "title": "MODELO DE COSTOS OPERACIONALES",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/352",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggraKk": {
-    "status": "En Progreso",
-    "title": "ESTRUCTURA DE MANTENCIÓN Y SOPORTE",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/355",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvDlo": {

@@ -5,14 +5,44 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/184",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
+  "PVTI_lAHOBVxpwc4BAKpgzggZJOU": {
     "status": "En Revisión",
+    "title": "Calcular Staffing Óptimo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/328",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZHdM": {
+    "status": "En Revisión",
+    "title": "Redactar Plan de Mantenimiento Evolutivo",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/322",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZHGE": {
+    "status": "En Revisión",
+    "title": "Redactar Plan de Mantenimiento Preventivo.",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/321",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIK4": {
+    "status": "En Revisión",
+    "title": "Diseñar Modelo de Soporte de Call-Center.",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/323",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
+    "status": "Aceptado",
     "title": "Realizar y Describir el Organigrama del proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggZT2I": {
+    "status": "Aceptado",
+    "title": "Definir estrategias de mitigación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/334",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUTo": {
-    "status": "En Revisión",
+    "status": "Aceptado",
     "title": "Redactar requerimientos funcionales para el módulo 8 - Analytics",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/208",
     "type": "Issue"
@@ -1920,27 +1950,9 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZD38": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Redactar Subcontrataciones y Alianzas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/317",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZHGE": {
-    "status": "Listo",
-    "title": "Redactar Plan de Mantenimiento Preventivo.",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/321",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZHdM": {
-    "status": "Listo",
-    "title": "Redactar Plan de Mantenimiento Evolutivo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/322",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIK4": {
-    "status": "Listo",
-    "title": "Diseñar Modelo de Soporte de Call-Center.",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/323",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZIms": {
@@ -1955,22 +1967,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/326",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggZJOU": {
-    "status": "Listo",
-    "title": "Calcular Staffing Óptimo",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/328",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZL6o": {
     "status": "Backlog",
     "title": "Leer y Detectar Errores en Solución Actual",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/330",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZT2I": {
-    "status": "Listo",
-    "title": "Definir estrategias de mitigación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/334",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {

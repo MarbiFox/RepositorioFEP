@@ -1,38 +1,50 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzgfQMgQ": {
-    "status": "En Revisión",
-    "title": "Redactar especificación Módulo 4 - Portal B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/182",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIvU": {
-    "status": "En Revisión",
-    "title": "Definir RunBook",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/326",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIms": {
-    "status": "En Revisión",
-    "title": "Definir PlayBook",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/325",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
-    "status": "En Revisión",
-    "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
-    "status": "En Revisión",
-    "title": "Estructurar Soporte Técnico",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
+  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
+    "status": "En Progreso",
+    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {
     "status": "Aceptado",
     "title": "EVALUACIÓN FINANCIERA DEL PROYECTO",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/349",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
+    "status": "Aceptado",
+    "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIcY": {
+    "status": "Aceptado",
+    "title": "Estructurar Soporte Técnico",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/324",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
+    "status": "Aceptado",
+    "title": "Redactar requerimientos funcionales para el módulo 4 - Portal B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/202",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIms": {
+    "status": "Aceptado",
+    "title": "Definir PlayBook",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/325",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZIvU": {
+    "status": "Aceptado",
+    "title": "Definir RunBook",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/326",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfQMgQ": {
+    "status": "Aceptado",
+    "title": "Redactar especificación Módulo 4 - Portal B2B",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/182",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZcA": {
@@ -255,18 +267,6 @@
     "status": "Aceptado",
     "title": "Analizar Riesgos del Proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
-    "status": "En Progreso",
-    "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
-    "status": "En Progreso",
-    "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggvF-Y": {
@@ -1961,16 +1961,16 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/315",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggZL6o": {
+    "status": "Aceptado",
+    "title": "Leer y Detectar Errores en Solución Actual",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/330",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggZD38": {
     "status": "Aceptado",
     "title": "Redactar Subcontrataciones y Alianzas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/317",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZL6o": {
-    "status": "Backlog",
-    "title": "Leer y Detectar Errores en Solución Actual",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/330",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {

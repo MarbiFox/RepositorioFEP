@@ -390,9 +390,15 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUSk": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar requerimiento no funcional Módulo 4 - Portal B2B",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/207",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZTGk": {
+    "status": "Listo",
+    "title": "Refinar Ventajas de la Solución",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/331",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkZuE": {
@@ -1896,13 +1902,13 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZHdM": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Redactar Plan de Mantenimiento Evolutivo",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/322",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZIK4": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Diseñar Modelo de Soporte de Call-Center.",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/323",
     "type": "Issue"
@@ -1926,7 +1932,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZJso": {
-    "status": "Backlog",
+    "status": "En Progreso",
     "title": "Redactar Acuerdos y Contratos Operacionales del Call-Center",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/329",
     "type": "Issue"
@@ -1935,12 +1941,6 @@
     "status": "Backlog",
     "title": "Leer y Detectar Errores en Solución Actual",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/330",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZTGk": {
-    "status": "Backlog",
-    "title": "Refinar Ventajas de la Solución",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/331",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggZT2I": {

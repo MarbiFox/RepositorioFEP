@@ -1,8 +1,20 @@
 {
   "PVTI_lAHOBVxpwc4BAKpgzgfQMpA": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Redactar especificación Módulo 5 - ERP",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/184",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
+    "status": "En Revisión",
+    "title": "Realizar y Describir el Organigrama del proyecto",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfTUTo": {
+    "status": "En Revisión",
+    "title": "Redactar requerimientos funcionales para el módulo 8 - Analytics",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/208",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrbII": {
@@ -27,12 +39,6 @@
     "status": "Listo",
     "title": "EXCEL - Curva S",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/354",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKEJY": {
-    "status": "Listo",
-    "title": "Realizar y Describir el Organigrama del proyecto",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/303",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggraao": {
@@ -63,6 +69,30 @@
     "status": "Aceptado",
     "title": "Refinar Ventajas de la Solución",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/331",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggWAQM": {
+    "status": "Aceptado",
+    "title": "Crear diccionarios de datos",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/308",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggV_u0": {
+    "status": "Aceptado",
+    "title": "Refinar la descripción en informe - EDT",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/306",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDGs": {
+    "status": "Aceptado",
+    "title": "Formulario A1: Identificación del proponente",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/270",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzgfkZSk": {
+    "status": "Aceptado",
+    "title": "Refinar EDT",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/227",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZm0": {
@@ -153,12 +183,6 @@
     "status": "Aceptado",
     "title": "Analizar Riesgos del Proyecto",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/333",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfTUTo": {
-    "status": "Listo",
-    "title": "Redactar requerimientos funcionales para el módulo 8 - Analytics",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/208",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfTUKY": {
@@ -317,12 +341,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDGs": {
-    "status": "Listo",
-    "title": "Formulario A1: Identificación del proponente",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/270",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
     "status": "En Progreso",
     "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
@@ -405,12 +423,6 @@
     "status": "En Progreso",
     "title": "Redactar ventajas de la propuesta Tecnológica de la Base de Datos",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/87",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzgfkZSk": {
-    "status": "Listo",
-    "title": "Refinar EDT",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/227",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzgfkYvs": {
@@ -1869,18 +1881,6 @@
     "status": "Aceptado",
     "title": "Fotocopia legalizada - Representante legal",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/271",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggV_u0": {
-    "status": "Listo",
-    "title": "Refinar la descripción en informe - EDT",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/306",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggWAQM": {
-    "status": "Listo",
-    "title": "Crear diccionarios de datos",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/308",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggY8H8": {

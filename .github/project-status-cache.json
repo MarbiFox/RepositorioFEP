@@ -1,6 +1,18 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
+    "status": "Listo",
+    "title": "Escritura de constitución y modificación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/275",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
+    "status": "Listo",
+    "title": "Poderes del representante legal",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
-    "status": "En Revisión",
+    "status": "Listo",
     "title": "Estados financieros auditados últimos 3 años",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
@@ -33,18 +45,6 @@
     "status": "En Progreso",
     "title": "Antecedentes técnicos - Formulario A-5",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
-    "status": "En Progreso",
-    "title": "Escritura de constitución y modificación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/275",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
-    "status": "En Progreso",
-    "title": "Poderes del representante legal",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {

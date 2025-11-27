@@ -431,12 +431,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
-    "status": "Listo",
-    "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/335",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDuI": {
     "status": "Aceptado",
     "title": "CV - Benjamín Diaz",
@@ -1871,12 +1865,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/274",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDQs": {
-    "status": "Backlog",
-    "title": "Poderes del representante legal",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/276",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDSE": {
     "status": null,
     "title": "Individualización completa de los socios y de sus asociados",
@@ -1983,6 +1971,12 @@
     "status": "Listo",
     "title": "Poderes del representante legal",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
+    "status": "Listo",
+    "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/335",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrXrU": {

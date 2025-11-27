@@ -1,30 +1,18 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzggKDWw": {
+  "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
     "status": "Listo",
-    "title": "Certificado de antecedentes comerciales",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/280",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
-    "status": "Listo",
-    "title": "Boleta de Garantía de Seriedad",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/269",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrWsk": {
-    "status": "Listo",
-    "title": "Boleta Fiel Cumplimiento Contrato - Proyecto  TFEP-01/2025",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/339",
+    "title": "Escritura de constitución y modificación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/275",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
-    "status": "Listo",
+    "status": "En Revisión",
     "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
     "type": "Issue"
@@ -35,10 +23,28 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
+    "status": "En Progreso",
+    "title": "Boleta de Garantía de Seriedad",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/269",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {
     "status": "Aceptado",
     "title": "EVALUACIÓN FINANCIERA DEL PROYECTO",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/349",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrWsk": {
+    "status": "Aceptado",
+    "title": "Boleta Fiel Cumplimiento Contrato - Proyecto  TFEP-01/2025",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/339",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDWw": {
+    "status": "Aceptado",
+    "title": "Certificado de antecedentes comerciales",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/280",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
@@ -1863,12 +1869,6 @@
     "status": "Backlog",
     "title": "Fotocopia legalizada - Patente comercial",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/274",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
-    "status": "Backlog",
-    "title": "Escritura de constitución y modificación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/275",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDQs": {

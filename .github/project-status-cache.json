@@ -1,10 +1,4 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
-    "status": "En Revisión",
-    "title": "Poderes del representante legal",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
     "status": "Aceptado",
     "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
@@ -39,6 +33,12 @@
     "status": "En Progreso",
     "title": "Escritura de constitución y modificación",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/275",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
+    "status": "En Progreso",
+    "title": "Poderes del representante legal",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {

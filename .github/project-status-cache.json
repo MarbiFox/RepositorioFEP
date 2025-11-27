@@ -1,8 +1,38 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggKDWw": {
+    "status": "Listo",
+    "title": "Certificado de antecedentes comerciales",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/280",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
+    "status": "Listo",
+    "title": "Boleta de Garantía de Seriedad",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/269",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggrWsk": {
+    "status": "Listo",
+    "title": "Boleta Fiel Cumplimiento Contrato - Proyecto  TFEP-01/2025",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/339",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
-    "status": "En Progreso",
+    "status": "Listo",
     "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
+    "status": "Listo",
+    "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
+    "status": "En Progreso",
+    "title": "Antecedentes técnicos - Formulario A-5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {
@@ -341,12 +371,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/286",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
-    "status": "En Progreso",
-    "title": "Boleta de Garantía de Seriedad",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/269",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKD40": {
     "status": "Aceptado",
     "title": "Certificados vigentes - Vicente Mercado",
@@ -401,22 +425,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDeQ": {
-    "status": "En Progreso",
-    "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
     "status": "En Progreso",
     "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/335",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
-    "status": "En Progreso",
-    "title": "Antecedentes técnicos - Formulario A-5",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDuI": {
@@ -1871,12 +1883,6 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/277",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDWw": {
-    "status": "Backlog",
-    "title": "Certificado de antecedentes comerciales",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/280",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDoE": {
     "status": "Aceptado",
     "title": "CV - Rodrigo Araos",
@@ -1977,12 +1983,6 @@
     "status": "Backlog",
     "title": "Poderes del representante legal",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggrWsk": {
-    "status": "Backlog",
-    "title": "Boleta Fiel Cumplimiento Contrato - Proyecto  TFEP-01/2025",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/339",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrXrU": {

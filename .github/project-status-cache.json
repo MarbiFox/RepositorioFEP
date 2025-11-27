@@ -1,14 +1,20 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
+  "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
     "status": "En Revisión",
-    "title": "Escritura de constitución y modificación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/275",
+    "title": "Poderes del representante legal",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
     "status": "Aceptado",
     "title": "Declaración jurada - No afectación por prohibiciones del Art. 4° Ley 19.886",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/282",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
+    "status": "Aceptado",
+    "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/335",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDC4": {
@@ -27,6 +33,12 @@
     "status": "En Progreso",
     "title": "Antecedentes técnicos - Formulario A-5",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
+    "status": "En Progreso",
+    "title": "Escritura de constitución y modificación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/275",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {
@@ -1860,7 +1872,7 @@
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDMc": {
-    "status": "En Progreso",
+    "status": "Aceptado",
     "title": "Fotocopia legalizada - Patente comercial",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/274",
     "type": "Issue"
@@ -1965,18 +1977,6 @@
     "status": "Aceptado",
     "title": "Redactar Subcontrataciones y Alianzas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/317",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
-    "status": "Listo",
-    "title": "Poderes del representante legal",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggZUPc": {
-    "status": "Listo",
-    "title": "Realizar Documento de Garantía de Fiel Cumplimiento del Contrato",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/335",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrXrU": {

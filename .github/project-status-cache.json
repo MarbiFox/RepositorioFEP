@@ -1,14 +1,14 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
-    "status": "En Revisión",
-    "title": "Antecedentes técnicos - Formulario A-5",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
     "status": "Aceptado",
     "title": "Poderes del representante legal",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
+    "status": "Aceptado",
+    "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
@@ -23,22 +23,22 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
-    "status": "Aceptado",
-    "title": "Rut de la empresa y Certificado de vigencia",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDi0": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Antecedentes técnicos - Cartas compromiso de otras empresas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/287",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
-    "status": "Listo",
-    "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
+  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
+    "status": "Aceptado",
+    "title": "Antecedentes técnicos - Formulario A-5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
+    "status": "Aceptado",
+    "title": "Rut de la empresa y Certificado de vigencia",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {

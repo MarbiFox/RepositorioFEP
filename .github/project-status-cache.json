@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
+    "status": "En Revisión",
+    "title": "Rut de la empresa y Certificado de vigencia",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
     "status": "Listo",
     "title": "Escritura de constitución y modificación",
@@ -17,10 +23,10 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
+  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
     "status": "Listo",
-    "title": "Rut de la empresa y Certificado de vigencia",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
+    "title": "Antecedentes técnicos - Formulario A-5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
@@ -45,12 +51,6 @@
     "status": "Aceptado",
     "title": "Declaración jurada - Constitución de domicilio en Valparaíso",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/285",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
-    "status": "En Progreso",
-    "title": "Antecedentes técnicos - Formulario A-5",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggrZK4": {

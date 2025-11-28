@@ -1,4 +1,10 @@
 {
+  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
+    "status": "En Revisión",
+    "title": "Antecedentes técnicos - Formulario A-5",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
     "status": "Aceptado",
     "title": "Poderes del representante legal",
@@ -23,16 +29,16 @@
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
     "type": "Issue"
   },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
-    "status": "Listo",
-    "title": "Antecedentes técnicos - Formulario A-5",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDi0": {
     "status": "Listo",
     "title": "Antecedentes técnicos - Cartas compromiso de otras empresas",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/287",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
+    "status": "Listo",
+    "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
@@ -2217,12 +2223,6 @@
     "status": "En Progreso",
     "title": "Preparación y Diseño de la PPT para la presentación Final",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/399",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggWBTA": {
-    "status": "En Progreso",
-    "title": "Antecedentes Técnicos - Descripción de Contratos del Proponente",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/309",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzghlA8o": {

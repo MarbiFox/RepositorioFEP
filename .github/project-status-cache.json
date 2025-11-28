@@ -1,32 +1,38 @@
 {
-  "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
-    "status": "En Revisión",
-    "title": "Rut de la empresa y Certificado de vigencia",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
-    "status": "Listo",
-    "title": "Escritura de constitución y modificación",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/275",
-    "type": "Issue"
-  },
   "PVTI_lAHOBVxpwc4BAKpgzggZUuE": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Poderes del representante legal",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/337",
     "type": "Issue"
   },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDPo": {
+    "status": "Aceptado",
+    "title": "Escritura de constitución y modificación",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/275",
+    "type": "Issue"
+  },
   "PVTI_lAHOBVxpwc4BAKpgzggKDVU": {
-    "status": "Listo",
+    "status": "Aceptado",
     "title": "Estados financieros auditados últimos 3 años",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/279",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDKQ": {
+    "status": "Aceptado",
+    "title": "Rut de la empresa y Certificado de vigencia",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/273",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDk0": {
     "status": "Listo",
     "title": "Antecedentes técnicos - Formulario A-5",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/288",
+    "type": "Issue"
+  },
+  "PVTI_lAHOBVxpwc4BAKpgzggKDi0": {
+    "status": "Listo",
+    "title": "Antecedentes técnicos - Cartas compromiso de otras empresas",
+    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/287",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDaY": {
@@ -435,12 +441,6 @@
     "status": "Aceptado",
     "title": "Redactar riesgos identificados",
     "url": "https://github.com/MarbiFox/RepositorioFEP/issues/232",
-    "type": "Issue"
-  },
-  "PVTI_lAHOBVxpwc4BAKpgzggKDi0": {
-    "status": "En Progreso",
-    "title": "Antecedentes técnicos - Cartas compromiso de otras empresas",
-    "url": "https://github.com/MarbiFox/RepositorioFEP/issues/287",
     "type": "Issue"
   },
   "PVTI_lAHOBVxpwc4BAKpgzggKDuI": {
